@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, abort, request, Response
 import json
-from MainArgs import parse_date, filter_objects
+from api.MainArgs import parse_date, filter_objects
 from pathlib import Path
 
 PAGE_SIZE = 50
