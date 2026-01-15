@@ -1,0 +1,2929 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 14,
+      "resultCount": 14
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "76",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2025",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2025-12-04",
+            "debateSectionId": "dbsect_12",
+            "showAs": "Electricity (Supply) (Amendment) (No. 2) Bill 2025: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-12-04/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2025-12-02",
+            "debateSectionId": "dbsect_6",
+            "showAs": "Electricity (Supply) (Amendment) (No. 2) Bill 2025: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-12-02/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-12-02"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/76/published"
+            }
+          }
+        ],
+        "lastUpdated": "2025-12-03T09:55:38.490000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to reduce restrictions on the power of the Electricity Supply Board to carry out works concerning the levels on the Shannon Lakes (Lough Derg, Lough Ree and Lough Allen), to amend the Electricity (Supply) (Amendment) (No. 2) Act 1934 and to provide for related matters.</p>",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do laghdú srianta ar chumhacht Bhord Soláthair an Leictreachais oibreacha a dhéanamh maidir leis na leibhéil ar Lochanna na Sionainne (Loch Deirgeirt, Loch Rí agus Loch Aillionn), do leasú an Achta Leictreachais (Soláthar) (Leasú) (Uimh. 2), 1934 agus do dhéanamh socrú i dtaobh nithe gaolmhara.</p>",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2025-12-02"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "27",
+              "showAs": "27th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/76/stage/seanad/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [],
+        "shortTitleEn": "Electricity (Supply) (Amendment) (No. 2) Bill 2025",
+        "shortTitleGa": "An Bille Leictreachais (Soláthar) (Leasú) (Uimh. 2), 2025",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Daly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Daly.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-12-02"
+                },
+                {
+                  "date": "2025-12-02"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "27",
+                "showAs": "27th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/76/stage/seanad/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-12-02"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "27",
+                "showAs": "27th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/76/stage/seanad/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/76",
+        "versions": [
+          {
+            "version": {
+              "date": "2025-12-02",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/76/eng/initiated/b7625s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/76/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 76,
+        "billShortTitleEnSort": "electricity-supply-amendment-no-2-bill-2025",
+        "billShortTitleGaSort": "an-bille-leictreachais-solathar-leasu-uimh-2-2025",
+        "billYearSort": 2025
+      },
+      "contextDate": "2025-12-02"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "17",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2025",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2025-04-30",
+            "debateSectionId": "dbsect_9",
+            "showAs": "Protection of Retail Workers Bill 2025: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-04-30/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2025-04-29",
+            "debateSectionId": "dbsect_10",
+            "showAs": "Protection of Retail Workers Bill 2025: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-04-29/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-03-31"
+                },
+                {
+                  "date": "2025-04-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/17/admissibility-for-introduction"
+            }
+          }
+        ],
+        "lastUpdated": "2025-08-14T14:32:21.070000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend the Criminal Justice (Public Order) Act 1994 to create specific offences for assaulting or threatening retail workers carrying out their employment.</p>",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú an Achta um Cheartas Coiriúil (Ord Poiblí), 1994 chun cionta sonracha a chruthú arb éard iad ionsaí nó bagairt a dhéanamh ar oibrithe miondíola atá ag gabháil dá bhfostaíocht.</p>",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2025-04-29"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "27",
+              "showAs": "27th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/17/stage/seanad/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [],
+        "shortTitleEn": "Protection of Retail Workers Bill 2025",
+        "shortTitleGa": "An Bille um Oibrithe Miondíola a Chosaint, 2025",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Mary Fitzpatrick",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Fitzpatrick.S.2020-06-29"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joe Flaherty",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-Flaherty.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Teresa Costello",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Teresa-Costello.S.2025-01-29"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-03-31"
+                },
+                {
+                  "date": "2025-04-29"
+                },
+                {
+                  "date": "2025-04-29"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "27",
+                "showAs": "27th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/17/stage/seanad/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-04-29"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "27",
+                "showAs": "27th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/17/stage/seanad/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/17",
+        "versions": [
+          {
+            "version": {
+              "date": "2025-04-29",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/17/eng/initiated/b1725s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/17/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 17,
+        "billShortTitleEnSort": "protection-of-retail-workers-bill-2025",
+        "billShortTitleGaSort": "an-bille-um-oibrithe-miondiola-a-chosaint-2025",
+        "billYearSort": 2025
+      },
+      "contextDate": "2025-04-29"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "57",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2019",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2019-07-11",
+            "debateSectionId": "dbsect_20",
+            "showAs": "Valuation (Amendment) Bill 2019: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-07-11/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-06-21"
+                },
+                {
+                  "date": "2019-07-11"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Valuation Act 2001 to exempt childcare services providers from commercial rates.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta Luachála, 2001 chun soláthraithe seirbhísí cúraim leanaí a dhíolmhú ó rátaí tráchtála.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2019-06-21"
+              },
+              {
+                "date": "2019-07-11"
+              },
+              {
+                "date": "2019-07-11"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2019-07-11",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/eng/memo/b5719dmemo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Valuation (Amendment) Bill 2019",
+        "shortTitleGa": "An Bille Luachála (Leasú), 2019",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-06-21"
+                },
+                {
+                  "date": "2019-07-11"
+                },
+                {
+                  "date": "2019-07-11"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57",
+        "versions": [
+          {
+            "version": {
+              "date": "2019-07-11",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/eng/initiated/b5719d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/57/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 57,
+        "billShortTitleEnSort": "valuation-amendment-bill-2019",
+        "billShortTitleGaSort": "an-bille-luachala-leasu-2019",
+        "billYearSort": 2019
+      },
+      "contextDate": "2019-07-11"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "53",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2019",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2019-07-03",
+            "debateSectionId": "dbsect_19",
+            "showAs": "Health (Amendment) (No. 2) Bill 2019: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-07-03/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-05-28"
+                },
+                {
+                  "date": "2019-07-03"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Health Act 2007 to enable the Health Information and Quality Authority (HIQA) to enforce national standards in relation to foster care provision, children detention schools, children residential centres and the Child and Family Agency (Tusla); and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta Sláinte, 2007, chun a chumasú don Údarás um Fhaisnéis agus Cáilíocht Sláinte (HIQA) caighdeáin náisiúnta a fhorfheidhmiú i ndáil le soláthar cúraim altrama, le scoileanna coinneála leanaí, le hionaid chónaithe do leanaí agus leis an nGníomhaireacht um Leanaí agus an Teaghlach (Tusla); agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2019-05-28"
+              },
+              {
+                "date": "2019-07-03"
+              },
+              {
+                "date": "2019-07-03"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2019-07-03",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/eng/memo/b5319dmemo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Health (Amendment) (No. 2) Bill 2019",
+        "shortTitleGa": "An Bille Sláinte (Leasú) (Uimh. 2), 2019",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-05-28"
+                },
+                {
+                  "date": "2019-07-03"
+                },
+                {
+                  "date": "2019-07-03"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53",
+        "versions": [
+          {
+            "version": {
+              "date": "2019-07-03",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/eng/initiated/b5319d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/53/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 53,
+        "billShortTitleEnSort": "health-amendment-no-2-bill-2019",
+        "billShortTitleGaSort": "an-bille-slainte-leasu-uimh-2-2019",
+        "billYearSort": 2019
+      },
+      "contextDate": "2019-07-03"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "23",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2019",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2019-03-26",
+            "debateSectionId": "dbsect_8",
+            "showAs": "Parental Bereavement Leave (Amendment) Bill 2019: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-03-26/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-02-12"
+                },
+                {
+                  "date": "2019-03-26"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Parental Leave Acts 1998 and 2006 to make provision for an entitlement to bereavement leave to an employee who is a bereaved parent of a child who has died and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú na nAchtanna um Shaoire do Thuismitheoirí, 1998 agus 2006 chun socrú a dhéanamh maidir le teideal chun saoire méala a bheith ag fostaí is tuismitheoir ar éag leanbh dá chuid nó dá cuid, agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2019-02-12"
+              },
+              {
+                "date": "2019-03-26"
+              },
+              {
+                "date": "2019-03-26"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2019-03-26",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/eng/memo/b2319dmemo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Parental Bereavement Leave (Amendment) Bill 2019",
+        "shortTitleGa": "An Bille um Shaoire Mhéala do Thuismitheoirí (Leasú), 2019",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-02-12"
+                },
+                {
+                  "date": "2019-03-26"
+                },
+                {
+                  "date": "2019-03-26"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23",
+        "versions": [
+          {
+            "version": {
+              "date": "2019-03-26",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/eng/initiated/b2319d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/23/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 23,
+        "billShortTitleEnSort": "parental-bereavement-leave-amendment-bill-2019",
+        "billShortTitleGaSort": "an-bille-um-shaoire-mheala-do-thuismitheoiri-leasu-2019",
+        "billYearSort": 2019
+      },
+      "contextDate": "2019-03-26"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "127",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2018",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-11-21",
+            "debateSectionId": "dbsect_15",
+            "showAs": "Childcare Price Transparency Bill 2018: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-11-21/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-11-21"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/127/published"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/127/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to require all childcare providers to provide price notices outlining the prices charged for each of their services in their physical premises and on any online platform which their business maintains for the purposes of advertising their services; and to allow the Minister to establish a National Childcare Price Register. ",
+        "longTitleGa": "Bille dá ngairtear Acht dá cheangal ar gach soláthraí cúraim leanaí praghasfhógraí a sholáthar ina leagfar amach na praghsanna a ghearrtar ar gach seirbhís dá gcuid, ina n-áitreabh fisiciúil agus ar aon ardán ar líne arna chothabháil ag a ngnó chun a gcuid seirbhísí a fhógairt; agus dá cheadú don Aire Clár Náisiúnta um Praghsanna Cúraim Leanaí a bhunú.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2018-11-21"
+              },
+              {
+                "date": "2018-11-21"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/127/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Childcare Price Transparency Bill 2018",
+        "shortTitleGa": "An Bille um Thrédhearcacht i dtaobh Praghsanna Cúraim Leanaí, 2018",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-11-21"
+                },
+                {
+                  "date": "2018-11-21"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/127/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/127",
+        "versions": [
+          {
+            "version": {
+              "date": "2018-11-21",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/127/eng/initiated/b12718d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/127/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 127,
+        "billShortTitleEnSort": "childcare-price-transparency-bill-2018",
+        "billShortTitleGaSort": "an-bille-um-thredhearcacht-i-dtaobh-praghsanna-curaim-leanai-2018",
+        "billYearSort": 2018
+      },
+      "contextDate": "2018-11-21"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "38",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2018",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-04-19",
+            "debateSectionId": "dbsect_20",
+            "showAs": "Child Care (Amendment) Bill 2018: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-04-19/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-04-19"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/38/published"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/38/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend section 12 of the Child Care Act 1991 to ensure that a child care service provider has lawful authority to retain custody of a child prior to the making of any emergency care order",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú alt 12 den Acht um Chúram Leanaí, 1991 chun a chinntiú go mbeidh údarás dleathach ag soláthraí seirbhíse cúraim leanaí chun leanbh a choinneáil faoi choimeád sula ndéanfar aon ordú cúraim éigeandála",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2018-04-19"
+              },
+              {
+                "date": "2018-04-19"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/38/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Child Care (Amendment) Bill 2018",
+        "shortTitleGa": "An Bille um Chúram Leanaí (Leasú), 2018",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jim O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jim-O'Callaghan.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-04-19"
+                },
+                {
+                  "date": "2018-04-19"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/38/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/38",
+        "versions": [
+          {
+            "version": {
+              "date": "2018-04-19",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/38/eng/initiated/b3818d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/38/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 38,
+        "billShortTitleEnSort": "child-care-amendment-bill-2018",
+        "billShortTitleGaSort": "an-bille-um-churam-leanai-leasu-2018",
+        "billYearSort": 2018
+      },
+      "contextDate": "2018-04-19"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "27",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2018",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-03-07",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Criminal Law (Recruitment of Children to Engage in Criminal Activity) Bill 2018: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-03-07/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/27/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2018-03-07"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/27/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to make provision for the creation of an offence in circumstances where an adult recruits a child to carry out a criminal offence on his or her behalf and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do dhéanamh socrú chun cion a chruthú in imthosca ina ndéanfaidh aosach leanbh a earcú chun cion coiriúil a dhéanamh thar a cheann nó thar a ceann agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2018-03-07"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/27/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Criminal Law (Recruitment of Children to Engage in Criminal Activity) Bill 2018",
+        "shortTitleGa": "An Bille um an Dlí Coiriúil (Leanaí a Earcú chun Gabháil do Ghníomhaíocht Choiriúil), 2018",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-03-07"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/27/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/27",
+        "versions": [
+          {
+            "version": {
+              "date": "2018-03-07",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/27/eng/initiated/b2718d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/27/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 27,
+        "billShortTitleEnSort": "criminal-law-recruitment-of-children-to-engage-in-criminal-activity-bill-2018",
+        "billShortTitleGaSort": "an-bille-um-an-dli-coiriuil-leanai-a-earcu-chun-gabhail-do-ghniomhaiocht-choiriuil-2018",
+        "billYearSort": 2018
+      },
+      "contextDate": "2018-03-07"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "26",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2018",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-09",
+            "debateSectionId": "dbsect_30",
+            "showAs": "Gambling Control Bill 2018: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-09/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-09",
+            "debateSectionId": "dbsect_31",
+            "showAs": "Gambling Control Bill 2018: Referral to Select Committee [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-09/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-02-21",
+            "debateSectionId": "dbsect_21",
+            "showAs": "Gambling Control Bill 2018: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-02-21/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2018-02-21"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to establish a framework for the regulation, including licensing, of gambling in Ireland and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do bhunú creat chun an cearrbhachas a rialáil, lena n-áirítear é a cheadúnú, in Éirinn agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2018-02-21"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Gambling Control Bill 2018",
+        "shortTitleGa": "An Bille um Rialú Cearrbhachais, 2018",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jack Chambers",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jack-Chambers.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jim O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jim-O'Callaghan.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-02-21"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-02-21"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26",
+        "versions": [
+          {
+            "version": {
+              "date": "2018-02-21",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26/eng/initiated/b2618d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/26/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 26,
+        "billShortTitleEnSort": "gambling-control-bill-2018",
+        "billShortTitleGaSort": "an-bille-um-rialu-cearrbhachais-2018",
+        "billYearSort": 2018
+      },
+      "contextDate": "2018-02-21"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "23",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2018",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-31",
+            "debateSectionId": "dbsect_69",
+            "showAs": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-31/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-31",
+            "debateSectionId": "dbsect_70",
+            "showAs": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018: Referral to Select Committee [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-31/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-02-22",
+            "debateSectionId": "dbsect_21",
+            "showAs": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-02-22/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2018-02-22"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to provide maternity leave for female members of the Houses of the Oireachtas and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do sholáthar saoire mháithreachais do mhná ar comhaltaí de Thithe an Oireachtais iad agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2018-02-22"
+              },
+              {
+                "date": "2018-02-22"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018",
+        "shortTitleGa": "An Bille um Chosaint Mháithreachais (Comhaltaí de Thithe an Oireachtais), 2018",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Niamh Smyth",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-02-22"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-02-22"
+                },
+                {
+                  "date": "2018-02-22"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23",
+        "versions": [
+          {
+            "version": {
+              "date": "2018-02-22",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/eng/initiated/b2318d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 23,
+        "billShortTitleEnSort": "maternity-protection-members-of-the-houses-of-the-oireachtas-bill-2018",
+        "billShortTitleGaSort": "an-bille-um-chosaint-mhaithreachais-comhaltai-de-thithe-an-oireachtais-2018",
+        "billYearSort": 2018
+      },
+      "contextDate": "2018-02-22"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "121",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2017",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-10-26",
+            "debateSectionId": "dbsect_6",
+            "showAs": "Maternity Protection (Local Government Members) Bill 2017: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-10-26/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/121/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2017-10-26"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/121/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Local Government Act 2001 to allow local government members take full maternity leave",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta Rialtais Áitiúil, 2001 chun a cheadú do chomhaltaí rialtais áitiúil saoire mháithreachais iomlán a thógáil",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2017-10-26"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/121/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Maternity Protection (Local Government Members) Bill 2017",
+        "shortTitleGa": "An Bille um Chosaint Mháithreachais (Comhaltaí Rialtais Áitiúil), 2017",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-10-26"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/121/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/121",
+        "versions": [
+          {
+            "version": {
+              "date": "2017-10-26",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/121/eng/initiated/b12117d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/121/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 121,
+        "billShortTitleEnSort": "maternity-protection-local-government-members-bill-2017",
+        "billShortTitleGaSort": "an-bille-um-chosaint-mhaithreachais-comhaltai-rialtais-aitiuil-2017",
+        "billYearSort": 2017
+      },
+      "contextDate": "2017-10-26"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "120",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2017",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-10-26",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Planning and Development (Strategic Infrastructure) (Amendment) Bill 2017: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-10-26/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/120/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2017-10-26"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/120/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Planning and Development Act 2000 to allow data centres and other key IT infrastructure to be included in the criteria for access to the Strategic Development planning procedure",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Pleanáil agus Forbairt 2000 chun a cheadú lárionaid sonraí agus bonneagar ríthábhachtach TF eile a bheith ar áireamh sna critéir chun rochtain a fháil ar an nós imeachta maidir le Forbairt Straitéiseach a phleanáil",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2017-10-26"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/120/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Planning and Development (Strategic Infrastructure) (Amendment) Bill 2017",
+        "shortTitleGa": "An Bille um Pleanáil agus Forbairt (Bonneagar Straitéiseach) (Leasú), 2017",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-10-26"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/120/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/120",
+        "versions": [
+          {
+            "version": {
+              "date": "2017-10-26",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/120/eng/initiated/b12017d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/120/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 120,
+        "billShortTitleEnSort": "planning-and-development-strategic-infrastructure-amendment-bill-2017",
+        "billShortTitleGaSort": "an-bille-um-pleanail-agus-forbairt-bonneagar-straiteiseach-leasu-2017",
+        "billYearSort": 2017
+      },
+      "contextDate": "2017-10-26"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "12",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2017",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-02-01",
+            "debateSectionId": "dbsect_6",
+            "showAs": "Electricity (Supply) (Amendment) Bill 2017: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-02-01/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/12/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2017-02-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/12/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to reduce restrictions on the power of the Electricity Supply Board to carry out works concerning the levels on the Shannon Lakes (Lough Derg, Lough Ree and Lough Allen), to amend the Electricity (Supply) (Amendment) (No. 2) Act 1934 and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do laghdú srianta ar chumhacht Bhord Soláthair an Leictreachais oibreacha a dhéanamh maidir leis na leibhéil ar Lochanna na Sionainne (Loch Deirgeirt, Loch Rí agus Loch Aillionn), do leasú an Achta Leictreachais (Soláthar) (Leasú) (Uimh. 2), 1934 agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2017-02-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/12/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Electricity (Supply) (Amendment) Bill 2017",
+        "shortTitleGa": "An Bille Leictreachais (Soláthar) (Leasú), 2017",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Eugene Murphy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eugene-Murphy.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Robert Troy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robert-Troy.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-02-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/12/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/12",
+        "versions": [
+          {
+            "version": {
+              "date": "2017-02-02",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/12/eng/initiated/b1202d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/12/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 12,
+        "billShortTitleEnSort": "electricity-supply-amendment-bill-2017",
+        "billShortTitleGaSort": "an-bille-leictreachais-solathar-leasu-2017",
+        "billYearSort": 2017
+      },
+      "contextDate": "2017-02-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "54",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2016",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2016-07-14",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Au Pair Placement Bill 2016: Second Stage (Resumed) [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2016-07-14/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2016-07-13",
+            "debateSectionId": "dbsect_29",
+            "showAs": "Au Pair Placement Bill 2016: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2016-07-13/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2016-06-30",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Au Pair Placement Bill 2016: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2016-06-30/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2016-07-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-defeated",
+              "showAs": "Bill Defeated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54/bill-defeated"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2016-06-30"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54/published"
+            }
+          }
+        ],
+        "lastUpdated": "2018-04-17T14:40:00.760000+00:00",
+        "longTitleEn": "for the purposes of the better protection of rights of young people on cultural and education exchange programmes with no more than 30 hours light domestic help per week in exchange for hospitality, lodging and pocket money, to be known as 'Au Pair Placements'; to set up a new Au Pair Accreditation Council tasked with the protection of these rights and the oversight and registration of Au Pair Placements; to give the relevant Minister powers to make regulations defining the rights and responsibilities of those participating in Au Pair exchanges, accredited agencies and the Au Pair Accreditation Council",
+        "longTitleGa": "Bille dá ngairtear Acht chun gur fearr a chosnófar cearta daoine óga atá ar chláir malartaithe chultúrtha agus oideachais ina ndéantar 30 uair an chloig oibre éadroime tí ar a mhéad in aghaidh na seachtaine mar mhalairt ar fháilteachas, lóistín agus airgead póca, ar a dtabharfar 'Ionadúcháin Au Pair'; do bhunú Comhairle Creidiúnúcháin Au Pair nua a mbeidh sé de chúram uirthi na cearta sin a chosaint agus maoirseacht agus clárú a dhéanamh ar Ionadúcháin Au Pair; do thabhairt cumhachtaí don Aire iomchuí chun rialacháin a dhéanamh ina míneofar cearta agus freagrachtaí daoine atá páirteach i malartuithe Au Pair, gníomhaireachtaí creidiúnaithe agus na Comhairle Creidiúnúcháin Au Pair",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2016-06-30"
+              },
+              {
+                "date": "2016-06-30"
+              },
+              {
+                "date": "2016-06-30"
+              },
+              {
+                "date": "2016-06-30"
+              },
+              {
+                "date": "2016-06-30"
+              },
+              {
+                "date": "2016-06-30"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": "Defeated",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Au Pair Placement Bill 2016",
+        "shortTitleGa": "An Bille um Ionadúchán Au Pair, 2016",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2016-06-30"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2016-06-30"
+                },
+                {
+                  "date": "2016-06-30"
+                },
+                {
+                  "date": "2016-06-30"
+                },
+                {
+                  "date": "2016-06-30"
+                },
+                {
+                  "date": "2016-06-30"
+                },
+                {
+                  "date": "2016-06-30"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": "Defeated",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Defeated",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/defeated",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54",
+        "versions": [
+          {
+            "version": {
+              "date": "2016-06-30",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54/eng/initiated/b5416d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/54/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 54,
+        "billShortTitleEnSort": "au-pair-placement-bill-2016",
+        "billShortTitleGaSort": "an-bille-um-ionaduchan-au-pair-2016",
+        "billYearSort": 2016
+      },
+      "contextDate": "2016-06-30"
+    }
+  ]
+}

@@ -1,0 +1,3663 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 11,
+      "resultCount": 11
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "8",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2025",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-03-20",
+            "debateSectionId": "dbsect_34",
+            "showAs": "An Bille um an Naoú Leasú is Tríocha ar an mBunreacht (Mionn Oifige Breithiúnach), 2025: An Chéad Chéim",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-20/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-03-20",
+            "debateSectionId": "dbsect_35",
+            "showAs": "Thirty-ninth Amendment of the Constitution (Judicial Oath of Office) Bill 2025: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-20/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-02-07"
+                },
+                {
+                  "date": "2025-02-07"
+                },
+                {
+                  "date": "2025-03-20"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/approved-for-initiation"
+            }
+          }
+        ],
+        "lastUpdated": "2025-03-21T09:55:24.180000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend the Constitution.</p>",
+        "longTitleGa": "<p>Bille dá ngairtear Acht chun an Bunreacht a leasú.</p>",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2025-03-20"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "34",
+              "showAs": "34th Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2025-03-20",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/mul/memo/b0825d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "mul",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/mul/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Thirty-ninth Amendment of the Constitution (Judicial Oath of Office) Bill 2025",
+        "shortTitleGa": "An Bille um an Naoú Leasú is Tríocha ar an mBunreacht (Mionn Oifige Breithiúnach), 2025",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-02-07"
+                },
+                {
+                  "date": "2025-02-07"
+                },
+                {
+                  "date": "2025-03-20"
+                },
+                {
+                  "date": "2025-03-20"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-03-20"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8",
+        "versions": [
+          {
+            "version": {
+              "date": "2025-03-20",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/mul/initiated/b0825d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "mul",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/8/mul/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 8,
+        "billShortTitleEnSort": "thirty-ninth-amendment-of-the-constitution-judicial-oath-of-office-bill-2025",
+        "billShortTitleGaSort": "an-bille-um-an-naou-leasu-is-triocha-ar-an-mbunreacht-mionn-oifige-breithiunach-2025",
+        "billYearSort": 2025
+      },
+      "contextDate": "2025-03-20"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "12",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2024",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2024-03-05",
+            "debateSectionId": "dbsect_10",
+            "showAs": "Improved Rail Passenger Rights with Compensation for Delays and Cancellations Bill 2024: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-03-05/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2024-02-26"
+                },
+                {
+                  "date": "2024-03-05"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to require the National Transport Authority (NTA) to produce a report, to be delivered to the Minister of the Government with responsibility for a Department of State covering rail transport on the way in which the State may improve and strengthen rail passenger rights above and beyond the minimum requirements set down in EU secondary law, including Regulation 2021/782, with particular regard to delayed and cancelled railway services, including the modalities of rail passengers rights on the access to compensation for delays and cancellations; to require the NTA to periodically produce a report to be delivered to the Minister of the Government with responsibility for a Department of State covering rail transport on the implementation of the EU secondary law and national law on rail passenger rights; and to provide for related matters.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht dá cheangal ar an Údarás Náisiúnta Iompair (ÚNI) tuarascáil a chur ar fáil, a bheidh le seachadadh ar an Aire den Rialtas atá freagrach as Roinn Stáit a bhfuil iompar d’iarnród faoina scáth, maidir leis an tslí ar a bhféadfaidh an Stát cearta do phaisinéirí iarnróid a fheabhsú agus a neartú sa bhreis ar na ceanglais íosta atá leagtha síos i ndlí tánaisteach AE, lena n-áirítear Rialachán 2021/782, le haird ar leith ar sheirbhísí iarnróid moillithe agus cealaithe, lena n-áirítear na módúlachtaí a bhaineann le cearta do phaisinéirí iarnróid i ndáil le rochtain ar chúiteamh i moilleanna agus i gcealuithe; dá cheangal ar ÚNI tuarascáil a chur ar fáil go tréimhsiúil, a bheidh le seachadadh ar an Aire den Rialtas atá freagrach as Roinn Stáit a bhfuil iompar d’iarnród faoina scáth, maidir le dlí tánaisteach AE agus an dlí náisiúnta a bhaineann le cearta do phaisinéirí iarnróid a chur i ngníomh; agus do dhéanamh socrú i dtaobh nithe gaolmhara.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2024-02-26"
+              },
+              {
+                "date": "2024-03-05"
+              },
+              {
+                "date": "2024-03-05"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2024-03-05",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/eng/memo/b1224s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Improved Rail Passenger Rights with Compensation for Delays and Cancellations Bill 2024",
+        "shortTitleGa": "An Bille um Chearta Feabhsaithe do Phaisinéirí Iarnróid le Cúiteamh i Moilleanna agus i gCealuithe, 2024",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Martin Conway",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Conway.S.2011-05-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Mary Seery Kearney",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Seery-Kearney.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John Cummins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Cummins.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Garret Ahearn",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Garret-Ahearn.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Emer Currie",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Aisling Dolan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dolan.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Tim Lombard",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tim-Lombard.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Micheál Carrigy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John McGahon",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-McGahon.S.2020-03-30"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Regina Doherty",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Regina-Doherty.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2024-02-26"
+                },
+                {
+                  "date": "2024-03-05"
+                },
+                {
+                  "date": "2024-03-05"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12",
+        "versions": [
+          {
+            "version": {
+              "date": "2024-03-05",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/eng/initiated/b1224s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/12/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 12,
+        "billShortTitleEnSort": "improved-rail-passenger-rights-with-compensation-for-delays-and-cancellations-bill-2024",
+        "billShortTitleGaSort": "an-bille-um-chearta-feabhsaithe-do-phaisineiri-iarnroid-le-cuiteamh-i-moilleanna-agus-i-gcealuithe-2024",
+        "billYearSort": 2024
+      },
+      "contextDate": "2024-03-05"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "88",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2023",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2023-11-29",
+            "debateSectionId": "dbsect_9",
+            "showAs": "Misuse of Drugs (Amendment) (Control of Nitrous Oxide) Bill 2023: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2023-11-29/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-11-27"
+                },
+                {
+                  "date": "2023-11-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "<p style=\"text-align:justify\">Bill entitled an Act to amend the Misuse of Drugs Act 1977 and to provide for related matters.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú an Achta um Mí-Úsáid Drugaí, 1977 agus do dhéanamh socrú i dtaobh nithe gaolmhara.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2023-11-27"
+              },
+              {
+                "date": "2023-11-29"
+              },
+              {
+                "date": "2023-11-29"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2023-11-29",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/eng/memo/b8823s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Misuse of Drugs (Amendment) (Control of Nitrous Oxide) Bill 2023",
+        "shortTitleGa": "An Bille um Mí-Úsáid Drugaí (Leasú) (Ocsaíd Nítriúil a Rialú), 2023",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John Cummins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Cummins.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John McGahon",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-McGahon.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joe O'Reilly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Reilly.S.1989-10-01"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Martin Conway",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Conway.S.2011-05-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Maria Byrne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maria-Byrne.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Garret Ahearn",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Garret-Ahearn.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Tim Lombard",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tim-Lombard.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Aisling Dolan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dolan.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Seán Kyne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Micheál Carrigy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paddy Burke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paddy-Burke.S.1993-02-17"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Mary Seery Kearney",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Seery-Kearney.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Regina Doherty",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Regina-Doherty.D.2011-03-09"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Emer Currie",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-11-27"
+                },
+                {
+                  "date": "2023-11-29"
+                },
+                {
+                  "date": "2023-11-29"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88",
+        "versions": [
+          {
+            "version": {
+              "date": "2023-11-29",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/eng/initiated/b8823s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/88/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 88,
+        "billShortTitleEnSort": "misuse-of-drugs-amendment-control-of-nitrous-oxide-bill-2023",
+        "billShortTitleGaSort": "an-bille-um-mi-usaid-drugai-leasu-ocsaid-nitriuil-a-rialu-2023",
+        "billYearSort": 2023
+      },
+      "contextDate": "2023-11-29"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "49",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2023",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2023-06-01",
+            "debateSectionId": "dbsect_10",
+            "showAs": "Consumer Insurance Contracts (Amendment) Bill 2023: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2023-06-01/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-04-03"
+                },
+                {
+                  "date": "2023-05-29"
+                },
+                {
+                  "date": "2023-06-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "<p style=\"text-align:justify\">Bill entitled an Act to amend the Consumer Insurance Contracts Act 2019 to prevent the use of any average clause by insurance providers.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú an Achta um Chonarthaí Árachais i leith Tomhaltóirí, 2019 chun cosc a chur ar sholáthraithe árachais aon fhoráil chaillroinnte a úsáid.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2023-04-03"
+              },
+              {
+                "date": "2023-05-29"
+              },
+              {
+                "date": "2023-06-01"
+              },
+              {
+                "date": "2023-06-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2023-06-01",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/mul/memo/b4923s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "mul",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/mul/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Consumer Insurance Contracts (Amendment) Bill 2023",
+        "shortTitleGa": "An Bille um Chonarthaí Árachais i leith Tomhaltóirí (Leasú), 2023",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-04-03"
+                },
+                {
+                  "date": "2023-05-29"
+                },
+                {
+                  "date": "2023-06-01"
+                },
+                {
+                  "date": "2023-06-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49",
+        "versions": [
+          {
+            "version": {
+              "date": "2023-06-01",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/mul/initiated/b4923s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "mul",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/49/mul/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 49,
+        "billShortTitleEnSort": "consumer-insurance-contracts-amendment-bill-2023",
+        "billShortTitleGaSort": "an-bille-um-chonarthai-arachais-i-leith-tomhaltoiri-leasu-2023",
+        "billYearSort": 2023
+      },
+      "contextDate": "2023-06-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "45",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2023",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2023-10-25",
+            "debateSectionId": "dbsect_9",
+            "showAs": "Non-Fatal Offences against the Person (Amendment) (Spiking) Bill 2023: Committee Stage (Resumed) and Remaining Stages",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2023-10-25/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2023-07-12",
+            "debateSectionId": "dbsect_14",
+            "showAs": "Non-Fatal Offences against the Person (Amendment) (Spiking) Bill 2023: Committee Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2023-07-12/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2023-05-31",
+            "debateSectionId": "dbsect_14",
+            "showAs": " Non-Fatal Offences against the Person (Amendment) (Spiking) Bill 2023: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2023-05-31/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2023-05-25",
+            "debateSectionId": "dbsect_9",
+            "showAs": "Non-Fatal Offences against the Person (Amendment) (Spiking) Bill 2023: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2023-05-25/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-05-18"
+                },
+                {
+                  "date": "2023-05-23"
+                },
+                {
+                  "date": "2023-05-25"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-02T12:10:31.660000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to provide for the specific offence of spiking characterised by the administration, injection, or causation of the taking orally of a substance, knowing that the person to whom the substance is administered, injected, or caused to be taken does not consent, or being reckless as to whether the person consents, and where the perpetrator intends to overpower or sedate the person, to engage in a sexual act, cause harm, make a gain or cause a loss, or otherwise commit an offence.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do dhéanamh socrú maidir leis an gcion sonrach arb éard é spíceáil arb é a príomhthréith substaint a thabhairt nó a instealladh, nó glacadh substainte de bhéal a chur faoi deara, i gcás gurb eol nach bhfuil an duine dá dtugtar an tsubstaint, ina n-instealltar an tsubstaint nó a gcuirtear faoi deara é nó í do ghlacadh na substainte de bhéal ag toiliú, nó go bhfuiltear meargánta i dtaobh an bhfuil an duine ag toiliú, agus go mbeartaíonn déantóir an chiona an duine a smachtú nó a thámhú, chun dul i mbun gníomh gnéasach, díobháil a dhéanamh, gnóchan a dhéanamh nó caillteanas a thabhairt, nó cion a dhéanamh ar shlí eile.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2024-11-08"
+              },
+              {
+                "date": "2025-05-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 6,
+            "showAs": "Second Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [],
+        "shortTitleEn": "Non-Fatal Offences against the Person (Amendment) (Spiking) Bill 2023",
+        "shortTitleGa": "An Bille um Chionta Neamh-Mharfacha in aghaidh an Duine (Leasú) (Spíceáil), 2023",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John Cummins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Cummins.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Emer Currie",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joe O'Reilly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Reilly.S.1989-10-01"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Mary Seery Kearney",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Seery-Kearney.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Aisling Dolan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dolan.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Seán Kyne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Tim Lombard",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tim-Lombard.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John McGahon",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-McGahon.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Garret Ahearn",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Garret-Ahearn.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paddy Burke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paddy-Burke.S.1993-02-17"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Maria Byrne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maria-Byrne.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Micheál Carrigy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Martin Conway",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Conway.S.2011-05-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Regina Doherty",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Regina-Doherty.D.2011-03-09"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-05-18"
+                },
+                {
+                  "date": "2023-05-23"
+                },
+                {
+                  "date": "2023-05-25"
+                },
+                {
+                  "date": "2023-05-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/stage/seanad/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-05-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/stage/seanad/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-05-31"
+                },
+                {
+                  "date": "2023-05-31"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/stage/seanad/3"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-10-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 4,
+              "showAs": "Report Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/4",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/stage/seanad/4"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-10-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 5,
+              "showAs": "Fifth Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/5",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/stage/seanad/5"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 6,
+              "showAs": "Second Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45",
+        "versions": [
+          {
+            "version": {
+              "date": "2023-05-25",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/eng/initiated/b4523s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/45/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 45,
+        "billShortTitleEnSort": "non-fatal-offences-against-the-person-amendment-spiking-bill-2023",
+        "billShortTitleGaSort": "an-bille-um-chionta-neamh-mharfacha-in-aghaidh-an-duine-leasu-spiceail-2023",
+        "billYearSort": 2023
+      },
+      "contextDate": "2025-05-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "30",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2023",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2023-03-29",
+            "debateSectionId": "dbsect_11",
+            "showAs": "Criminal Justice (Juvenile Offenders) Bill 2023: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2023-03-29/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-03-29"
+                },
+                {
+                  "date": "2023-04-21"
+                },
+                {
+                  "date": "2023-04-24"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/published"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend the Criminal Justice Act 1990 to provide for non-mandatory life sentences for juvenile offenders in cases of treason and murder, to expand the provisions of section 99 of the Criminal Justice Act 2006 relating to suspended sentences to include juvenile offenders, and to amend the Children Act 2001 to allow judicial discretion in setting the terms of a detention and supervision order.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú an Achta um Cheartas Coiriúil, 1990 chun socrú a dhéanamh maidir le pianbhreitheanna saoil neamh-shainordaitheacha d’ógchiontóirí i gcásanna tréasa agus dúnmharaithe, do leathnú na bhforálacha d’alt 99 den Acht um Cheartas Coiriúil, 2006 a bhaineann le pianbhreitheanna fionraithe chun ógchiontóirí a áireamh, agus do leasú Acht na Leanaí, 2001 chun rogha bhreithiúnach a cheadú le linn téarmaí ordaithe coinneála agus maoirseachta a shocrú.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2023-03-29"
+              },
+              {
+                "date": "2023-03-29"
+              },
+              {
+                "date": "2023-04-21"
+              },
+              {
+                "date": "2023-04-24"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2023-03-29",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/eng/memo/b3023s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Criminal Justice (Juvenile Offenders) Bill 2023",
+        "shortTitleGa": "An Bille um Cheartas Coiriúil (Ógchiontóirí), 2023",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2023-03-29"
+                },
+                {
+                  "date": "2023-03-29"
+                },
+                {
+                  "date": "2023-04-21"
+                },
+                {
+                  "date": "2023-04-24"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30",
+        "versions": [
+          {
+            "version": {
+              "date": "2023-03-29",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/eng/initiated/b3023s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/30/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 30,
+        "billShortTitleEnSort": "criminal-justice-juvenile-offenders-bill-2023",
+        "billShortTitleGaSort": "an-bille-um-cheartas-coiriuil-ogchiontoiri-2023",
+        "billYearSort": 2023
+      },
+      "contextDate": "2023-04-24"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "149",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2021-11-30",
+            "debateSectionId": "dbsect_10",
+            "showAs": "Horticultural Peat (Temporary Measures) Bill 2021: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2021-11-30/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2021-11-23",
+            "debateSectionId": "dbsect_11",
+            "showAs": "Horticultural Peat (Temporary Measures) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2021-11-23/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-10"
+                },
+                {
+                  "date": "2021-11-23"
+                },
+                {
+                  "date": "2025-03-27"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-03-28T11:05:36.610000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Planning and Development Acts 2000 to 2021 and the Environmental Protection Agency Acts 1992 to 2011 to make exceptional provision for peat extraction for the purpose of horticulture for a temporary period in the public interest in order to mitigate the adverse consequences resulting, or likely to result from an interruption to supply and to provide for a just transition.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú na nAchtanna um Pleanáil agus Forbairt, 2000 go 2021 agus na nAchtanna fán nGníomhaireacht um Chaomhnú Comhshaoil, 1992 go 2011 chun socrú eisceachtúil a dhéanamh maidir le baint móna chun críche gairneoireachta ar feadh tréimhse shealadach ar mhaithe le leas an phobail d’fhonn maolú a dhéanamh ar na hiarmhairtí dochracha a bheidh, nó is dóigh a bheidh, mar thoradh ar bhriseadh ar sholáthar agus do dhéanamh socrú maidir le trasdul cóir.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2021-11-30"
+              },
+              {
+                "date": "2025-01-29"
+              },
+              {
+                "date": "2025-03-27"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/stage/seanad/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-11-23",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/eng/memo/b14921s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Horticultural Peat (Temporary Measures) Bill 2021",
+        "shortTitleGa": "An Bille um Móin Ghairneoireachta (Bearta Sealadacha), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Micheál Carrigy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Pat Casey",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pat-Casey.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Regina Doherty",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Regina-Doherty.D.2011-03-09"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paddy Burke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paddy-Burke.S.1993-02-17"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jerry Buttimer",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jerry-Buttimer.S.2007-07-23"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Malcolm Byrne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Malcolm-Byrne.D.2019-11-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Maria Byrne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maria-Byrne.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Lisa Chambers",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lisa-Chambers.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Lorraine Clifford-Lee",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorraine-Clifford-Lee.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John Cummins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Cummins.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Emer Currie",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Aidan Davitt",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aidan-Davitt.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Aisling Dolan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aisling-Dolan.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Erin McGreehan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Erin-McGreehan.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Eugene Murphy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eugene-Murphy.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Denis O'Donovan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-O'Donovan.S.1989-10-01"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Fiona O'Loughlin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Fiona-O'Loughlin.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joe O'Reilly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Reilly.S.1989-10-01"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Ned O'Sullivan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ned-O'Sullivan.S.2007-07-23"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Mary Seery Kearney",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Seery-Kearney.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Martin Conway",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Conway.S.2011-05-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Timmy Dooley",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Timmy-Dooley.S.2002-09-12"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Mary Fitzpatrick",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Fitzpatrick.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Gerry Horkan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerry-Horkan.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Seán Kyne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Kyne.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Tim Lombard",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tim-Lombard.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John McGahon",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-McGahon.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Daly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Daly.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Diarmuid Wilson",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Diarmuid-Wilson.S.2002-09-12"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Ollie Crowe",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ollie-Crowe.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Shane Cassells",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shane-Cassells.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Robbie Gallagher",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Robbie-Gallagher.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Garret Ahearn",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Garret-Ahearn.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Catherine Ardagh",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Ardagh.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Niall Blaney",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niall-Blaney.D.2002-06-06"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-10"
+                },
+                {
+                  "date": "2021-11-23"
+                },
+                {
+                  "date": "2021-11-23"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/stage/seanad/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-30"
+                },
+                {
+                  "date": "2025-01-29"
+                },
+                {
+                  "date": "2025-03-27"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/stage/seanad/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-11-23",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/eng/initiated/b14921s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/149/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 149,
+        "billShortTitleEnSort": "horticultural-peat-temporary-measures-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-moin-ghairneoireachta-bearta-sealadacha-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2025-03-27"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "70",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2021-05-07",
+            "debateSectionId": "dbsect_13",
+            "showAs": "Residential Tenancies (Amendment) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2021-05-07/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-05-04"
+                },
+                {
+                  "date": "2021-05-07"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Residential Tenancies Act 2004 to modify evidential presumptions in a Tenancy Tribunal and to clarify where the burden of proof lies at such a tribunal.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Thionóntachtaí Cónaithe, 2004 chun toimhdeana fianaiseacha i mBinse Tionóntachta a mhodhnú agus chun a shoiléiriú cé air nó uirthi a bheidh an dualgas cruthúnais ag binse den sórt sin.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2021-05-04"
+              },
+              {
+                "date": "2021-05-07"
+              },
+              {
+                "date": "2021-05-07"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-05-07",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/eng/memo/b7021s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Residential Tenancies (Amendment) Bill 2021",
+        "shortTitleGa": "An Bille um Thionóntachtaí Cónaithe (Leasú), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-05-04"
+                },
+                {
+                  "date": "2021-05-07"
+                },
+                {
+                  "date": "2021-05-07"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-05-07",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/eng/initiated/b7021s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/70/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 70,
+        "billShortTitleEnSort": "residential-tenancies-amendment-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-thionontachtai-conaithe-leasu-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-05-07"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "57",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2022-07-12",
+            "debateSectionId": "dbsect_31",
+            "showAs": "National Lottery (Amendment) Bill 2021: Committee Stage (Resumed)",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2022-07-12/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2022-02-24",
+            "debateSectionId": "dbsect_13",
+            "showAs": "National Lottery (Amendment) Bill 2021: Committee Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2022-02-24/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2021-09-29",
+            "debateSectionId": "dbsect_14",
+            "showAs": "National Lottery (Amendment) Bill 2021: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2021-09-29/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2021-04-26",
+            "debateSectionId": "dbsect_11",
+            "showAs": "National Lottery (Amendment) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2021-04-26/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-04-19"
+                },
+                {
+                  "date": "2021-04-26"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the National Lottery Act 2013 to prohibit the use of the National Lottery or its products in betting offers by entities other than the National Lottery.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Chrannchur Náisiúnta, 2013 chun a thoirmeasc ar eintitis seachas an Crannchur Náisiúnta an Crannchur Náisiúnta nó a tháirgí a úsáid i dtairiscintí gealltóireachta.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2021-09-29"
+              },
+              {
+                "date": "2021-09-29"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 3,
+            "showAs": "Committee Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/stage/seanad/3"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-04-26",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/eng/memo/b5721s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "National Lottery (Amendment) Bill 2021",
+        "shortTitleGa": "An Bille um Chrannchur Náisiúnta (Leasú), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Emer Currie",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Emer-Currie.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Micheál Carrigy",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Micheál-Carrigy.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-04-19"
+                },
+                {
+                  "date": "2021-04-26"
+                },
+                {
+                  "date": "2021-04-26"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/stage/seanad/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-04-26"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/stage/seanad/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-09-29"
+                },
+                {
+                  "date": "2021-09-29"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/stage/seanad/3"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-04-26",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/eng/initiated/b5721s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/57/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 57,
+        "billShortTitleEnSort": "national-lottery-amendment-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-chrannchur-naisiunta-leasu-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-09-29"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "31",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2021-03-05",
+            "debateSectionId": "dbsect_13",
+            "showAs": "Taxi Regulation (Amendment) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2021-03-05/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-02-24"
+                },
+                {
+                  "date": "2021-03-05"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Taxi Regulation Act 2013 to allow for the transfer of licences.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Rialáil Tacsaithe, 2013 chun a cheadú ceadúnais a aistriú.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2021-02-24"
+              },
+              {
+                "date": "2021-03-05"
+              },
+              {
+                "date": "2021-03-05"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-03-05",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/eng/memo/b3121s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Taxi Regulation (Amendment) Bill 2021",
+        "shortTitleGa": "An Bille um Rialáil Tacsaithe (Leasú), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joe O'Reilly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Reilly.S.1989-10-01"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jerry Buttimer",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jerry-Buttimer.S.2007-07-23"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-02-24"
+                },
+                {
+                  "date": "2021-03-05"
+                },
+                {
+                  "date": "2021-03-05"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-03-05",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/eng/initiated/b3121s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/31/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 31,
+        "billShortTitleEnSort": "taxi-regulation-amendment-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-rialail-tacsaithe-leasu-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-03-05"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "12",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2021-02-08",
+            "debateSectionId": "dbsect_11",
+            "showAs": "Criminal Procedure and Related Matters Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2021-02-08/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-01-28"
+                },
+                {
+                  "date": "2021-02-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2025-01-29"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-01-30T11:17:37.160000+00:00",
+        "longTitleEn": "Bill entitled an Act to make various amendments to aspects of criminal procedure and to make provision for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do dhéanamh leasuithe éagsúla ar ghnéithe den nós imeachta coiriúil agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2021-01-28"
+              },
+              {
+                "date": "2021-02-08"
+              },
+              {
+                "date": "2021-02-08"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "26",
+              "showAs": "26th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-02-08",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/eng/memo/b1221s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Criminal Procedure and Related Matters Bill 2021",
+        "shortTitleGa": "An Bille um Nós Imeachta Coiriúil agus Nithe Gaolmhara, 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Barry Ward",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Ward.S.2020-03-30"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Mary Seery Kearney",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Seery-Kearney.S.2020-06-29"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Martin Conway",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Conway.S.2011-05-25"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2021-01-28"
+                },
+                {
+                  "date": "2021-02-08"
+                },
+                {
+                  "date": "2021-02-08"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "26",
+                "showAs": "26th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-02-08",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/eng/initiated/b1221s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/12/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 12,
+        "billShortTitleEnSort": "criminal-procedure-and-related-matters-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-nos-imeachta-coiriuil-agus-nithe-gaolmhara-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-02-08"
+    }
+  ]
+}

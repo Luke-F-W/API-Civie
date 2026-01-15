@@ -1,0 +1,472 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 2,
+      "resultCount": 2
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "77",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2025",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-12-04",
+            "debateSectionId": "dbsect_36",
+            "showAs": "Gender Recognition (Amendment) (Prisons) Bill 2025: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-04/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-12-04"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77/approved-for-initiation"
+            }
+          }
+        ],
+        "lastUpdated": "2025-12-05T09:25:33.120000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend the Gender Recognition Act 2015 to make provision for single-sex accommodation in prisons; and to provide for related matters. </p>",
+        "longTitleGa": "<p><span style=\"color:black;\">Bille dá ngairtear Acht do leasú an Achta um Inscne a Aithint, 2015 chun socrú a dhéanamh maidir le cóiríocht aonghnéis i bpríosúin; agus do dhéanamh socrú i dtaobh nithe gaolmhara.</span></p>",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2025-05-16"
+              },
+              {
+                "date": "2025-05-16"
+              },
+              {
+                "date": "2025-12-04"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "34",
+              "showAs": "34th Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2025-12-04",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77/eng/memo/b7725d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Gender Recognition (Amendment) (Prisons) Bill 2025",
+        "shortTitleGa": "An Bille um Inscne a Aithint (Leasú) (Príosúin), 2025",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Peadar Tóibín",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Lawless",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-12-04"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77",
+        "versions": [
+          {
+            "version": {
+              "date": "2025-12-04",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77/eng/initiated/b7725d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/77/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 77,
+        "billShortTitleEnSort": "gender-recognition-amendment-prisons-bill-2025",
+        "billShortTitleGaSort": "an-bille-um-inscne-a-aithint-leasu-priosuin-2025",
+        "billYearSort": 2025
+      },
+      "contextDate": "2025-12-04"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "36",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2025",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-06-17",
+            "debateSectionId": "dbsect_8",
+            "showAs": "An Bille um an Aonú Leasú is Daichead ar an mBunreacht (Cearta Vótála i dToghcháin Uachtaráin), 2025: An Chéad Chéim",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-06-17",
+            "debateSectionId": "dbsect_9",
+            "showAs": "Forty-first Amendment of the Constitution (Voting Rights in Presidential Elections) Bill 2025: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-06-17"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/approved-for-initiation"
+            }
+          }
+        ],
+        "lastUpdated": "2025-06-18T08:34:10.570000+00:00",
+        "longTitleEn": "<p style=\"text-align:justify;\">Bill entitled an Act to amend the Constitution.</p>",
+        "longTitleGa": "<p>Bille dá ngairtear Acht chun an Bunreacht a leasú.</p>",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2025-06-17"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "34",
+              "showAs": "34th Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2025-06-17",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/eng/memo/b3625d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Forty-first Amendment of the Constitution (Voting Rights in Presidential Elections) Bill 2025",
+        "shortTitleGa": "An Bille um an Aonú Leasú is Daichead ar an mBunreacht (Cearta Vótála i dToghcháin Uachtaráin), 2025",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Michael Collins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Collins.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Peadar Tóibín",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Peadar-Tóibín.D.2011-03-09"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Lawless",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Lawless.D.2024-11-29"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-05-16"
+                },
+                {
+                  "date": "2025-06-17"
+                },
+                {
+                  "date": "2025-06-17"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-06-17"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36",
+        "versions": [
+          {
+            "version": {
+              "date": "2025-06-17",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/mul/initiated/b3625d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "mul",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/36/mul/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 36,
+        "billShortTitleEnSort": "forty-first-amendment-of-the-constitution-voting-rights-in-presidential-elections-bill-2025",
+        "billShortTitleGaSort": "an-bille-um-an-aonu-leasu-is-daichead-ar-an-mbunreacht-cearta-votala-i-dtoghchain-uachtarain-2025",
+        "billYearSort": 2025
+      },
+      "contextDate": "2025-06-17"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 1,
+      "resultCount": 1
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "109",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2014",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2014-12-09",
+            "debateSectionId": "dbsect_13",
+            "showAs": "Health (Professional Home Care) Bill 2014: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2014-12-09/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2014-12-09"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/published"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2016-04-28"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2018-04-12T15:51:07.030000+00:00",
+        "longTitleEn": "Bill entitled an Act to provide for the regulation of professional home care, for that purpose to amend the Health Act 2007 and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do dhéanamh socrú maidir le cúram baile gairmiúil a rialáil, chun na críche sin do leasú an Achta Sláinte, 2007 agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2014-12-09"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "24",
+              "showAs": "24th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/24"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/stage/seanad/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2014-12-09",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/eng/memo/b10914s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Health (Professional Home Care) Bill 2014",
+        "shortTitleGa": "An Bille Sláinte (Cúram Baile Gairmiúil), 2014",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Imelda Henry",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Imelda-Henry.S.2011-05-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Colm Burke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Hildegarde Naughton",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Hildegarde-Naughton.S.2013-07-19"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2014-12-09"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "24",
+                "showAs": "24th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/24"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/stage/seanad/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109",
+        "versions": [
+          {
+            "version": {
+              "date": "2014-12-09",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/eng/initiated/b10914s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2014/109/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 109,
+        "billShortTitleEnSort": "health-professional-home-care-bill-2014",
+        "billShortTitleGaSort": "an-bille-slainte-curam-baile-gairmiuil-2014",
+        "billYearSort": 2014
+      },
+      "contextDate": "2014-12-09"
+    }
+  ]
+}

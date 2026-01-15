@@ -1,0 +1,700 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 2,
+      "resultCount": 2
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "20",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2019",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2019-03-28",
+            "debateSectionId": "dbsect_11",
+            "showAs": "Civil Liability (Capping of General Damages) Bill 2019: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2019-03-28/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2019-03-06",
+            "debateSectionId": "dbsect_11",
+            "showAs": "Civil Liability (Capping of General Damages) Bill 2019: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2019-03-06/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2019-03-04"
+                },
+                {
+                  "date": "2019-03-06"
+                },
+                {
+                  "date": "2020-03-27"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/20/admissibility-for-introduction"
+            }
+          }
+        ],
+        "lastUpdated": "2020-04-20T09:27:36.200000+00:00",
+        "longTitleEn": "Bill entitled an Act to provide for the imposition of a cap on the level of awards which may be made in respect of a claim for general damages arising from personal injury; to provide for the confirmation by each House of the Oireachtas of draft regulations; to provide for a review of this Act; and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do dhéanamh socrú maidir le huasteorainn a fhorchur ar leibhéal na ndámhachtainí a dhéanfar i leith éileamh ar dhamáistí ginearálta a eascróidh as díobháil phearsanta; do dhéanamh socrú maidir le gach Teach den Oireachtas do dhaingniú dréacht-rialachán; do dhéanamh socrú maidir le hathbhreithniú ar an Acht seo; agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2019-03-06"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "25",
+              "showAs": "25th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/20/stage/seanad/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [],
+        "shortTitleEn": "Civil Liability (Capping of General Damages) Bill 2019",
+        "shortTitleGa": "An Bille um Dhliteanas Sibhialta (Damáistí Ginearálta a Uasteorannú), 2019",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Neale Richmond",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Tim Lombard",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tim-Lombard.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John O'Mahony",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-O'Mahony.D.2007-06-14"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Maura Hopkins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maura-Hopkins.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Ray Butler",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ray-Butler.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Gabrielle McFadden",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gabrielle-McFadden.D.2014-05-23"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paddy Burke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paddy-Burke.S.1993-02-17"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "James Reilly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Reilly.D.2007-06-14"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jerry Buttimer",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jerry-Buttimer.S.2007-07-23"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Maria Byrne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maria-Byrne.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Martin Conway",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Conway.S.2011-05-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joe O'Reilly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Reilly.S.1989-10-01"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Coghlan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Coghlan.S.1997-09-17"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Michelle Mulherin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michelle-Mulherin.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Frankie Feighan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Frank-Feighan.S.2002-09-12"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paudie Coffey",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paudie-Coffey.S.2007-07-23"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Kieran O'Donnell",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Kieran-O'Donnell.D.2007-06-14"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anthony Lawlor",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anthony-Lawlor.D.2011-03-09"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2019-03-04"
+                },
+                {
+                  "date": "2019-03-06"
+                },
+                {
+                  "date": "2019-03-06"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/20/stage/seanad/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2019-03-06"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/20/stage/seanad/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/20",
+        "versions": [
+          {
+            "version": {
+              "date": "2019-03-06",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/20/eng/initiated/b2019s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/20/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 20,
+        "billShortTitleEnSort": "civil-liability-capping-of-general-damages-bill-2019",
+        "billShortTitleGaSort": "an-bille-um-dhliteanas-sibhialta-damaisti-ginearalta-a-uasteorannu-2019",
+        "billYearSort": 2019
+      },
+      "contextDate": "2019-03-06"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "89",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2016",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2016-11-09",
+            "debateSectionId": "dbsect_7",
+            "showAs": "Health (Amendment) (Professional Home Care) Bill 2016: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2016-11-09/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2016-10-27",
+            "debateSectionId": "dbsect_9",
+            "showAs": "Health (Amendment) (Professional Home Care) Bill 2016: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2016-10-27/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2016-10-27"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/published"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2020-03-27"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2020-04-20T09:46:05.540000+00:00",
+        "longTitleEn": "Bill entitled an Act to provide for the regulation of professional home care, for that purpose to amend the Health Act 2007 and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do dhéanamh socrú maidir le cúram baile gairmiúil a rialáil, chun na críche sin do leasú an Achta Sláinte, 2007 agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "seanad",
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "dates": [
+              {
+                "date": "2016-10-27"
+              },
+              {
+                "date": "2016-10-27"
+              }
+            ],
+            "house": {
+              "chamberCode": "seanad",
+              "chamberType": "house",
+              "houseCode": "seanad",
+              "houseNo": "25",
+              "showAs": "25th Seanad",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/stage/seanad/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2016-10-27",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/eng/memo/b8916s-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Health (Amendment) (Professional Home Care) Bill 2016",
+        "shortTitleGa": "An Bille Sláinte (Leasú) (Cúram Baile Gairmiúil), 2016",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Colm Burke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Colm-Burke.S.2011-05-25"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Maura Hopkins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maura-Hopkins.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Neale Richmond",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2016-10-27"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/stage/seanad/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2016-10-27"
+                },
+                {
+                  "date": "2016-10-27"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/stage/seanad/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89",
+        "versions": [
+          {
+            "version": {
+              "date": "2016-10-27",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/eng/initiated/b8916s.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2016/89/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 89,
+        "billShortTitleEnSort": "health-amendment-professional-home-care-bill-2016",
+        "billShortTitleGaSort": "an-bille-slainte-leasu-curam-baile-gairmiuil-2016",
+        "billYearSort": 2016
+      },
+      "contextDate": "2016-10-27"
+    }
+  ]
+}

@@ -1,0 +1,1665 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 6,
+      "resultCount": 6
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "43",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2023",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2023-05-11",
+            "debateSectionId": "dbsect_33",
+            "showAs": "Electricity Regulation (Amendment) (Standing Charges) Bill 2023: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2023-05-11/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-05-08"
+                },
+                {
+                  "date": "2023-05-10"
+                },
+                {
+                  "date": "2023-05-11"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend the Electricity Regulation Act 1999 to give the Commission for Regulation of Utilities (CRU) the legislative remit required to effectively monitor and regulate standing charges on electricity and gas bills, and to provide for related matters.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú an Achta um Rialáil Leictreachais, 1999 chun go dtabharfar don Choimisiún um Rialáil Fóntais (CRF) an sainchúram reachtach is gá chun faireachán agus rialáil éifeachtach a dhéanamh ar bhuanmhuirir ar bhillí leictreachais agus gáis, agus do dhéanamh socrú i dtaobh nithe gaolmhara.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2023-05-08"
+              },
+              {
+                "date": "2023-05-10"
+              },
+              {
+                "date": "2023-05-11"
+              },
+              {
+                "date": "2023-05-11"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2023-05-11",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/eng/memo/b4323d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Electricity Regulation (Amendment) (Standing Charges) Bill 2023",
+        "shortTitleGa": "An Bille um Rialáil Leictreachais (Leasú) (Buanmhuirir), 2023",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Darren O'Rourke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Réada Cronin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Réada-Cronin.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-05-08"
+                },
+                {
+                  "date": "2023-05-10"
+                },
+                {
+                  "date": "2023-05-11"
+                },
+                {
+                  "date": "2023-05-11"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43",
+        "versions": [
+          {
+            "version": {
+              "date": "2023-05-11",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/eng/initiated/b4323d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/43/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 43,
+        "billShortTitleEnSort": "electricity-regulation-amendment-standing-charges-bill-2023",
+        "billShortTitleGaSort": "an-bille-um-rialail-leictreachais-leasu-buanmhuirir-2023",
+        "billYearSort": 2023
+      },
+      "contextDate": "2023-05-11"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "118",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2022",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-12-14",
+            "debateSectionId": "dbsect_7",
+            "showAs": "Cost of Renewables Taskforce Bill 2022: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-12-14/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-12-13"
+                },
+                {
+                  "date": "2022-12-13"
+                },
+                {
+                  "date": "2022-12-13"
+                },
+                {
+                  "date": "2022-12-15"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to require the Minister for the Environment, Climate and Communications to establish a cross-departmental taskforce to examine the cost of producing renewable energy in Ireland; to provide for this taskforce to consult with stakeholders and deliver within six months policy recommendations to the Minister on ways to reduce the cost of producing renewable energy per megawatt-hour.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht dá cheangal ar an Aire Comhshaoil, Aeráide agus Cumarsáide tascfhórsa trasrannach a bhunú chun scrúdú a dhéanamh ar an gcostas a bhaineann le fuinneamh inathnuaite a tháirgeadh in Éirinn; do dhéanamh socrú chun go rachaidh an tascfhórsa sin i gcomhairle le páirtithe leasmhara agus chun go ndéanfaidh sé, laistigh de shé mhí, moltaí beartais a sheachadadh ar an Aire maidir le bealaí chun laghdú a dhéanamh ar an gcostas in aghaidh na huaire meigeavata a bhaineann le fuinneamh inathnuaite a tháirgeadh. </p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2022-12-13"
+              },
+              {
+                "date": "2022-12-13"
+              },
+              {
+                "date": "2022-12-13"
+              },
+              {
+                "date": "2022-12-14"
+              },
+              {
+                "date": "2022-12-15"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2022-12-15",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/eng/memo/b11822d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Cost of Renewables Taskforce Bill 2022",
+        "shortTitleGa": "An Bille fá Thascfhórsa um Chostas Athnuaiteán, 2022",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Darren O'Rourke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Réada Cronin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Réada-Cronin.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-12-13"
+                },
+                {
+                  "date": "2022-12-13"
+                },
+                {
+                  "date": "2022-12-13"
+                },
+                {
+                  "date": "2022-12-14"
+                },
+                {
+                  "date": "2022-12-15"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118",
+        "versions": [
+          {
+            "version": {
+              "date": "2022-12-15",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/eng/initiated/b11822d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/118/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 118,
+        "billShortTitleEnSort": "cost-of-renewables-taskforce-bill-2022",
+        "billShortTitleGaSort": "an-bille-fa-thascfhorsa-um-chostas-athnuaitean-2022",
+        "billYearSort": 2022
+      },
+      "contextDate": "2022-12-15"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "95",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2022",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2024-07-11",
+            "debateSectionId": "dbsect_49",
+            "showAs": "National Vetting Bureau (Children and Vulnerable Persons) (Amendment) Bill 2022: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2024-07-11/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-10-12",
+            "debateSectionId": "dbsect_12",
+            "showAs": "National Vetting Bureau (Children and Vulnerable Persons) (Amendment) Bill 2022: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-12/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-09-27"
+                },
+                {
+                  "date": "2022-09-27"
+                },
+                {
+                  "date": "2022-10-12"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/approved-for-initiation"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-02T12:07:56.960000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend the National Vetting Bureau (Children and Vulnerable Persons) Act 2012 and to provide for related matters.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú an Achta um an mBiúró Náisiúnta Grinnfhiosrúcháin (Leanaí agus Daoine Soghonta), 2012 agus do dhéanamh socrú i dtaobh nithe gaolmhara.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2025-05-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "34",
+              "showAs": "34th Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+            },
+            "progressStage": 3,
+            "showAs": "Committee Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/stage/dail/3"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2022-10-12",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/eng/memo/b9522d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "National Vetting Bureau (Children and Vulnerable Persons) (Amendment) Bill 2022",
+        "shortTitleGa": "An Bille um an mBiúró Náisiúnta Grinnfhiosrúcháin (Leanaí agus Daoine Soghonta) (Leasú), 2022",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Réada Cronin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Réada-Cronin.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Donnelly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Donnelly.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Pa Daly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pa-Daly.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-09-27"
+                },
+                {
+                  "date": "2022-09-27"
+                },
+                {
+                  "date": "2022-10-12"
+                },
+                {
+                  "date": "2022-10-12"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-10-12"
+                },
+                {
+                  "date": "2022-10-12"
+                },
+                {
+                  "date": "2022-10-12"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/stage/dail/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/stage/dail/3"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95",
+        "versions": [
+          {
+            "version": {
+              "date": "2022-10-12",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/eng/initiated/b9522d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/95/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 95,
+        "billShortTitleEnSort": "national-vetting-bureau-children-and-vulnerable-persons-amendment-bill-2022",
+        "billShortTitleGaSort": "an-bille-um-an-mbiuro-naisiunta-grinnfhiosruchain-leanai-agus-daoine-soghonta-leasu-2022",
+        "billYearSort": 2022
+      },
+      "contextDate": "2025-05-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "18",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2022",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-07-14",
+            "debateSectionId": "dbsect_52",
+            "showAs": "Green Hydrogen Strategy Bill 2022: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-07-14/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-02-09",
+            "debateSectionId": "dbsect_11",
+            "showAs": "Green Hydrogen Strategy Bill 2022: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-02-09/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-01-25"
+                },
+                {
+                  "date": "2022-02-09"
+                },
+                {
+                  "date": "2022-02-25"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "Bill entitled an Act to require the Minister for the Environment, Climate and Communications to draft and publish a hydrogen strategy within six months of the passing of this Act.",
+        "longTitleGa": "Bille dá ngairtear Acht dá cheangal ar an Aire Comhshaoil, Aeráide agus Cumarsáide straitéis hidrigine a dhréachtú agus a fhoilsiú laistigh de shé mhí tar éis an tAcht seo a rith.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2022-02-09"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2022-02-09",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/eng/memo/b1822d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Green Hydrogen Strategy Bill 2022",
+        "shortTitleGa": "An Bille um Straitéis Hidrigine Glaise, 2022",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Darren O'Rourke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Réada Cronin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Réada-Cronin.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Johnny Guirke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Johnny-Guirke.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Maurice Quinlivan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maurice-Quinlivan.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-01-25"
+                },
+                {
+                  "date": "2022-02-09"
+                },
+                {
+                  "date": "2022-02-09"
+                },
+                {
+                  "date": "2022-02-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-02-09"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18",
+        "versions": [
+          {
+            "version": {
+              "date": "2022-02-09",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/eng/initiated/b1822d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/18/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 18,
+        "billShortTitleEnSort": "green-hydrogen-strategy-bill-2022",
+        "billShortTitleGaSort": "an-bille-um-straiteis-hidrigine-glaise-2022",
+        "billYearSort": 2022
+      },
+      "contextDate": "2022-02-09"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "143",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-10-16",
+            "debateSectionId": "dbsect_36",
+            "showAs": "Parental Bereavement Leave (Amendment) Bill 2021: Referral to Select Committee",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2023-02-01",
+            "debateSectionId": "dbsect_36",
+            "showAs": "Parental Bereavement Leave (Amendment) Bill 2021: Second Stage (Resumed)",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2023-02-01/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2023-01-26",
+            "debateSectionId": "dbsect_34",
+            "showAs": "Parental Bereavement Leave (Amendment) Bill 2021: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2023-01-26/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-11-10",
+            "debateSectionId": "dbsect_12",
+            "showAs": "Parental Bereavement Leave (Amendment) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-11-10/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-04"
+                },
+                {
+                  "date": "2021-11-04"
+                },
+                {
+                  "date": "2021-11-10"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/approved-for-initiation"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-11T10:59:31.900000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Parental Leave Acts 1998 and 2006 to make provision for an entitlement to bereavement leave to an employee who is a bereaved parent of a child who has died and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú na nAchtanna um Shaoire do Thuismitheoirí, 1998 agus 2006 chun socrú a dhéanamh maidir le teideal chun saoire méala a bheith ag fostaí is tuismitheoir faoi  mhéala linbh a fuair bás, agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2023-02-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 3,
+            "showAs": "Committee Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/stage/dail/3"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-11-10",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/eng/memo/b14321d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Parental Bereavement Leave (Amendment) Bill 2021",
+        "shortTitleGa": "An Bille um Shaoire Mhéala do Thuismitheoirí (Leasú), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Réada Cronin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Réada-Cronin.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Louise O'Reilly",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Louise-O'Reilly.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-04"
+                },
+                {
+                  "date": "2021-11-04"
+                },
+                {
+                  "date": "2021-11-10"
+                },
+                {
+                  "date": "2021-11-10"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-10"
+                },
+                {
+                  "date": "2021-11-10"
+                },
+                {
+                  "date": "2021-11-10"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/stage/dail/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-02-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/stage/dail/3"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-11-10",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/eng/initiated/b14321d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/143/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 143,
+        "billShortTitleEnSort": "parental-bereavement-leave-amendment-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-shaoire-mheala-do-thuismitheoiri-leasu-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2023-02-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "44",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-05-11",
+            "debateSectionId": "dbsect_20",
+            "showAs": "Electricity Regulation (Amendment) (Prohibition of Winter Disconnections) Bill 2021: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-05-11/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-04-28",
+            "debateSectionId": "dbsect_42",
+            "showAs": "Electricity Regulation (Amendment) (Prohibition of Winter Disconnections) Bill 2021: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-04-28/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-03-31",
+            "debateSectionId": "dbsect_13",
+            "showAs": "Electricity Regulation (Amendment) (Prohibition of Winter Disconnections) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-03-31/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-01-22"
+                },
+                {
+                  "date": "2021-03-31"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "Bill entitled Act to amend the Electricity Regulation Act, 1999, to include explicit provision for the Minister to provide policy direction to the Commission for Regulation of Utilities, to introduce a moratorium on disconnections of gas and electricity supply to domestic customers for non-payment during the annual fuel allowance season or during other periods of time the Minister may deem appropriate.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Rialáil Leictreachais, 1999 chun socrú follasach a áireamh ann maidir leis an Aire do sholáthar treorú beartais don Choimisiún um Rialáil Fóntais, do thabhairt isteach moratóir ar dhíchónascthaí soláthair gáis agus leictreachais do chustaiméirí baile mar gheall ar neamhíoc le linn an tséasúir bhliantúil liúntais breosla nó le linn tréimhsí ama eile a mheasfaidh an tAire is cuí.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2021-03-31"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-03-31",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/eng/memo/b4421d-explanatory-memorandum.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Electricity Regulation (Amendment) (Prohibition of Winter Disconnections) Bill 2021",
+        "shortTitleGa": "An Bille um Rialáil Leictreachais (Leasú) (Díchónascthaí sa Gheimhreadh a Thoirmeasc), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Réada Cronin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Réada-Cronin.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Claire Kerrane",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Darren O'Rourke",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darren-O'Rourke.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-01-22"
+                },
+                {
+                  "date": "2021-03-31"
+                },
+                {
+                  "date": "2021-03-31"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-03-31"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-03-31",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/eng/initiated/88805-electricity-regulation-amendment-prohibition-of-winter-disconnections-bill-2021.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/44/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 44,
+        "billShortTitleEnSort": "electricity-regulation-amendment-prohibition-of-winter-disconnections-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-rialail-leictreachais-leasu-dichonascthai-sa-gheimhreadh-a-thoirmeasc-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-03-31"
+    }
+  ]
+}

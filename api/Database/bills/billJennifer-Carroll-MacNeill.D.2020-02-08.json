@@ -1,0 +1,260 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 1,
+      "resultCount": 1
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "73",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2020",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-02-10",
+            "debateSectionId": "dbsect_45",
+            "showAs": "Thirty-ninth Amendment of the Constitution (Remote Parliamentary Voting) Bill 2020: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-02-10/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2020-12-08",
+            "debateSectionId": "dbsect_4",
+            "showAs": "An Bille um an Naoú Leasú is Tríocha ar an mBunreacht (Vótáil Pharlaiminteach Chianda), 2020: An Chéad Chéim",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-12-08/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2020-12-08",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Thirty-ninth Amendment of the Constitution (Remote Parliamentary Voting) Bill 2020: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-12-08/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-11-05"
+                },
+                {
+                  "date": "2020-12-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Constitution.",
+        "longTitleGa": "Bille dá ngairtear Acht chun an Bunreacht a leasú.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2020-12-08"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2020-12-08",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/eng/memo/b7320d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Thirty-ninth Amendment of the Constitution (Remote Parliamentary Voting) Bill 2020",
+        "shortTitleGa": "An Bille um an Naoú Leasú is Tríocha ar an mBunreacht (Vótáil Pharlaiminteach Chianda), 2020",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jennifer Carroll MacNeill",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jennifer-Carroll-MacNeill.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-11-05"
+                },
+                {
+                  "date": "2020-12-08"
+                },
+                {
+                  "date": "2020-12-08"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-12-08"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73",
+        "versions": [
+          {
+            "version": {
+              "date": "2020-12-08",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/mul/initiated/b7320d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "mul",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2020/73/mul/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 73,
+        "billShortTitleEnSort": "thirty-ninth-amendment-of-the-constitution-remote-parliamentary-voting-bill-2020",
+        "billShortTitleGaSort": "an-bille-um-an-naou-leasu-is-triocha-ar-an-mbunreacht-votail-pharlaiminteach-chianda-2020",
+        "billYearSort": 2020
+      },
+      "contextDate": "2020-12-08"
+    }
+  ]
+}

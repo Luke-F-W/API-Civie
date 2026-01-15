@@ -1,0 +1,229 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 1,
+      "resultCount": 1
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "48",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2025",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-07-16",
+            "debateSectionId": "dbsect_13",
+            "showAs": "Compulsory Purchase Order Bill 2025: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-16/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-05-09"
+                },
+                {
+                  "date": "2025-05-09"
+                },
+                {
+                  "date": "2025-07-16"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/approved-for-initiation"
+            }
+          }
+        ],
+        "lastUpdated": "2025-07-17T09:05:57.200000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to provide for the assessment of compensation payable on account of the compulsory acquisition of land; to provide for the acquisition of land by vesting order; to provide for the making of advance payments to owners, lessees and occupiers on account of compensation owed to them as a consequence of the compulsory acquisition of land; to provide for the transfer of functions relating to the assessment of compensation for compulsorily acquired land to the Valuation Tribunal; for those purposes to repeal the Acquisition of Land (Assessment of Compensation) Act 1919; and to provide for related matters.</p>",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do dhéanamh socrú maidir le measúnacht a dhéanamh ar an gcúiteamh is iníoctha ar cuntas fáil éigeantach talún; do dhéanamh socrú maidir le talamh a fháil le hordú dílseacháin; do dhéanamh socrú maidir le réamhíocaíochtaí a dhéanamh le húinéirí, léasaithe agus áititheoirí ar cuntas cúiteamh atá dlite dóibh de dhroim fáil éigeantach talún; do dhéanamh socrú maidir le feidhmeanna a bhaineann le measúnacht a dhéanamh ar chúiteamh i leith talamh a fhaightear go héigeantach a aistriú chuig an mBinse Luachála; chun na gcríoch sin, d’aisghairm an <i>Acquisition of Land (Assessment of Compensation) Act, 1919</i>; agus do dhéanamh socrú i dtaobh nithe gaolmhara.</p>",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2025-07-16"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "34",
+              "showAs": "34th Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2025-07-16",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/eng/memo/b4825d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Compulsory Purchase Order Bill 2025",
+        "shortTitleGa": "An Bille um Ordú Ceannaigh Éigeantaigh, 2025",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "James Geoghegan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Geoghegan.D.2024-11-29"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-05-09"
+                },
+                {
+                  "date": "2025-05-09"
+                },
+                {
+                  "date": "2025-07-16"
+                },
+                {
+                  "date": "2025-07-16"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2025-07-16"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "34",
+                "showAs": "34th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48",
+        "versions": [
+          {
+            "version": {
+              "date": "2025-07-16",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/eng/initiated/b4825d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/48/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 48,
+        "billShortTitleEnSort": "compulsory-purchase-order-bill-2025",
+        "billShortTitleGaSort": "an-bille-um-ordu-ceannaigh-eigeantaigh-2025",
+        "billYearSort": 2025
+      },
+      "contextDate": "2025-07-16"
+    }
+  ]
+}

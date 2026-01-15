@@ -1,0 +1,4531 @@
+{
+  "head": {
+    "counts": {
+      "debateCount": 64,
+      "resultCount": 64
+    }
+  },
+  "results": [
+    {
+      "contextDate": "2025-12-18",
+      "debateRecord": {
+        "lastUpdated": "2025-12-23T03:15:28+00:00",
+        "date": "2025-12-18",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/main",
+        "counts": {
+          "questionCount": 40,
+          "billCount": 2,
+          "contributorCount": 138,
+          "divisionCount": 0,
+          "debateSectionCount": 52
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-18/debate/mul@/main.pdf"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": null,
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "debateSectionId": "dbsect_32",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 49,
+                "speakerCount": 21
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-18/debate/dbsect_32",
+              "debateType": "questions",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_14",
+              "counts": {
+                "speechCount": 25,
+                "speakerCount": 24
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Fisheries: Statements",
+              "debateType": "statement",
+              "bill": null,
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-17/debate/dbsect_14"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-17/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-17/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "contributorCount": 166,
+          "questionCount": 0,
+          "divisionCount": 3,
+          "billCount": 7,
+          "debateSectionCount": 22
+        },
+        "lastUpdated": "2025-12-24T03:56:06+00:00",
+        "date": "2025-12-17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-17/debate/main",
+        "debateType": "debate",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        }
+      },
+      "contextDate": "2025-12-17"
+    },
+    {
+      "contextDate": "2025-12-16",
+      "debateRecord": {
+        "lastUpdated": "2025-12-23T03:15:37+00:00",
+        "date": "2025-12-16",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/main",
+        "counts": {
+          "questionCount": 39,
+          "billCount": 2,
+          "contributorCount": 153,
+          "divisionCount": 0,
+          "debateSectionCount": 34
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-16/debate/mul@/main.pdf"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": null,
+              "showAs": "Blister Packs: Motion [Private Members]",
+              "debateSectionId": "dbsect_14",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 60,
+                "speakerCount": 33
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/dbsect_14",
+              "debateType": "motion",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-12-16",
+      "debateRecord": {
+        "lastUpdated": "2025-12-23T03:15:37+00:00",
+        "date": "2025-12-16",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/main",
+        "counts": {
+          "questionCount": 39,
+          "billCount": 2,
+          "contributorCount": 153,
+          "divisionCount": 0,
+          "debateSectionCount": 34
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-16/debate/mul@/main.pdf"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_15",
+                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/dbsect_15",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                }
+              },
+              "showAs": "National Security",
+              "debateSectionId": "dbsect_16",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 10,
+                "speakerCount": 4
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/dbsect_16",
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/mul@/dbsect_16.xml"
+                },
+                "pdf": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-10/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-17T03:10:54+00:00",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "debateType": "debate",
+        "date": "2025-12-10",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "debateSectionCount": 24,
+          "billCount": 14,
+          "contributorCount": 165,
+          "divisionCount": 10,
+          "questionCount": 28
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon"
+                  }
+                }
+              ],
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_11",
+              "containsDebate": true,
+              "debateType": "questions",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_11",
+              "counts": {
+                "speakerCount": 19,
+                "speechCount": 44
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-12-10"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-10/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-17T03:10:54+00:00",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "debateType": "debate",
+        "date": "2025-12-10",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "debateSectionCount": 24,
+          "billCount": 14,
+          "contributorCount": 165,
+          "divisionCount": 10,
+          "questionCount": 28
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon"
+                  }
+                }
+              ],
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_14.xml"
+                },
+                "pdf": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_14",
+              "containsDebate": true,
+              "debateType": "question",
+              "showAs": "National Security",
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_13",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "debateSectionId": "dbsect_13",
+                "showAs": "Ceisteanna - Questions"
+              },
+              "debateSectionId": "dbsect_14",
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 66
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-12-10"
+    },
+    {
+      "contextDate": "2025-12-09",
+      "debateRecord": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-12-09/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-12-09/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-12-16T03:15:43+00:00",
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of the Criminal Justice (International Cooperation Office) Bill 2025: Department of Justice, Home Affairs and Migration",
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 8,
+                "speechCount": 317
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-12-09/debate/dbsect_2",
+              "containsDebate": true,
+              "debateType": "debate",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "house": {
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration"
+        },
+        "counts": {
+          "divisionCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "billCount": 0,
+          "contributorCount": 7
+        },
+        "date": "2025-12-09",
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-12-09/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/main",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-09/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-12-19T03:12:43+00:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "committeeCode": ""
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/dbsect_11",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_11",
+              "containsDebate": true,
+              "showAs": "Assessment of Needs: Motion [Private Members]",
+              "bill": null,
+              "counts": {
+                "speechCount": 39,
+                "speakerCount": 36
+              },
+              "debateType": "motion"
+            }
+          }
+        ],
+        "date": "2025-12-09",
+        "counts": {
+          "debateSectionCount": 27,
+          "contributorCount": 170,
+          "billCount": 2,
+          "questionCount": 13,
+          "divisionCount": 1
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-12-09"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_defence_and_national_security",
+          "committeeCode": "select_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Select Committee on Defence and National Security"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Select Committee on Defence and National Security"
+        },
+        "counts": {
+          "debateSectionCount": 3,
+          "contributorCount": 5,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/dbsect_3",
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 5,
+                "speechCount": 36
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Vote 36 - Defence (Supplementary)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-22T03:15:02+00:00",
+        "date": "2025-11-20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-20"
+    },
+    {
+      "contextDate": "2025-11-20",
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-11-20/debate/main",
+        "lastUpdated": "2025-12-02T03:19:12+00:00",
+        "house": {
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "chamberType": "committee",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "houseCode": "dail",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "counts": {
+          "questionCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 9
+        },
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "date": "2025-11-20",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Key Issues Affecting Defence Forces Veterans: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-11-20/debate/dbsect_2",
+              "debateSectionId": "dbsect_2",
+              "bill": null,
+              "counts": {
+                "speechCount": 105,
+                "speakerCount": 10
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-11-20/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-11-20/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-11-18/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_justice_home_affairs_and_migration",
+          "committeeCode": "select_committee_on_justice_home_affairs_and_migration",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Select Committee on Justice, Home Affairs and Migration"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Select Committee on Justice, Home Affairs and Migration"
+        },
+        "counts": {
+          "debateSectionCount": 6,
+          "contributorCount": 7,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-11-18/debate/dbsect_6",
+              "bill": null,
+              "debateSectionId": "dbsect_6",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 7,
+                "speechCount": 167
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Vote 24 - Justice, Home Affairs and Migration (Supplementary)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-22T03:14:54+00:00",
+        "date": "2025-11-18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-11-18/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-11-18/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-18"
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_12",
+              "counts": {
+                "speechCount": 48,
+                "speakerCount": 16
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Ceisteanna - Questions",
+              "debateType": "questions",
+              "bill": null,
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_12"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-12/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "contributorCount": 168,
+          "questionCount": 49,
+          "divisionCount": 1,
+          "billCount": 2,
+          "debateSectionCount": 34
+        },
+        "lastUpdated": "2025-12-24T03:56:05+00:00",
+        "date": "2025-11-12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/main",
+        "debateType": "debate",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        }
+      },
+      "contextDate": "2025-11-12"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-11-11/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 11,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-11-11/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 213
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Engagement on Policing Matters: An Garda Síochána",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-13T03:10:59+00:00",
+        "date": "2025-11-11",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-11-11/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-11-11/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-11"
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/main",
+        "counts": {
+          "billCount": 4,
+          "debateSectionCount": 44,
+          "questionCount": 31,
+          "divisionCount": 0,
+          "contributorCount": 126
+        },
+        "date": "2025-11-06",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_15",
+              "debateType": "question",
+              "counts": {
+                "speakerCount": 3,
+                "speechCount": 6
+              },
+              "containsDebate": true,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_8",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/dbsect_8",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                }
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/dbsect_15",
+              "showAs": "Defence Forces",
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/mul@/dbsect_15.xml"
+                },
+                "pdf": null
+              },
+              "bill": null
+            }
+          }
+        ],
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-11-22T03:14:42+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-06/debate/mul@/main.pdf"
+          }
+        }
+      },
+      "contextDate": "2025-11-06"
+    },
+    {
+      "contextDate": "2025-11-05",
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_12",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "counts": {
+                "speakerCount": 22,
+                "speechCount": 72
+              },
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/dbsect_12",
+              "debateType": "questions",
+              "containsDebate": true,
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/main",
+        "lastUpdated": "2025-11-29T03:08:54+00:00",
+        "counts": {
+          "divisionCount": 4,
+          "contributorCount": 161,
+          "questionCount": 10,
+          "debateSectionCount": 27,
+          "billCount": 6
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-05/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-05/debate/mul@/main.xml"
+          }
+        },
+        "date": "2025-11-05",
+        "debateType": "debate"
+      }
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-29T03:13:53+00:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-10-22/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Defence Developments at EU Level and Scrutiny of EU Legislative Proposals",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-10-22/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 113,
+                "speakerCount": 10
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-10-22/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-10-22/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-22",
+        "house": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 9,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-22"
+    },
+    {
+      "contextDate": "2025-10-22",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-22/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-22/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-10-22",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house"
+        },
+        "lastUpdated": "2025-12-03T03:09:34+00:00",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "statement",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_15",
+              "showAs": "Fisheries: Statements",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 23,
+                "speechCount": 27
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-22/debate/dbsect_15",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-22/debate/main",
+        "counts": {
+          "contributorCount": 136,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0,
+          "debateSectionCount": 15
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Drugs Use",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-23T03:20:36+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-16/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Intergenerational Trauma: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-16/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 127,
+                "speakerCount": 9
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_drugs_use/2025-10-16/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-16/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-16",
+        "house": {
+          "showAs": "Joint Committee on Drugs Use",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_drugs_use",
+          "committeeCode": "joint_committee_on_drugs_use",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 8,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-16"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 167,
+          "questionCount": 0,
+          "divisionCount": 4,
+          "billCount": 2,
+          "debateSectionCount": 21
+        },
+        "lastUpdated": "2025-11-25T03:14:22+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-15/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/main",
+        "date": "2025-10-15",
+        "house": {
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "counts": {
+                "speakerCount": 16,
+                "speechCount": 28
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_26",
+              "showAs": "Financial Resolution No. 5: General (Resumed)",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateType": "financialResolution",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/dbsect_26"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-15"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 167,
+          "questionCount": 0,
+          "divisionCount": 4,
+          "billCount": 2,
+          "debateSectionCount": 21
+        },
+        "lastUpdated": "2025-11-25T03:14:22+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-15/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/main",
+        "date": "2025-10-15",
+        "house": {
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "counts": {
+                "speakerCount": 8,
+                "speechCount": 16
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_7",
+              "showAs": "Schools Building Projects",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/dbsect_3",
+                "debateSectionId": "dbsect_3"
+              },
+              "debateType": "debate",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/dbsect_7"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-15"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Drugs Use",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-14T10:29:26+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-09/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Kinship Care and Care: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-09/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 94,
+                "speakerCount": 8
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_drugs_use/2025-10-09/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-09",
+        "house": {
+          "showAs": "Joint Committee on Drugs Use",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_drugs_use",
+          "committeeCode": "joint_committee_on_drugs_use",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 7,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-09"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Drugs Use",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-09T03:13:11+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-02/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Community Supports: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-02/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 126,
+                "speakerCount": 9
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_drugs_use/2025-10-02/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_drugs_use/2025-10-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-02",
+        "house": {
+          "showAs": "Joint Committee on Drugs Use",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_drugs_use",
+          "committeeCode": "joint_committee_on_drugs_use",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 8,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-02"
+    },
+    {
+      "debateRecord": {
+        "lastUpdated": "2025-10-04T03:16:05+01:00",
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": null,
+              "showAs": "General Scheme of the Criminal Law and Civil Law (Miscellaneous Provisions) Bill 2025: Discussion",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-09-30/debate/dbsect_2",
+              "counts": {
+                "speechCount": 118,
+                "speakerCount": 10
+              },
+              "containsDebate": true,
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "house": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateType": "debate",
+        "date": "2025-09-30",
+        "counts": {
+          "questionCount": 0,
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "contributorCount": 9,
+          "divisionCount": 0
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-09-30/debate/mul@/main.xml"
+          },
+          "pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-09-30/debate/main"
+      },
+      "contextDate": "2025-09-30"
+    },
+    {
+      "contextDate": "2025-09-23",
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-09-23/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_2",
+              "parentDebateSection": null,
+              "counts": {
+                "speechCount": 199,
+                "speakerCount": 13
+              },
+              "containsDebate": true,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-09-23/debate/dbsect_2",
+              "showAs": "International Protection Accommodation Service: Minister for Justice, Home Affairs and Migration",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate"
+            }
+          }
+        ],
+        "counts": {
+          "questionCount": 0,
+          "billCount": 0,
+          "contributorCount": 13,
+          "divisionCount": 0,
+          "debateSectionCount": 1
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-09-23/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-09-23/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration",
+          "houseCode": "dail",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration"
+        },
+        "lastUpdated": "2025-09-27T03:08:50+01:00",
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "date": "2025-09-23",
+        "debateType": "debate"
+      }
+    },
+    {
+      "contextDate": "2025-09-18",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 30,
+          "debateSectionCount": 41,
+          "contributorCount": 126,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "motion",
+              "counts": {
+                "speechCount": 41,
+                "speakerCount": 20
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_35",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "showAs": "Antisocial Behaviour: Motion [Private Members]",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_35"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-18/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:33+00:00",
+        "date": "2025-09-18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-09-18",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 30,
+          "debateSectionCount": 41,
+          "contributorCount": 126,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 5,
+                "speakerCount": 3
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_40",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_37",
+                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate",
+                "debateSectionId": "dbsect_37"
+              },
+              "showAs": "Fishing Industry",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/dbsect_40"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-18/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:33+00:00",
+        "date": "2025-09-18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-18/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-09-17",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 16,
+          "debateSectionCount": 17,
+          "contributorCount": 173,
+          "divisionCount": 1,
+          "billCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "question",
+              "counts": {
+                "speechCount": 24,
+                "speakerCount": 11
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_12",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_12.xml"
+                }
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_11",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_11"
+              },
+              "showAs": "Cabinet Committees",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_12"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-17/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:32+00:00",
+        "date": "2025-09-17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-09-17",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 16,
+          "debateSectionCount": 17,
+          "contributorCount": 173,
+          "divisionCount": 1,
+          "billCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "question",
+              "counts": {
+                "speechCount": 68,
+                "speakerCount": 13
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_13",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/dbsect_13.xml"
+                }
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_11",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_11"
+              },
+              "showAs": "Cabinet Committees",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_13"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-17/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:32+00:00",
+        "date": "2025-09-17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-07-15",
+      "debateRecord": {
+        "lastUpdated": "2025-07-22T03:10:14+01:00",
+        "debateType": "debate",
+        "date": "2025-07-15",
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-15/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 5,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-15/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Schemes of National Cyber Security Bill 2024, Criminal Justice (Violation of EU Restrictive Measures) Bill 2025 and Children (Amendment) Bill 2024: Department of Justice, Home Affairs and Migration",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-15/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 6,
+                "speechCount": 94
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-08",
+      "debateRecord": {
+        "lastUpdated": "2025-07-12T03:07:37+01:00",
+        "debateType": "debate",
+        "date": "2025-07-08",
+        "chamber": {
+          "showAs": "Select Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-07-08/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 10,
+          "debateSectionCount": 3,
+          "divisionCount": 5,
+          "billCount": 1
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-07-08/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-07-08/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Select Committee on Justice, Home Affairs and Migration",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "select_committee_on_justice_home_affairs_and_migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "showAs": "Criminal Justice (Terrorist Offences) (Amendment) Bill 2025: Committee Stage",
+              "bill": {
+                "event": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/34/dail/3",
+                  "houseCode": "dail",
+                  "showAs": "Criminal Justice (Terrorist Offences) (Amendment) Bill 2025: Committee Stage (Dáil)",
+                  "isBillStage": true,
+                  "stage": "3"
+                },
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/34"
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-07-08/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 7,
+                "speechCount": 62
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-03",
+      "debateRecord": {
+        "lastUpdated": "2025-07-12T03:07:53+01:00",
+        "debateType": "debate",
+        "date": "2025-07-03",
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 14,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025: Discussion (Resumed)",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 15,
+                "speechCount": 434
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-03",
+      "debateRecord": {
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 5
+              },
+              "debateType": "question",
+              "bill": null,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/dbsect_7.xml"
+                }
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_7",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_7",
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_2",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/dbsect_2",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions"
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "showAs": "Prison Service"
+            }
+          }
+        ],
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseCode": "dail"
+        },
+        "date": "2025-07-03",
+        "counts": {
+          "divisionCount": 0,
+          "debateSectionCount": 47,
+          "contributorCount": 127,
+          "questionCount": 26,
+          "billCount": 3
+        },
+        "lastUpdated": "2025-10-22T03:21:30+01:00",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-03/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-03/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        }
+      }
+    },
+    {
+      "contextDate": "2025-07-02",
+      "debateRecord": {
+        "lastUpdated": "2025-07-10T04:13:34+01:00",
+        "debateType": "debate",
+        "date": "2025-07-02",
+        "chamber": {
+          "showAs": "Select Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 8,
+          "debateSectionCount": 4,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Select Committee on Defence and National Security",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "select_committee_on_defence_and_national_security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_defence_and_national_security"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_4",
+              "showAs": "Vote 36 - Defence (Revised)",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/dbsect_4",
+              "counts": {
+                "speakerCount": 8,
+                "speechCount": 65
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-01",
+      "debateRecord": {
+        "lastUpdated": "2025-07-10T04:13:21+01:00",
+        "debateType": "debate",
+        "date": "2025-07-01",
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-01/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 12,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-01/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-07-01/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025: Discussion (Resumed)",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-01/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 264
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-01",
+      "debateRecord": {
+        "lastUpdated": "2025-07-10T04:13:21+01:00",
+        "debateType": "debate",
+        "date": "2025-07-01",
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-01/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 9,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-01/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-01/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of the Guardianship of Infants (Amendment) Bill 2025: Discussion",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-07-01/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 96
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "chamberType": "committee",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "counts": {
+          "divisionCount": 0,
+          "contributorCount": 16,
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0
+        },
+        "lastUpdated": "2025-07-03T12:05:48+01:00",
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon"
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025 : Discussion (Resumed)",
+              "counts": {
+                "speakerCount": 17,
+                "speechCount": 322
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/main",
+        "date": "2025-06-26"
+      },
+      "contextDate": "2025-06-26"
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "debateSectionId": "dbsect_14",
+              "showAs": "Offences against the State (Amendment) Act 1998 and Criminal Justice (Amendment) Act 2009: Motions",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-25/debate/dbsect_14",
+              "debateType": "motion",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 18,
+                "speechCount": 32
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "date": "2025-06-25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-25/debate/main",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-25/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-25/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "billCount": 8,
+          "divisionCount": 7,
+          "questionCount": 0,
+          "contributorCount": 165,
+          "debateSectionCount": 22
+        },
+        "lastUpdated": "2025-09-20T03:11:31+01:00"
+      },
+      "contextDate": "2025-06-25"
+    },
+    {
+      "contextDate": "2025-06-24",
+      "debateRecord": {
+        "lastUpdated": "2025-06-30T08:42:38+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 12,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 201
+              },
+              "bill": null,
+              "showAs": "Recent Air Corps Developments: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-24",
+      "debateRecord": {
+        "lastUpdated": "2025-06-27T16:23:50+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "select_committee_on_justice_home_affairs_and_migration",
+          "showAs": "Select Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Select Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 9,
+          "billCount": 0,
+          "debateSectionCount": 7
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_7",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-06-24/debate/dbsect_7",
+              "counts": {
+                "speakerCount": 9,
+                "speechCount": 283
+              },
+              "bill": null,
+              "showAs": "Vote 24 - Justice (Further Revised)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-06-24/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-06-24/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice_home_affairs_and_migration/2025-06-24/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-24",
+      "debateRecord": {
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "billCount": 3,
+          "debateSectionCount": 35,
+          "contributorCount": 170,
+          "divisionCount": 1,
+          "questionCount": 35
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "counts": {
+                "speakerCount": 24,
+                "speechCount": 135
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_4",
+              "debateType": "orderofBusiness",
+              "parentDebateSection": null,
+              "showAs": "An tOrd Gnó - Order of Business",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/dbsect_4"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/main",
+        "date": "2025-06-24",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-24/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/mul@/main.xml"
+          }
+        },
+        "lastUpdated": "2025-10-04T03:15:32+01:00"
+      }
+    },
+    {
+      "contextDate": "2025-06-19",
+      "debateRecord": {
+        "lastUpdated": "2025-06-24T18:23:51+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 13,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 307
+              },
+              "bill": null,
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025 : Discussion (Resumed)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-17",
+      "debateRecord": {
+        "lastUpdated": "2025-06-19T17:24:45+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 12,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-17/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 148
+              },
+              "bill": null,
+              "showAs": "Policing Matters: Discussion (Resumed)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-17/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": null
+        },
+        "date": "2025-06-17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-17/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-17",
+      "debateRecord": {
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "billCount": 4,
+          "debateSectionCount": 34,
+          "contributorCount": 171,
+          "divisionCount": 1,
+          "questionCount": 36
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 21
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/mul@/dbsect_15.xml"
+                }
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_15",
+              "debateType": "question",
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_13",
+                "showAs": "Ceisteanna - Questions",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/dbsect_13"
+              },
+              "showAs": "Departmental Reports",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/dbsect_15"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/main",
+        "date": "2025-06-17",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-17/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/mul@/main.xml"
+          }
+        },
+        "lastUpdated": "2025-10-04T03:15:48+01:00"
+      }
+    },
+    {
+      "contextDate": "2025-06-17",
+      "debateRecord": {
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "billCount": 4,
+          "debateSectionCount": 34,
+          "contributorCount": 171,
+          "divisionCount": 1,
+          "questionCount": 36
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "counts": {
+                "speakerCount": 8,
+                "speechCount": 14
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/mul@/dbsect_16.xml"
+                }
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_16",
+              "debateType": "question",
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_13",
+                "showAs": "Ceisteanna - Questions",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/dbsect_13"
+              },
+              "showAs": "National Security",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/dbsect_16"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/main",
+        "date": "2025-06-17",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-17/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/mul@/main.xml"
+          }
+        },
+        "lastUpdated": "2025-10-04T03:15:48+01:00"
+      }
+    },
+    {
+      "contextDate": "2025-06-12",
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon"
+                  }
+                }
+              ],
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025: Discussion (Resumed)",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-12/debate/dbsect_3",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "bill": null,
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 256
+              },
+              "parentDebateSection": null,
+              "debateType": "debate"
+            }
+          }
+        ],
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-06-12/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-12/debate/mul@/main.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-12/debate/main",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "showAs": "Joint Committee on Defence and National Security",
+          "chamberType": "committee"
+        },
+        "lastUpdated": "2025-07-11T03:04:45+01:00",
+        "date": "2025-06-12",
+        "counts": {
+          "questionCount": 0,
+          "billCount": 0,
+          "divisionCount": 0,
+          "debateSectionCount": 2,
+          "contributorCount": 10
+        },
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "debateType": "debate"
+      }
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "debateSectionCount": 40,
+          "contributorCount": 133,
+          "questionCount": 39,
+          "divisionCount": 0,
+          "billCount": 1
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-06-12",
+        "debateType": "debate",
+        "house": {
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 5
+              },
+              "debateType": "question",
+              "parentDebateSection": {
+                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_2",
+                "debateSectionId": "dbsect_2"
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "showAs": "Air Corps",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/dbsect_6.xml"
+                }
+              },
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_6",
+              "debateSectionId": "dbsect_6"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-12/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/main.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/main",
+        "lastUpdated": "2025-09-19T03:09:26+01:00"
+      },
+      "contextDate": "2025-06-12"
+    },
+    {
+      "contextDate": "2025-06-10",
+      "debateRecord": {
+        "lastUpdated": "2025-06-18T15:06:17+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 13,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 184
+              },
+              "bill": null,
+              "showAs": "Policing Matters: An Garda Síochána",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-10",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-05-29",
+      "debateRecord": {
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "bill": null,
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025: Discussion",
+              "debateSectionId": "dbsect_2",
+              "counts": {
+                "speakerCount": 16,
+                "speechCount": 285
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              }
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "lastUpdated": "2025-06-04T02:58:42+01:00",
+        "counts": {
+          "billCount": 0,
+          "divisionCount": 0,
+          "debateSectionCount": 1,
+          "contributorCount": 15,
+          "questionCount": 0
+        },
+        "house": {
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "chamberType": "committee",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Defence and National Security",
+          "houseCode": "dail"
+        },
+        "date": "2025-05-29"
+      }
+    },
+    {
+      "debateRecord": {
+        "date": "2025-05-27",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-05-27/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-05-27/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "divisionCount": 0,
+          "questionCount": 0,
+          "contributorCount": 6,
+          "debateSectionCount": 2
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-05-27/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "debateSectionId": "dbsect_3",
+              "counts": {
+                "speechCount": 10,
+                "speakerCount": 6
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-05-27/debate/dbsect_3",
+              "showAs": "Election of Leas-Chathaoirleach",
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-30T02:55:24+01:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration"
+        }
+      },
+      "contextDate": "2025-05-27"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_12",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_12"
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/dbsect_13.xml"
+                }
+              },
+              "containsDebate": true,
+              "showAs": "Cabinet Committees",
+              "debateSectionId": "dbsect_13",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 22
+              },
+              "debateType": "question",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_13",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 44,
+          "contributorCount": 172,
+          "divisionCount": 1,
+          "billCount": 2,
+          "debateSectionCount": 34
+        },
+        "debateType": "debate",
+        "date": "2025-05-20",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-20/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:22+01:00"
+      },
+      "contextDate": "2025-05-20"
+    },
+    {
+      "contextDate": "2025-05-15",
+      "debateRecord": {
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-05-17T02:52:23+01:00",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/main",
+        "counts": {
+          "divisionCount": 0,
+          "questionCount": 0,
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "contributorCount": 11
+        },
+        "date": "2025-05-15",
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/dbsect_2",
+              "debateSectionId": "dbsect_2",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tom Brabazon"
+                  }
+                }
+              ],
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 19
+              },
+              "bill": null,
+              "containsDebate": true,
+              "debateType": "debate",
+              "showAs": "Business of Joint Committee"
+            }
+          }
+        ],
+        "debateType": "debate",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Defence and National Security",
+          "chamberType": "committee"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-05-15",
+      "debateRecord": {
+        "date": "2025-05-15",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-15/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-15/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 47,
+          "questionCount": 30,
+          "billCount": 1,
+          "divisionCount": 0,
+          "contributorCount": 133
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-15/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_37",
+              "counts": {
+                "speakerCount": 21,
+                "speechCount": 41
+              },
+              "debateType": "questions",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-15/debate/dbsect_37",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:38+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-05-14",
+      "debateRecord": {
+        "date": "2025-05-14",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-14/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-14/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 18,
+          "questionCount": 0,
+          "billCount": 6,
+          "divisionCount": 7,
+          "contributorCount": 167
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-14/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_11",
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 4
+              },
+              "debateType": "questions",
+              "showAs": "Ceisteanna ó na Comhaltaí Eile - Other Members’ Questions",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-14/debate/dbsect_11",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:37+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-05-14",
+      "debateRecord": {
+        "date": "2025-05-14",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-14/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-14/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 18,
+          "questionCount": 0,
+          "billCount": 6,
+          "divisionCount": 7,
+          "contributorCount": 167
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-14/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_14",
+              "counts": {
+                "speakerCount": 48,
+                "speechCount": 69
+              },
+              "debateType": "statement",
+              "showAs": "Driving Test Wait Times: Statements",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-14/debate/dbsect_14",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:37+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 1,
+          "debateSectionCount": 35,
+          "questionCount": 42,
+          "contributorCount": 171,
+          "billCount": 3
+        },
+        "lastUpdated": "2025-10-14T03:11:19+01:00",
+        "house": {
+          "houseNo": "34",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 46,
+                "speakerCount": 13
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/dbsect_13",
+              "bill": null,
+              "showAs": "Cabinet Committees",
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_13",
+              "containsDebate": true,
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/mul@/dbsect_13.xml"
+                },
+                "pdf": null
+              },
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_12",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/dbsect_12",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "showAs": "Ceisteanna - Questions"
+              }
+            }
+          }
+        ],
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-29/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-04-29"
+      },
+      "contextDate": "2025-04-29"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 1,
+          "debateSectionCount": 35,
+          "questionCount": 42,
+          "contributorCount": 171,
+          "billCount": 3
+        },
+        "lastUpdated": "2025-10-14T03:11:19+01:00",
+        "house": {
+          "houseNo": "34",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 20,
+                "speakerCount": 9
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/dbsect_15",
+              "bill": null,
+              "showAs": "Departmental Offices",
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_15",
+              "containsDebate": true,
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/mul@/dbsect_15.xml"
+                },
+                "pdf": null
+              },
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_12",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/dbsect_12",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "showAs": "Ceisteanna - Questions"
+              }
+            }
+          }
+        ],
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-29/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-29/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-04-29"
+      },
+      "contextDate": "2025-04-29"
+    },
+    {
+      "contextDate": "2025-04-10",
+      "debateRecord": {
+        "date": "2025-04-10",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-10/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-10/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 24,
+          "questionCount": 14,
+          "billCount": 1,
+          "divisionCount": 0,
+          "contributorCount": 121
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-10/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_21",
+              "counts": {
+                "speakerCount": 42,
+                "speechCount": 53
+              },
+              "debateType": "statement",
+              "showAs": "Uisce Éireann: Statements",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-10/debate/dbsect_21",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:25+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-04-09",
+      "debateRecord": {
+        "date": "2025-04-09",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-09/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-09/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 16,
+          "questionCount": 0,
+          "billCount": 3,
+          "divisionCount": 4,
+          "contributorCount": 165
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-09/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_13",
+              "counts": {
+                "speakerCount": 45,
+                "speechCount": 58
+              },
+              "debateType": "statement",
+              "showAs": "Tariffs: Statements",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-09/debate/dbsect_13",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "showAs": "Tom Brabazon",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:39+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-03/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-03/debate/mul@/main.pdf"
+          }
+        },
+        "counts": {
+          "questionCount": 27,
+          "billCount": 0,
+          "contributorCount": 127,
+          "divisionCount": 0,
+          "debateSectionCount": 44
+        },
+        "date": "2025-04-03",
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "showAs": "Diverting Young People from Criminal Activity: Statements (Resumed)",
+              "parentDebateSection": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-03/debate/dbsect_33",
+              "counts": {
+                "speakerCount": 20,
+                "speechCount": 29
+              },
+              "containsDebate": true,
+              "bill": null,
+              "debateType": "statement",
+              "debateSectionId": "dbsect_33",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "lastUpdated": "2025-07-10T04:08:47+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-03/debate/main",
+        "debateType": "debate",
+        "house": {
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail"
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        }
+      },
+      "contextDate": "2025-04-03"
+    },
+    {
+      "contextDate": "2025-04-02",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-02/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-02/debate/main",
+        "lastUpdated": "2025-08-09T03:10:51+01:00",
+        "counts": {
+          "contributorCount": 172,
+          "debateSectionCount": 33,
+          "divisionCount": 3,
+          "billCount": 1,
+          "questionCount": 14
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "debateSectionId": "dbsect_4",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-02/debate/dbsect_4",
+              "bill": null,
+              "counts": {
+                "speakerCount": 7,
+                "speechCount": 14
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_3",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-02/debate/dbsect_3",
+                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate"
+              },
+              "showAs": "Special Educational Needs",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-04-02"
+      }
+    },
+    {
+      "contextDate": "2025-03-05",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-03-05/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-05/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-05/debate/main",
+        "lastUpdated": "2025-07-10T04:12:17+01:00",
+        "counts": {
+          "contributorCount": 172,
+          "debateSectionCount": 14,
+          "divisionCount": 5,
+          "billCount": 1,
+          "questionCount": 0
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "statement",
+              "debateSectionId": "dbsect_11",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-05/debate/dbsect_11",
+              "bill": null,
+              "counts": {
+                "speakerCount": 33,
+                "speechCount": 87
+              },
+              "parentDebateSection": null,
+              "showAs": "Policing and Community Safety: Statements (Resumed)",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-03-05"
+      }
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "debateSectionCount": 29,
+          "contributorCount": 172,
+          "questionCount": 50,
+          "divisionCount": 1,
+          "billCount": 0
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-03-04",
+        "debateType": "debate",
+        "house": {
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 24
+              },
+              "debateType": "question",
+              "parentDebateSection": {
+                "showAs": "Ceisteanna - Questions",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/dbsect_8",
+                "debateSectionId": "dbsect_8"
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29"
+                  }
+                }
+              ],
+              "showAs": "Cabinet Committees",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/mul@/dbsect_11.xml"
+                }
+              },
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/dbsect_11",
+              "debateSectionId": "dbsect_11"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-03-04/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/mul@/main.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/main",
+        "lastUpdated": "2025-09-19T03:09:03+01:00"
+      },
+      "contextDate": "2025-03-04"
+    },
+    {
+      "contextDate": "2025-02-25",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-25/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/main",
+        "lastUpdated": "2025-07-10T04:09:41+01:00",
+        "counts": {
+          "contributorCount": 172,
+          "debateSectionCount": 29,
+          "divisionCount": 1,
+          "billCount": 0,
+          "questionCount": 52
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "statement",
+              "debateSectionId": "dbsect_13",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/dbsect_13",
+              "bill": null,
+              "counts": {
+                "speakerCount": 43,
+                "speechCount": 46
+              },
+              "parentDebateSection": null,
+              "showAs": "Disability: Statements",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-02-25"
+      }
+    },
+    {
+      "contextDate": "2025-02-13",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-13/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-13/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-13/debate/main",
+        "lastUpdated": "2025-07-10T04:12:05+01:00",
+        "counts": {
+          "contributorCount": 114,
+          "debateSectionCount": 42,
+          "divisionCount": 0,
+          "billCount": 1,
+          "questionCount": 31
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "question",
+              "debateSectionId": "dbsect_14",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-13/debate/dbsect_14",
+              "bill": null,
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 6
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_8",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-13/debate/dbsect_8",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "showAs": "Credit Unions",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-13/debate/mul@/dbsect_14.xml"
+                }
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tom Brabazon",
+                    "memberCode": "Tom-Brabazon.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Brabazon.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-02-13"
+      }
+    }
+  ]
+}

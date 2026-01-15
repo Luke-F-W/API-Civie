@@ -1,0 +1,1954 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 7,
+      "resultCount": 7
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "75",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2023",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-10-07",
+            "debateSectionId": "dbsect_19",
+            "showAs": "Developer Profits Transparency Bill 2023: Second Stage (Resumed) [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-07/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2025-10-02",
+            "debateSectionId": "dbsect_41",
+            "showAs": "Developer Profits Transparency Bill 2023: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-02/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2023-10-25",
+            "debateSectionId": "dbsect_12",
+            "showAs": "Developer Profits Transparency Bill 2023: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2023-10-25/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-10-17"
+                },
+                {
+                  "date": "2023-10-17"
+                },
+                {
+                  "date": "2023-10-25"
+                },
+                {
+                  "date": "2025-05-01"
+                },
+                {
+                  "date": "2025-10-07"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/approved-for-initiation"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-10-10T12:31:12.570000+00:00",
+        "longTitleEn": "<p style=\"margin-right:10px; text-align:justify\">Bill entitled an Act to introduce a requirement for property developers who are in receipt of State subsidies to publish annual financial statements.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do thabhairt isteach ceanglais go bhfoilseoidh forbróirí réadmhaoine a fhaigheann fóirdheontais Stáit ráitis airgeadais bhliantúla.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2023-10-17"
+              },
+              {
+                "date": "2023-10-17"
+              },
+              {
+                "date": "2023-10-25"
+              },
+              {
+                "date": "2023-10-25"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2023-10-25",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/eng/memo/b7523d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Developer Profits Transparency Bill 2023",
+        "shortTitleGa": "An Bille um Thrédhearcacht Brabús Forbróirí, 2023",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Cian O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-10-17"
+                },
+                {
+                  "date": "2023-10-17"
+                },
+                {
+                  "date": "2023-10-25"
+                },
+                {
+                  "date": "2023-10-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Defeated",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/defeated",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75",
+        "versions": [
+          {
+            "version": {
+              "date": "2023-10-25",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/eng/initiated/b7523d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/75/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 75,
+        "billShortTitleEnSort": "developer-profits-transparency-bill-2023",
+        "billShortTitleGaSort": "an-bille-um-thredhearcacht-brabus-forbroiri-2023",
+        "billYearSort": 2023
+      },
+      "contextDate": "2023-10-25"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "27",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2023",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2023-12-07",
+            "debateSectionId": "dbsect_42",
+            "showAs": "Tenancy Protection Bill 2023: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2023-12-07/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2023-03-28",
+            "debateSectionId": "dbsect_8",
+            "showAs": "Tenancy Protection Bill 2023: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2023-03-28/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-01-24"
+                },
+                {
+                  "date": "2023-03-06"
+                },
+                {
+                  "date": "2023-03-28"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-02T11:42:37.920000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend section 35A of the Residential Tenancies Act 2004 (as amended) so as to protect tenants of multi-unit developments from large-scale evictions.</p>\n",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú alt 35A den Acht um Thionóntachtaí Cónaithe, 2004 (arna leasú) d’fhonn tionóntaí forbairtí ilaonad a chosaint ar dhíshealbhuithe mórscála.</p>\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2024-11-08"
+              },
+              {
+                "date": "2025-05-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 3,
+            "showAs": "Committee Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/stage/dail/3"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2023-03-28",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/eng/memo/b2723d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Tenancy Protection Bill 2023",
+        "shortTitleGa": "An Bille um Chosaint Tionóntachta, 2023",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Cian O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-01-24"
+                },
+                {
+                  "date": "2023-03-06"
+                },
+                {
+                  "date": "2023-03-28"
+                },
+                {
+                  "date": "2023-03-28"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2023-03-28"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/stage/dail/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/stage/dail/3"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27",
+        "versions": [
+          {
+            "version": {
+              "date": "2023-03-28",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/eng/initiated/b2723d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2023/27/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 27,
+        "billShortTitleEnSort": "tenancy-protection-bill-2023",
+        "billShortTitleGaSort": "an-bille-um-chosaint-tionontachta-2023",
+        "billYearSort": 2023
+      },
+      "contextDate": "2025-05-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "28",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2022",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-03-23",
+            "debateSectionId": "dbsect_8",
+            "showAs": "Ban on Sex for Rent Bill 2022: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-03-23/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-03-08",
+            "debateSectionId": "dbsect_8",
+            "showAs": "Ban on Sex for Rent Bill 2022: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-03-08/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-03-04"
+                },
+                {
+                  "date": "2022-03-04"
+                },
+                {
+                  "date": "2022-03-08"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/approved-for-initiation"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-02T12:07:29.380000+00:00",
+        "longTitleEn": "Bill entitled an Act to create an offence of requiring or accepting sex as a condition of accommodation and an offence of arranging or facilitating the requirement or acceptance of sex as a condition of accommodation.",
+        "longTitleGa": "Bille dá ngairtear Acht do chruthú cion arb éard é a cheangal go mbeidh gnéas ina choinníoll cóiríochta nó gnéas a ghlacadh mar choinníoll cóiríochta agus cion arb éard é an ceanglas maidir le gnéas, nó glacadh le gnéas, mar choinníoll cóiríochta a shocrú nó a éascú.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2024-11-08"
+              },
+              {
+                "date": "2025-05-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 3,
+            "showAs": "Committee Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/stage/dail/3"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2022-03-08",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/eng/memo/b2822d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Ban on Sex for Rent Bill 2022",
+        "shortTitleGa": "An Bille um Chosc ar Ghnéas i gComhair Cíosa, 2022",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Cian O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-03-04"
+                },
+                {
+                  "date": "2022-03-04"
+                },
+                {
+                  "date": "2022-03-08"
+                },
+                {
+                  "date": "2022-03-08"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2022-03-08"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/stage/dail/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/stage/dail/3"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28",
+        "versions": [
+          {
+            "version": {
+              "date": "2022-03-08",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/eng/initiated/b2822d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2022/28/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 28,
+        "billShortTitleEnSort": "ban-on-sex-for-rent-bill-2022",
+        "billShortTitleGaSort": "an-bille-um-chosc-ar-ghneas-i-gcomhair-ciosa-2022",
+        "billYearSort": 2022
+      },
+      "contextDate": "2025-05-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "159",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-12-14",
+            "debateSectionId": "dbsect_21",
+            "showAs": "Residential Tenancies (Amendment) (Extension of Notice Periods) Bill 2021: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-12-14/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-12-07",
+            "debateSectionId": "dbsect_7",
+            "showAs": "Residential Tenancies (Amendment) (Extension of Notice Periods) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-12-07/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-10-12"
+                },
+                {
+                  "date": "2021-10-12"
+                },
+                {
+                  "date": "2021-12-07"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/approved-for-initiation"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "Bill entitled Act to provide for the automatic extension of notice periods with respect to residential tenancies where a tenant is certified as at risk of homelessness and for that purpose to amend the Residential Tenancies Act 2004 and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do dhéanamh socrú maidir le tréimhsí fógra a fhadú go huathoibríoch maidir le tionóntachtaí cónaithe i gcás go ndeimhnítear go bhfuil tionónta i mbaol na heaspa dídine agus, chun na críche sin, do leasú an Achta um Thionóntachtaí Cónaithe, 2004 agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2021-12-07"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-12-07",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/eng/memo/b15921d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Residential Tenancies (Amendment) (Extension of Notice Periods) Bill 2021",
+        "shortTitleGa": "An Bille um Thionóntachtaí Cónaithe (Leasú) (Tréimhsí Fógra a Fhadú), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Eoin Ó Broin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Richard Boyd Barrett",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joan Collins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joan-Collins.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Marian Harkin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Marian-Harkin.D.2002-06-06"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Ged Nash",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Nash.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Cian O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-10-12"
+                },
+                {
+                  "date": "2021-10-12"
+                },
+                {
+                  "date": "2021-12-07"
+                },
+                {
+                  "date": "2021-12-07"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-12-07"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-12-07",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/eng/initiated/b15921d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/159/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 159,
+        "billShortTitleEnSort": "residential-tenancies-amendment-extension-of-notice-periods-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-thionontachtai-conaithe-leasu-treimhsi-fogra-a-fhadu-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-12-07"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "129",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-06-01",
+            "debateSectionId": "dbsect_23",
+            "showAs": "Property Services (Land Price Register) Bill 2021: Second Stage (Resumed) [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-01/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2022-05-26",
+            "debateSectionId": "dbsect_42",
+            "showAs": "Property Services (Land Price Register) Bill 2021: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-05-26/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-10-19",
+            "debateSectionId": "dbsect_7",
+            "showAs": "Property Services (Land Price Register) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-10-19/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-09-22"
+                },
+                {
+                  "date": "2021-09-22"
+                },
+                {
+                  "date": "2021-10-19"
+                },
+                {
+                  "date": "2022-06-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/approved-for-initiation"
+            }
+          }
+        ],
+        "lastUpdated": "2024-09-11T14:11:00.470000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend and extend the Property Services (Regulation) Act 2011 to provide for transparency regarding transactions involving property and for those purposes to expand the register that records residential property sales prices, to establish a land and other non-residential property transaction database and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú agus do leathnú an Achta um Sheirbhísí Maoine (Rialáil), 2011 chun socrú a dhéanamh i dtaobh trédhearcacht maidir le hidirbhearta lena ngabhann maoin agus, chun na gcríoch sin, chun an clár a mhéadú ina dtaifeadtear praghasanna díolachán maoine cónaithe, chun bunachar sonraí um idirbhearta talún agus maoine eile neamhchónaithe a bhunú agus do dhéanamh socrú i dtaobh nithe gaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2021-10-19"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-10-19",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/eng/memo/b12921d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Property Services (Land Price Register) Bill 2021",
+        "shortTitleGa": "An Bille um Sheirbhísí Maoine (Clár um Praghsanna Talún), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Cian O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-09-22"
+                },
+                {
+                  "date": "2021-09-22"
+                },
+                {
+                  "date": "2021-10-19"
+                },
+                {
+                  "date": "2021-10-19"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-10-19"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Defeated",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/defeated",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-10-19",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/eng/initiated/b12921d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/129/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 129,
+        "billShortTitleEnSort": "property-services-land-price-register-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-sheirbhisi-maoine-clar-um-praghsanna-talun-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-10-19"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "60",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-05-06",
+            "debateSectionId": "dbsect_12",
+            "showAs": "Planning and Development (Amendment) (Repeal of Part V Leasing) Bill 2021: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-06/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-04-28",
+            "debateSectionId": "dbsect_17",
+            "showAs": "Planning and Development (Amendment) (Repeal of Part V Leasing) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-04-28/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-04-20"
+                },
+                {
+                  "date": "2021-04-28"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-02T10:23:41.740000+00:00",
+        "longTitleEn": "Bill entitled an Act to repeal the parts of the Planning and Development Act 2000 that provide for the provision of social housing via Part V leasing.",
+        "longTitleGa": "Bille dá ngairtear Acht d’aisghairm na gcodanna den Acht um Pleanáil agus Forbairt, 2000 lena ndéantar socrú maidir le tithíocht shóisialta a sholáthar trí léasú Chuid V.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2024-11-08"
+              },
+              {
+                "date": "2025-05-01"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 3,
+            "showAs": "Committee Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/stage/dail/3"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-04-28",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/eng/memo/b6021d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Planning and Development (Amendment) (Repeal of Part V Leasing) Bill 2021",
+        "shortTitleGa": "An Bille um Pleanáil agus Forbairt (Leasú) (Léasú Chuid V a Aisghairm), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Cian O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-04-20"
+                },
+                {
+                  "date": "2021-04-28"
+                },
+                {
+                  "date": "2021-04-28"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-04-28"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/stage/dail/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                },
+                {
+                  "date": "2025-05-01"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/stage/dail/3"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-04-28",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/eng/initiated/b6021d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/60/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 60,
+        "billShortTitleEnSort": "planning-and-development-amendment-repeal-of-part-v-leasing-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-pleanail-agus-forbairt-leasu-leasu-chuid-v-a-aisghairm-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2025-05-01"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "26",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-04-28",
+            "debateSectionId": "dbsect_2",
+            "showAs": "Residential Tenancies (Student Rents and Other Protections) (Covid-19) Bill 2021: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-04-28/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-02-25",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Residential Tenancies (Student Rents and Other Protections) (Covid-19) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-02-25/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-02-19"
+                },
+                {
+                  "date": "2021-02-25"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "\nBill entitled an Act to make provision in relation to certain tenants’ obligations to pay rent in respect of dwellings used for accommodation during academic term times, to make provision in relation to the maximum period of notice required by such tenants to terminate a tenancy, to oblige certain landlords to refund relevant payments in certain circumstances relating to Covid-19, for those purposes to amend the Residential Tenancies Act 2004 and to provide for related matters.\n",
+        "longTitleGa": "Bille dá ngairtear Acht do dhéanamh socrú i ndáil le hoibleagáidí de chuid tionóntaí áirithe cíos a íoc i leith teaghaisí a úsáidtear le haghaidh cóiríochta le linn amanna an téarma acadúil, do dhéanamh socrú i ndáil leis an tréimhse fógra uasta a cheanglaíonn tionóntaí den sórt sin a thabhairt chun tionóntacht a fhoirceannadh, do chur oibleagáid ar thiarnaí talún áirithe íocaíochtaí iomchuí a aisíoc in imthosca áirithe a bhaineann le Covid-19, chun na gcríoch sin do leasú an Achta um Thionóntachtaí Cónaithe, 2004 agus do dhéanamh socrú i dtaobh nithe gaolmhara.\n\n",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2021-02-25"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-02-25",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/eng/memo/b2621d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Residential Tenancies (Student Rents and Other Protections) (Covid-19) Bill 2021",
+        "shortTitleGa": "An Bille um Thionóntachtaí Cónaithe (Cíosanna agus Cosaintí Eile do Mhic Léinn) (Covid-19), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Eoin Ó Broin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Eoin-Ó-Broin.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Rose Conway-Walsh",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Cian O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Aodhán Ó Ríordáin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Aodhán-Ó-Ríordáin.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Bríd Smith",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bríd-Smith.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Joan Collins",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joan-Collins.D.2011-03-09"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-02-19"
+                },
+                {
+                  "date": "2021-02-25"
+                },
+                {
+                  "date": "2021-02-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-02-25"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-02-25",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/eng/initiated/b2621d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/26/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 26,
+        "billShortTitleEnSort": "residential-tenancies-student-rents-and-other-protections-covid-19-bill-2021",
+        "billShortTitleGaSort": "an-bille-um-thionontachtai-conaithe-ciosanna-agus-cosainti-eile-do-mhic-leinn-covid-19-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-02-25"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 2,
+      "resultCount": 2
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "83",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2024",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2024-10-08",
+            "debateSectionId": "dbsect_13",
+            "showAs": "Sale of Tickets (Cultural, Entertainment, Recreational and Sporting Events) (Amendment) Bill 2024: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2024-10-08/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-09-13"
+                },
+                {
+                  "date": "2024-09-13"
+                },
+                {
+                  "date": "2024-10-08"
+                },
+                {
+                  "date": "2025-05-27"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/approved-for-initiation"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-28T08:47:47.510000+00:00",
+        "longTitleEn": "<p>Bill entitled an Act to amend the Sale of Tickets (Cultural, Entertainment, Recreational and Sporting Events) Act 2021 so as to prohibit a primary ticket seller from engaging in dynamic pricing when selling, or advertising for sale, tickets or ticket packages for cultural, entertainment, recreational and sporting events, and to promote fairer access to tickets by prohibiting the sale, or advertising for sale, of tickets or ticket packages for a price that is adjusted or set by dynamic pricing to meet increased demand.</p>",
+        "longTitleGa": "<p>Bille dá ngairtear Acht do leasú an Achta um Dhíol Ticéad (Imeachtaí Cultúir, Siamsaíochta, Áineasa agus Spóirt), 2021 d’fhonn toirmeasc a chur ar phríomhdhíoltóir ticéad a bheith ag gabháil do phraghsáil dhinimiciúil tráth a bheidh ticéid nó pacáistí ticéad le haghaidh imeachtaí cultúir, siamsaíochta, áineasa agus spóirt á ndíol nó tráth a bheidh ticéid nó pacáistí ticéad le haghaidh imeachtaí den sórt sin á bhfógairt lena ndíol, agus d’fhonn rochtain ar thicéid ar bhonn níos córa a chur chun cinn trí thoirmeasc a chur le ticéid nó le pacáistí ticéad a dhíol, nó le ticéid nó le pacáistí ticéad a fhógairt lena ndíol, ar phraghas a dhéantar a choigeartú nó a shocrú le praghsáil dhinimiciúil chun freastal ar an méadú ar éileamh.</p>",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2024-10-08"
+              },
+              {
+                "date": "2024-10-08"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": false,
+            "stageOutcome": "Current",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2024-10-08",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/eng/memo/b8324d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Sale of Tickets (Cultural, Entertainment, Recreational and Sporting Events) (Amendment) Bill 2024",
+        "shortTitleGa": "An Bille um Dhíol Ticéad (Imeachtaí Cultúir, Siamsaíochta, Áineasa agus Spóirt) (Leasú), 2024",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jim O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jim-O'Callaghan.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Niamh Smyth",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-09-13"
+                },
+                {
+                  "date": "2024-09-13"
+                },
+                {
+                  "date": "2024-10-08"
+                },
+                {
+                  "date": "2024-10-08"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-10-08"
+                },
+                {
+                  "date": "2024-10-08"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": false,
+              "stageOutcome": "Current",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Current",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/published",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83",
+        "versions": [
+          {
+            "version": {
+              "date": "2024-10-08",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/eng/initiated/b8324d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2024/83/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 83,
+        "billShortTitleEnSort": "sale-of-tickets-cultural-entertainment-recreational-and-sporting-events-amendment-bill-2024",
+        "billShortTitleGaSort": "an-bille-um-dhiol-ticead-imeachtai-cultuir-siamsaiochta-aineasa-agus-spoirt-leasu-2024",
+        "billYearSort": 2024
+      },
+      "contextDate": "2024-10-08"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "23",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2018",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-31",
+            "debateSectionId": "dbsect_69",
+            "showAs": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-31/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-31",
+            "debateSectionId": "dbsect_70",
+            "showAs": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018: Referral to Select Committee [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-31/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-02-22",
+            "debateSectionId": "dbsect_21",
+            "showAs": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-02-22/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2018-02-22"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to provide maternity leave for female members of the Houses of the Oireachtas and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do sholáthar saoire mháithreachais do mhná ar comhaltaí de Thithe an Oireachtais iad agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2018-02-22"
+              },
+              {
+                "date": "2018-02-22"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Maternity Protection (Members of the Houses of the Oireachtas) Bill 2018",
+        "shortTitleGa": "An Bille um Chosaint Mháithreachais (Comhaltaí de Thithe an Oireachtais), 2018",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Anne Rabbitte",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Niamh Smyth",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-02-22"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-02-22"
+                },
+                {
+                  "date": "2018-02-22"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23",
+        "versions": [
+          {
+            "version": {
+              "date": "2018-02-22",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/eng/initiated/b2318d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2018/23/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 23,
+        "billShortTitleEnSort": "maternity-protection-members-of-the-houses-of-the-oireachtas-bill-2018",
+        "billShortTitleGaSort": "an-bille-um-chosaint-mhaithreachais-comhaltai-de-thithe-an-oireachtais-2018",
+        "billYearSort": 2018
+      },
+      "contextDate": "2018-02-22"
+    }
+  ]
+}

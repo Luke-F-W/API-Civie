@@ -1,0 +1,2320 @@
+{
+  "head": {
+    "counts": {
+      "divisionCount": 33,
+      "resultCount": 33
+    }
+  },
+  "results": [
+    {
+      "division": {
+        "category": "Division",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "showAs": "27th Seanad",
+          "houseNo": "27",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "chamberType": "house"
+        },
+        "voteNote": "",
+        "date": "2025-05-21",
+        "tellers": "Tellers: Tá, Senators Garret Ahearn and Paul Daly; Níl, Senators Chris Andrews and Nicole Ryan.",
+        "isBill": false,
+        "datetime": "2025-05-21T10:30:00+01:00",
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "outcome": "Carried",
+        "tallies": {
+          "staonVotes": null,
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 19
+          },
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "showAs": "Bradley, Nikki.",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 31
+          }
+        },
+        "memberTally": {
+          "member": {
+            "showAs": "Bradley, Nikki.",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+          },
+          "showAs": "Tá"
+        },
+        "subject": {
+          "showAs": "Amendment put: ",
+          "uri": null
+        },
+        "debate": {
+          "showAs": "Equality (Miscellaneous Provisions) Bill 2025: Second Stage",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/main",
+          "debateSection": "dbsect_11"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2025-05-21/vote_1",
+        "voteId": "vote_1"
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "contextDate": "2025-04-29",
+      "division": {
+        "isBill": false,
+        "voteId": "vote_1",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2025-04-29/vote_1",
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "tellers": "Tellers: Tá, Senators Nessa Cosgrove and Laura Harmon; Níl, Senators Garret Ahearn and Paul Daly.",
+        "datetime": "2025-04-29T14:30:00+01:00",
+        "category": "Division",
+        "date": "2025-04-29",
+        "tallies": {
+          "staonVotes": null,
+          "taVotes": {
+            "tally": 6,
+            "showAs": "Tá",
+            "members": []
+          },
+          "nilVotes": {
+            "tally": 25,
+            "showAs": "Níl",
+            "members": [
+              {
+                "member": {
+                  "showAs": "Bradley, Nikki.",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+                }
+              }
+            ]
+          }
+        },
+        "memberTally": {
+          "member": {
+            "showAs": "Bradley, Nikki.",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+          },
+          "showAs": "Níl"
+        },
+        "outcome": "Lost",
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-04-29/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "debateSection": "dbsect_13",
+          "showAs": "Revised National Planning Framework: Motion",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-04-29/debate/main"
+        },
+        "house": {
+          "houseNo": "27",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "houseCode": "seanad",
+          "chamberType": "house",
+          "showAs": "27th Seanad"
+        },
+        "voteNote": "",
+        "subject": {
+          "showAs": "Amendment put: ",
+          "uri": null
+        }
+      }
+    },
+    {
+      "contextDate": "2025-04-29",
+      "division": {
+        "isBill": false,
+        "voteId": "vote_2",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2025-04-29/vote_2",
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "tellers": "Tellers: Tá, Senators Garret Ahearn and Paul Daly; Níl, Senators Maria McCormack and Conor Murphy.",
+        "datetime": "2025-04-29T14:30:00+01:00",
+        "category": "Division",
+        "date": "2025-04-29",
+        "tallies": {
+          "staonVotes": null,
+          "taVotes": {
+            "tally": 25,
+            "showAs": "Tá",
+            "members": [
+              {
+                "member": {
+                  "showAs": "Bradley, Nikki.",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+                }
+              }
+            ]
+          },
+          "nilVotes": {
+            "tally": 11,
+            "showAs": "Níl",
+            "members": []
+          }
+        },
+        "memberTally": {
+          "member": {
+            "showAs": "Bradley, Nikki.",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+          },
+          "showAs": "Tá"
+        },
+        "outcome": "Carried",
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-04-29/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "debateSection": "dbsect_13",
+          "showAs": "Revised National Planning Framework: Motion",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-04-29/debate/main"
+        },
+        "house": {
+          "houseNo": "27",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "houseCode": "seanad",
+          "chamberType": "house",
+          "showAs": "27th Seanad"
+        },
+        "voteNote": "",
+        "subject": {
+          "showAs": "Question put: \"That the motion be agreed to.\"",
+          "uri": null
+        }
+      }
+    },
+    {
+      "contextDate": "2025-03-04",
+      "division": {
+        "isBill": false,
+        "voteId": "vote_1",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2025-03-04/vote_1",
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "tellers": "Tellers: Tá, Senators Garret Ahearn and Paul Daly; Níl, Senators Maria McCormack and Joanne Collins.",
+        "datetime": "2025-03-04T14:30:00+00:00",
+        "category": "Division",
+        "date": "2025-03-04",
+        "tallies": {
+          "staonVotes": null,
+          "taVotes": {
+            "tally": 23,
+            "showAs": "Tá",
+            "members": [
+              {
+                "member": {
+                  "showAs": "Bradley, Nikki.",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+                }
+              }
+            ]
+          },
+          "nilVotes": {
+            "tally": 11,
+            "showAs": "Níl",
+            "members": []
+          }
+        },
+        "memberTally": {
+          "member": {
+            "showAs": "Bradley, Nikki.",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+          },
+          "showAs": "Tá"
+        },
+        "outcome": "Carried",
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-04/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "debateSection": "dbsect_13",
+          "showAs": "Merchant Shipping (Investigation of Marine Accidents) Bill 2024: Second Stage",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-04/debate/main"
+        },
+        "house": {
+          "houseNo": "27",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "houseCode": "seanad",
+          "chamberType": "house",
+          "showAs": "27th Seanad"
+        },
+        "voteNote": "",
+        "subject": {
+          "showAs": "Question put: ",
+          "uri": null
+        }
+      }
+    },
+    {
+      "division": {
+        "subject": {
+          "uri": null,
+          "showAs": "Question put: \"That Senator Maria Byrne be elected Leas-Chathaoirleach.\""
+        },
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Tá"
+        },
+        "date": "2025-02-19",
+        "datetime": "2025-02-19T14:30:00+00:00",
+        "debate": {
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-19/debate/main",
+          "debateSection": "dbsect_3",
+          "showAs": "Election of Leas-Chathaoirleach",
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-19/debate/mul@/main.xml"
+            }
+          }
+        },
+        "voteNote": "",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "27",
+          "houseCode": "seanad",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "committeeCode": "",
+          "showAs": "27th Seanad"
+        },
+        "isBill": false,
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        },
+        "tallies": {
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 36
+          },
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 15
+          },
+          "staonVotes": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2025-02-19/vote_1",
+        "category": "Division",
+        "voteId": "vote_1",
+        "outcome": "Carried",
+        "tellers": "Tellers: Tá, Senators Garret Ahearn and Paul Daly; Níl, Senators Frances Black and Nessa Cosgrove.."
+      },
+      "contextDate": "2025-02-19"
+    },
+    {
+      "contextDate": "2025-02-13",
+      "division": {
+        "category": "Division",
+        "debate": {
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-13/debate/main",
+          "showAs": "Ministers and Secretaries and Ministerial, Parliamentary, Judicial and Court Offices (Amendment) Bill 2025: Second Stage",
+          "debateSection": "dbsect_5",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-13/debate/mul@/main.xml"
+            },
+            "pdf": null
+          }
+        },
+        "voteId": "vote_1",
+        "datetime": "2025-02-13T10:30:00+00:00",
+        "isBill": false,
+        "memberTally": {
+          "showAs": "Tá",
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki.",
+            "memberCode": "Nikki-Bradley.S.2024-07-10"
+          }
+        },
+        "voteNote": "",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        },
+        "house": {
+          "showAs": "27th Seanad",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "houseNo": "27",
+          "chamberType": "house",
+          "houseCode": "seanad",
+          "committeeCode": ""
+        },
+        "tellers": "Tellers: Tá, Senators Garret Ahearn and Robbie Gallagher; Níl, Senators Conor Murphy and Pauline Tully..",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2025-02-13/vote_1",
+        "date": "2025-02-13",
+        "subject": {
+          "uri": null,
+          "showAs": "Question put: "
+        },
+        "outcome": "Carried",
+        "tallies": {
+          "staonVotes": null,
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki.",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10"
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 38
+          },
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 13
+          }
+        }
+      }
+    },
+    {
+      "contextDate": "2025-02-13",
+      "division": {
+        "category": "Division",
+        "debate": {
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-13/debate/main",
+          "showAs": "Ministers and Secretaries and Ministerial, Parliamentary, Judicial and Court Offices (Amendment) Bill 2025: Committee and Remaining Stages",
+          "debateSection": "dbsect_9",
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-13/debate/mul@/main.xml"
+            },
+            "pdf": null
+          }
+        },
+        "voteId": "vote_2",
+        "datetime": "2025-02-13T10:30:00+00:00",
+        "isBill": false,
+        "memberTally": {
+          "showAs": "Tá",
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki.",
+            "memberCode": "Nikki-Bradley.S.2024-07-10"
+          }
+        },
+        "voteNote": "",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        },
+        "house": {
+          "showAs": "27th Seanad",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "houseNo": "27",
+          "chamberType": "house",
+          "houseCode": "seanad",
+          "committeeCode": ""
+        },
+        "tellers": "Tellers: Tá, Senators Garret Ahearn and Robbie Gallagher; Níl, Senators Conor Murphy and Pauline Tully..",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2025-02-13/vote_2",
+        "date": "2025-02-13",
+        "subject": {
+          "uri": null,
+          "showAs": "Question put: \"That the Bill do now pass.\""
+        },
+        "outcome": "Carried",
+        "tallies": {
+          "staonVotes": null,
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki.",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10"
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 35
+          },
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 12
+          }
+        }
+      }
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Carried",
+        "tallies": {
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 9
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 24
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_24",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Question put: "
+        },
+        "tellers": "Tellers: Tá, Senators Robbie Gallagher and Joe O'Reilly; Níl, Senators Victor Boyhan and Mark Wall.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Tá"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_10",
+        "voteId": "vote_10",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 21
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 7
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_43",
+          "showAs": " Gambling Regulation Bill 2022: Committee Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Michael McDowell and Sharon Keogan; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_11",
+        "voteId": "vote_11",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 23
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 13
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_8",
+          "showAs": "An tOrd Gnó - Order of Business"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Alice-Mary Higgins and Eileen Flynn; Níl, Senators Robbie Gallagher and Seán Kyne.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_1",
+        "voteId": "vote_1",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Carried",
+        "tallies": {
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 13
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 22
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_8",
+          "showAs": "An tOrd Gnó - Order of Business"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Question put: \"That the Order of Business, as amended, be agreed to.\""
+        },
+        "tellers": "Tellers: Tá, Senators Robbie Gallagher and Seán Kyne; Níl, Senators Michael McDowell and Victor Boyhan..",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Tá"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_2",
+        "voteId": "vote_2",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 23
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 11
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_16",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Eileen Flynn and Frances Black; Níl, Senators Robbie Gallagher and Seán Kyne.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_3",
+        "voteId": "vote_3",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 21
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 7
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_16",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Alice-Mary Higgins and Frances Black; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_4",
+        "voteId": "vote_4",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 25
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 9
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_24",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Victor Boyhan and Eileen Flynn; Níl, Senators Robbie Gallagher and Joe O'Reilly..",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_5",
+        "voteId": "vote_5",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 24
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 9
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_24",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Victor Boyhan and Tom Clonan; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_6",
+        "voteId": "vote_6",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 22
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 8
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_24",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Victor Boyhan and Frances Black; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_7",
+        "voteId": "vote_7",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 25
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 8
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_24",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Alice-Mary Higgins and Frances Black; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_8",
+        "voteId": "vote_8",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 26
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 8
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-25/debate/main",
+          "debateSection": "dbsect_24",
+          "showAs": "Planning and Development Bill 2023: Report Stage (Resumed) and Final Stage"
+        },
+        "voteNote": "Pursuant to Standing Order 57A, Senator Rebecca Moynihan has notified the Cathaoirleach that she is on maternity leave from 23rd September, 2024 for the remainder of this Seanad term and, accordingly, has not voted in this division. Senator Catherine Ardagh has notified the Cathaoirleach that she has entered into a voting pairing arrangement with Senator Moynihan for the duration of her maternity leave and, accordingly, has not voted in this division.",
+        "date": "2024-09-25",
+        "isBill": false,
+        "datetime": "2024-09-25T10:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Alice-Mary Higgins and Frances Black; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-09-25/vote_9",
+        "voteId": "vote_9",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-25"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Carried",
+        "tallies": {
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 12
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 27
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-17/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-17/debate/main",
+          "debateSection": "dbsect_3",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-17",
+        "isBill": false,
+        "datetime": "2024-07-17T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Robbie Gallagher and Joe O'Reilly; Níl, Senators Victor Boyhan and Rebecca Moynihan.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Tá"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-17/vote_6",
+        "voteId": "vote_6",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-17"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 29
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 11
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Victor Boyhan and Michael McDowell; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_10",
+        "voteId": "vote_10",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Carried",
+        "tallies": {
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 7
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 25
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Question put: "
+        },
+        "tellers": "Tellers: Tá, Senators Robbie Gallagher and Joe O'Reilly; Níl, Senators Michael McDowell and Victor Boyhan.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Tá"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_1",
+        "voteId": "vote_1",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 25
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 8
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Paul Gavan and Fintan Warfield; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_2",
+        "voteId": "vote_2",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 27
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 10
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Paul Gavan and Fintan Warfield; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_3",
+        "voteId": "vote_3",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 27
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 11
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Eileen Flynn and Alice-Mary Higgins; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_4",
+        "voteId": "vote_4",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 28
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 11
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Fintan Warfield and Paul Gavan; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_5",
+        "voteId": "vote_5",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 27
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 11
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Eileen Flynn and Alice-Mary Higgins; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_6",
+        "voteId": "vote_6",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 29
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 13
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Paul Gavan and Fintan Warfield; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_7",
+        "voteId": "vote_7",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 31
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 13
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-16/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "Planning and Development Bill 2023: Committee Stage (Resumed)"
+        },
+        "voteNote": "",
+        "date": "2024-07-16",
+        "isBill": false,
+        "datetime": "2024-07-16T09:30:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Victor Boyhan and Michael McDowell; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-16/vote_8",
+        "voteId": "vote_8",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-16"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Carried",
+        "tallies": {
+          "nilVotes": {
+            "members": [],
+            "showAs": "Níl",
+            "tally": 8
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Tá",
+            "tally": 25
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/main",
+          "debateSection": "dbsect_2",
+          "showAs": "An tOrd Gnó - Order of Business"
+        },
+        "voteNote": "",
+        "date": "2024-07-15",
+        "isBill": false,
+        "datetime": "2024-07-15T12:00:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Question put: \"That the Order of Business be agreed to\""
+        },
+        "tellers": "Tellers: Tá, Senators Robbie Gallagher and Joe O'Reilly; Níl, Senators Alice-Mary Higgins and Frances Black..",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Tá"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-15/vote_1",
+        "voteId": "vote_1",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-15"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 26
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 9
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/main",
+          "debateSection": "dbsect_6",
+          "showAs": "Sitting Arrangements: Motion"
+        },
+        "voteNote": "",
+        "date": "2024-07-15",
+        "isBill": false,
+        "datetime": "2024-07-15T12:00:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Alice-Mary Higgins and Frances Black; Níl, Senators Robbie Gallagher and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-15/vote_2",
+        "voteId": "vote_2",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-15"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 28
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 12
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/main",
+          "debateSection": "dbsect_11",
+          "showAs": "Planning and Development Bill 2023: Committee Stage"
+        },
+        "voteNote": "",
+        "date": "2024-07-15",
+        "isBill": false,
+        "datetime": "2024-07-15T12:00:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Victor Boyhan and Michael McDowell; Níl, Senators Lisa Chambers and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-15/vote_3",
+        "voteId": "vote_3",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-15"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 25
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 11
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/main",
+          "debateSection": "dbsect_11",
+          "showAs": "Planning and Development Bill 2023: Committee Stage"
+        },
+        "voteNote": "",
+        "date": "2024-07-15",
+        "isBill": false,
+        "datetime": "2024-07-15T12:00:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Alice-Mary Higgins and Frances Black; Níl, Senators Lisa Chambers and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-15/vote_4",
+        "voteId": "vote_4",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-15"
+    },
+    {
+      "division": {
+        "category": "Division",
+        "outcome": "Lost",
+        "tallies": {
+          "nilVotes": {
+            "members": [
+              {
+                "member": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                  "memberCode": "Nikki-Bradley.S.2024-07-10",
+                  "showAs": "Bradley, Nikki."
+                }
+              }
+            ],
+            "showAs": "Níl",
+            "tally": 28
+          },
+          "staonVotes": null,
+          "taVotes": {
+            "members": [],
+            "showAs": "Tá",
+            "tally": 11
+          }
+        },
+        "debate": {
+          "formats": {
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/mul@/main.xml"
+            },
+            "pdf": null
+          },
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-15/debate/main",
+          "debateSection": "dbsect_11",
+          "showAs": "Planning and Development Bill 2023: Committee Stage"
+        },
+        "voteNote": "",
+        "date": "2024-07-15",
+        "isBill": false,
+        "datetime": "2024-07-15T12:00:00+01:00",
+        "subject": {
+          "uri": null,
+          "showAs": "Amendment put: "
+        },
+        "tellers": "Tellers: Tá, Senators Fintan Warfield and Paul Gavan; Níl, Senators Lisa Chambers and Joe O'Reilly.",
+        "memberTally": {
+          "member": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+            "memberCode": "Nikki-Bradley.S.2024-07-10",
+            "showAs": "Bradley, Nikki."
+          },
+          "showAs": "Níl"
+        },
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/26/2024-07-15/vote_5",
+        "voteId": "vote_5",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-15"
+    }
+  ]
+}

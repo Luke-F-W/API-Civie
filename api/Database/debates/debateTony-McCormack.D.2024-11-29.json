@@ -1,0 +1,5068 @@
+{
+  "head": {
+    "counts": {
+      "debateCount": 71,
+      "resultCount": 71
+    }
+  },
+  "results": [
+    {
+      "contextDate": "2025-12-16",
+      "debateRecord": {
+        "lastUpdated": "2025-12-23T03:15:37+00:00",
+        "date": "2025-12-16",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/main",
+        "counts": {
+          "questionCount": 39,
+          "billCount": 2,
+          "contributorCount": 153,
+          "divisionCount": 0,
+          "debateSectionCount": 34
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-16/debate/mul@/main.pdf"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": null,
+              "showAs": "An tOrd Gnó - Order of Business",
+              "debateSectionId": "dbsect_4",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 73,
+                "speakerCount": 26
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/dbsect_4",
+              "debateType": "orderofBusiness",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-11/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-11/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-11/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-17T03:10:51+00:00",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "debateType": "debate",
+        "date": "2025-12-11",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "debateSectionCount": 56,
+          "billCount": 1,
+          "contributorCount": 137,
+          "divisionCount": 0,
+          "questionCount": 40
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-11/debate/mul@/dbsect_15.xml"
+                },
+                "pdf": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-11/debate/dbsect_15",
+              "containsDebate": true,
+              "debateType": "question",
+              "showAs": "Regional Development",
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-11/debate/dbsect_8",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "debateSectionId": "dbsect_8",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "debateSectionId": "dbsect_15",
+              "counts": {
+                "speakerCount": 3,
+                "speechCount": 6
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-12-11"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-10/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-17T03:10:54+00:00",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "debateType": "debate",
+        "date": "2025-12-10",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "debateSectionCount": 24,
+          "billCount": 14,
+          "contributorCount": 165,
+          "divisionCount": 10,
+          "questionCount": 28
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/dbsect_15.xml"
+                },
+                "pdf": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_15",
+              "containsDebate": true,
+              "debateType": "question",
+              "showAs": "Cabinet Committees",
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_13",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "debateSectionId": "dbsect_13",
+                "showAs": "Ceisteanna - Questions"
+              },
+              "debateSectionId": "dbsect_15",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 44
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-12-10"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-10/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-17T03:10:54+00:00",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "debateType": "debate",
+        "date": "2025-12-10",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "debateSectionCount": 24,
+          "billCount": 14,
+          "contributorCount": 165,
+          "divisionCount": 10,
+          "questionCount": 28
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_4",
+              "containsDebate": true,
+              "debateType": "debate",
+              "showAs": "Crime Prevention",
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_3",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "debateSectionId": "dbsect_3",
+                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate"
+              },
+              "debateSectionId": "dbsect_4",
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 4
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-12-10"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/main",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-09/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-12-19T03:12:43+00:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "committeeCode": ""
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/dbsect_19",
+              "parentDebateSection": {
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_18",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/dbsect_18"
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/mul@/dbsect_19.xml"
+                }
+              },
+              "debateSectionId": "dbsect_19",
+              "containsDebate": true,
+              "showAs": "Trade Relations",
+              "bill": null,
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 2
+              },
+              "debateType": "question"
+            }
+          }
+        ],
+        "date": "2025-12-09",
+        "counts": {
+          "debateSectionCount": 27,
+          "contributorCount": 170,
+          "billCount": 2,
+          "questionCount": 13,
+          "divisionCount": 1
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-12-09"
+    },
+    {
+      "debateRecord": {
+        "lastUpdated": "2025-12-05T03:18:14+00:00",
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "counts": {
+                "speechCount": 67,
+                "speakerCount": 8
+              },
+              "debateSectionId": "dbsect_4",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-12-03/debate/dbsect_4",
+              "parentDebateSection": null,
+              "bill": null,
+              "containsDebate": true,
+              "showAs": "Vote 32 - Enterprise, Tourism and Employment (Supplementary)",
+              "debateType": "debate"
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-12-03/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-12-03/debate/mul@/main.pdf"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-12-03/debate/main",
+        "date": "2025-12-03",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_enterprise_tourism_and_employment",
+          "chamberType": "committee",
+          "committeeCode": "select_committee_on_enterprise_tourism_and_employment",
+          "showAs": "Select Committee on Enterprise, Tourism and Employment"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Select Committee on Enterprise, Tourism and Employment"
+        },
+        "counts": {
+          "contributorCount": 8,
+          "billCount": 1,
+          "divisionCount": 0,
+          "debateSectionCount": 6,
+          "questionCount": 0
+        }
+      },
+      "contextDate": "2025-12-03"
+    },
+    {
+      "contextDate": "2025-12-03",
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "date": "2025-12-03",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-03/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_13",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "debateType": "questions",
+              "counts": {
+                "speechCount": 69,
+                "speakerCount": 20
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "parentDebateSection": null,
+              "containsDebate": true,
+              "debateSectionId": "dbsect_13",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "counts": {
+          "debateSectionCount": 35,
+          "contributorCount": 161,
+          "questionCount": 23,
+          "divisionCount": 8,
+          "billCount": 8
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-12-12T03:11:58+00:00"
+      }
+    },
+    {
+      "contextDate": "2025-12-03",
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "date": "2025-12-03",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-03/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_16",
+              "showAs": "Regulatory Reform",
+              "debateType": "question",
+              "counts": {
+                "speechCount": 22,
+                "speakerCount": 11
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/dbsect_16.xml"
+                }
+              },
+              "bill": null,
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_14",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_14"
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_16",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "counts": {
+          "debateSectionCount": 35,
+          "contributorCount": 161,
+          "questionCount": 23,
+          "divisionCount": 8,
+          "billCount": 8
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-12-12T03:11:58+00:00"
+      }
+    },
+    {
+      "contextDate": "2025-11-27",
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 6,
+                "speechCount": 55
+              },
+              "debateType": "debate",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-27/debate/dbsect_2",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "showAs": "Traveller Heritage Strategy: Engagement with the Heritage Council",
+              "debateSectionId": "dbsect_2",
+              "containsDebate": true
+            }
+          }
+        ],
+        "counts": {
+          "questionCount": 0,
+          "billCount": 0,
+          "contributorCount": 5,
+          "divisionCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateType": "debate",
+        "lastUpdated": "2025-12-09T03:18:53+00:00",
+        "chamber": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "date": "2025-11-27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-27/debate/main",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-27/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-27/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "committeeCode": "joint_committee_on_key_issues_affecting_the_traveller_community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_key_issues_affecting_the_traveller_community",
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "houseCode": "dail"
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_7",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_7"
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/dbsect_8.xml"
+                }
+              },
+              "debateSectionId": "dbsect_8",
+              "counts": {
+                "speechCount": 5,
+                "speakerCount": 2
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Foreign Policy",
+              "debateType": "question",
+              "bill": null,
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_8"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-27/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "contributorCount": 132,
+          "questionCount": 31,
+          "divisionCount": 0,
+          "billCount": 2,
+          "debateSectionCount": 45
+        },
+        "lastUpdated": "2025-12-24T03:56:09+00:00",
+        "date": "2025-11-27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/main",
+        "debateType": "debate",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        }
+      },
+      "contextDate": "2025-11-27"
+    },
+    {
+      "debateRecord": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-11-26/debate/mul@/main.xml"
+          },
+          "pdf": null,
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-11-26/debate/main",
+        "lastUpdated": "2025-12-06T03:15:45+00:00",
+        "date": "2025-11-26",
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "house": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "showAs": "Tourism Industry and Hotel Development in Ireland: Irish Hotels Federation",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-11-26/debate/dbsect_3",
+              "counts": {
+                "speechCount": 119,
+                "speakerCount": 9
+              },
+              "debateType": "debate"
+            }
+          }
+        ],
+        "counts": {
+          "billCount": 0,
+          "questionCount": 0,
+          "debateSectionCount": 2,
+          "divisionCount": 0,
+          "contributorCount": 8
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-26"
+    },
+    {
+      "contextDate": "2025-11-13",
+      "debateRecord": {
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "date": "2025-11-13",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_30",
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_24",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/dbsect_24",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                }
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "bill": null,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/mul@/dbsect_30.xml"
+                }
+              },
+              "containsDebate": true,
+              "showAs": "Pensions Reform",
+              "counts": {
+                "speechCount": 7,
+                "speakerCount": 3
+              },
+              "debateType": "question",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/dbsect_30"
+            }
+          }
+        ],
+        "lastUpdated": "2025-12-13T03:09:44+00:00",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-13/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "questionCount": 25,
+          "debateSectionCount": 41,
+          "contributorCount": 135,
+          "divisionCount": 0,
+          "billCount": 2
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-11-13",
+      "debateRecord": {
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "date": "2025-11-13",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_14",
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_8",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/dbsect_8",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                }
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "bill": null,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/mul@/dbsect_14.xml"
+                }
+              },
+              "containsDebate": true,
+              "showAs": "Business Supports",
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 2
+              },
+              "debateType": "question",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/dbsect_14"
+            }
+          }
+        ],
+        "lastUpdated": "2025-12-13T03:09:44+00:00",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-13/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "questionCount": 25,
+          "debateSectionCount": 41,
+          "contributorCount": 135,
+          "divisionCount": 0,
+          "billCount": 2
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-12/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "counts": {
+          "debateSectionCount": 2,
+          "contributorCount": 5,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-12/debate/dbsect_3",
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 6,
+                "speechCount": 276
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Role of Private Sector Construction Industry in Delivering High-Quality National Infrastructure: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-15T03:18:32+00:00",
+        "date": "2025-11-12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-12/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-12/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-12"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-06/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_key_issues_affecting_the_traveller_community",
+          "committeeCode": "joint_committee_on_key_issues_affecting_the_traveller_community",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 7,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-06/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 8,
+                "speechCount": 136
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Health Inequalities and the Mental Health Crisis: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-13T03:10:58+00:00",
+        "date": "2025-11-06",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-06/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-11-06/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-06"
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/main",
+        "counts": {
+          "billCount": 4,
+          "debateSectionCount": 44,
+          "questionCount": 31,
+          "divisionCount": 0,
+          "contributorCount": 126
+        },
+        "date": "2025-11-06",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_34",
+              "debateType": "questions",
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 4
+              },
+              "containsDebate": true,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/dbsect_34",
+              "showAs": "Ceisteanna ó na Comhaltaí Eile - Other Members’ Questions",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "bill": null
+            }
+          }
+        ],
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-11-22T03:14:42+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-06/debate/mul@/main.pdf"
+          }
+        }
+      },
+      "contextDate": "2025-11-06"
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/main",
+        "counts": {
+          "billCount": 4,
+          "debateSectionCount": 44,
+          "questionCount": 31,
+          "divisionCount": 0,
+          "contributorCount": 126
+        },
+        "date": "2025-11-06",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_35",
+              "debateType": "questions",
+              "counts": {
+                "speakerCount": 20,
+                "speechCount": 44
+              },
+              "containsDebate": true,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/dbsect_35",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "bill": null
+            }
+          }
+        ],
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-11-22T03:14:42+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-06/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-06/debate/mul@/main.pdf"
+          }
+        }
+      },
+      "contextDate": "2025-11-06"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-11-05/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 10,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-11-05/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 221
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Engagement with the Competition and Consumer Protection Commission",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-12T03:10:27+00:00",
+        "date": "2025-11-05",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-11-05/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-11-05/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-05"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "counts": {
+          "debateSectionCount": 2,
+          "contributorCount": 9,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 7,
+                "speechCount": 46
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Business of Joint Committee",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-12T03:10:28+00:00",
+        "date": "2025-11-05",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-05"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "counts": {
+          "debateSectionCount": 2,
+          "contributorCount": 9,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/dbsect_3",
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 246
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "The Role of Private Sector Construction in Delivering High-Quality Infrastructure: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-12T03:10:28+00:00",
+        "date": "2025-11-05",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-11-05/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-05"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 8
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 151,
+                "speakerCount": 9
+              },
+              "showAs": "Competitiveness and the Cost of Doing Business in Ireland: Discussion (Resumed)",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-22/debate/dbsect_2",
+              "bill": null
+            }
+          }
+        ],
+        "date": "2025-10-22",
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-22/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-22/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-11-04T03:24:57+00:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-22/debate/main",
+        "house": {
+          "houseNo": "34",
+          "houseCode": "dail",
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment"
+        }
+      },
+      "contextDate": "2025-10-22"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-21T03:15:04+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-15/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Briefing on Pre-Legislative Scrutiny of the General Scheme of a Short Term Letting and Tourism Bill 2025: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-15/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 186,
+                "speakerCount": 15
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-15/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-15",
+        "house": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 14,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-15"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 167,
+          "questionCount": 37,
+          "divisionCount": 1,
+          "billCount": 1,
+          "debateSectionCount": 31
+        },
+        "lastUpdated": "2025-11-25T03:14:24+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-14/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/main",
+        "date": "2025-10-14",
+        "house": {
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 25
+              },
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/dbsect_11.xml"
+                },
+                "pdf": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_11",
+              "showAs": "Cabinet Committees",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "showAs": "Ceisteanna - Questions",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_10",
+                "debateSectionId": "dbsect_10"
+              },
+              "debateType": "question",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_11"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-14"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-15T03:09:41+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Business of Joint Committee",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 9,
+                "speakerCount": 8
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-09",
+        "house": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_key_issues_affecting_the_traveller_community",
+          "committeeCode": "joint_committee_on_key_issues_affecting_the_traveller_community",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 2,
+          "questionCount": 0,
+          "contributorCount": 12,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-09"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-15T03:09:41+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Child Protection and Family Support: Discussion (Resumed)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/dbsect_3",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 184,
+                "speakerCount": 11
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-09",
+        "house": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_key_issues_affecting_the_traveller_community",
+          "committeeCode": "joint_committee_on_key_issues_affecting_the_traveller_community",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 2,
+          "questionCount": 0,
+          "contributorCount": 12,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-09"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-11T03:07:44+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-08/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Competitiveness and the Cost of Doing Business in Ireland: Discussion (Resumed)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-08/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 136,
+                "speakerCount": 14
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-08/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-08/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-08",
+        "house": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 13,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-08"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-11T03:07:45+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Business of Joint Committee",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 19,
+                "speakerCount": 3
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-08",
+        "house": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 2,
+          "questionCount": 0,
+          "contributorCount": 5,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-08"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-11T03:07:45+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "The Role of Engineering in Delivering High-Quality Infrastructure: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/dbsect_3",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 178,
+                "speakerCount": 6
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-10-08/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-08",
+        "house": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 2,
+          "questionCount": 0,
+          "contributorCount": 5,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-08"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-09T03:13:10+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-02/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Child Protection and Family Support: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-02/debate/dbsect_3",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 63,
+                "speakerCount": 9
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-02/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-10-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-02",
+        "house": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_key_issues_affecting_the_traveller_community",
+          "committeeCode": "joint_committee_on_key_issues_affecting_the_traveller_community",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 2,
+          "questionCount": 0,
+          "contributorCount": 8,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-02"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-07T03:06:38+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-01/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Competitiveness and the Cost of Doing Business in Ireland: Discussion (Resumed)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-01/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 143,
+                "speakerCount": 10
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-01/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-10-01/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-01",
+        "house": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 9,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-01"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-30/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "counts": {
+          "debateSectionCount": 35,
+          "divisionCount": 1,
+          "billCount": 3,
+          "contributorCount": 166,
+          "questionCount": 34
+        },
+        "date": "2025-09-30",
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_13",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_13",
+                "showAs": "Ceisteanna - Questions"
+              },
+              "debateSectionId": "dbsect_15",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "debateType": "question",
+              "showAs": "Cabinet Committees",
+              "bill": null,
+              "counts": {
+                "speechCount": 22,
+                "speakerCount": 9
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_15",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/dbsect_15.xml"
+                }
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-11T03:11:01+00:00",
+        "house": {
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail"
+        }
+      },
+      "contextDate": "2025-09-30"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-30/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "counts": {
+          "debateSectionCount": 35,
+          "divisionCount": 1,
+          "billCount": 3,
+          "contributorCount": 166,
+          "questionCount": 34
+        },
+        "date": "2025-09-30",
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_5",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "debateType": "orderofBusiness",
+              "showAs": "An tOrd Gnó - Order of Business",
+              "bill": null,
+              "counts": {
+                "speechCount": 132,
+                "speakerCount": 25
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_5",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-11T03:11:01+00:00",
+        "house": {
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail"
+        }
+      },
+      "contextDate": "2025-09-30"
+    },
+    {
+      "contextDate": "2025-09-25",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 28,
+          "debateSectionCount": 44,
+          "contributorCount": 124,
+          "divisionCount": 0,
+          "billCount": 2
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "question",
+              "counts": {
+                "speechCount": 5,
+                "speakerCount": 2
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_11",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/dbsect_11.xml"
+                }
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_9",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "debateSectionId": "dbsect_9"
+              },
+              "showAs": "Industrial Development",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/dbsect_11"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-25/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:52+00:00",
+        "date": "2025-09-25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-25/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 13,
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "questionCount": 0
+        },
+        "house": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "chamberType": "committee",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-09-30T03:14:56+01:00",
+        "debateType": "debate",
+        "date": "2025-09-24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-09-24/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 114
+              },
+              "showAs": "Competitiveness and the Cost of Doing Business in Ireland: Discussion (Resumed)",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "debateType": "debate",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-09-24/debate/dbsect_2",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_2"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-09-24/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-09-24/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        }
+      },
+      "contextDate": "2025-09-24"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 12,
+          "billCount": 0,
+          "debateSectionCount": 2,
+          "divisionCount": 0,
+          "questionCount": 0
+        },
+        "house": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "chamberType": "committee",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-09-30T03:15:01+01:00",
+        "debateType": "debate",
+        "date": "2025-09-24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-09-24/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 117
+              },
+              "showAs": "Priorities and Provisions in the Review of the National Development Plan: Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "debateType": "debate",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-09-24/debate/dbsect_3",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_3"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": null,
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-09-24/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        }
+      },
+      "contextDate": "2025-09-24"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-24/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-24/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-24/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "counts": {
+          "debateSectionCount": 19,
+          "divisionCount": 6,
+          "billCount": 1,
+          "contributorCount": 162,
+          "questionCount": 0
+        },
+        "date": "2025-09-24",
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_15",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "debateType": "statement",
+              "showAs": "Auto-Enrolment: Statements",
+              "bill": null,
+              "counts": {
+                "speechCount": 38,
+                "speakerCount": 25
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-24/debate/dbsect_15",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-11T03:10:58+00:00",
+        "house": {
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail"
+        }
+      },
+      "contextDate": "2025-09-24"
+    },
+    {
+      "contextDate": "2025-09-23",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 14,
+          "debateSectionCount": 30,
+          "contributorCount": 172,
+          "divisionCount": 1,
+          "billCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "orderofBusiness",
+              "counts": {
+                "speechCount": 54,
+                "speakerCount": 25
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "showAs": "An tOrd Gnó - Order of Business",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/dbsect_3"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-23/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:31+00:00",
+        "date": "2025-09-23",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-07-16",
+      "debateRecord": {
+        "lastUpdated": "2025-07-23T15:17:15+01:00",
+        "debateType": "debate",
+        "date": "2025-07-16",
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-07-16/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 12,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-07-16/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-07-16/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "Competitiveness and the Cost of Doing Business in Ireland: Discussion",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-07-16/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 89
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-15",
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 1,
+          "questionCount": 48,
+          "debateSectionCount": 35,
+          "billCount": 1,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-15/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/mul@/main.xml"
+          }
+        },
+        "date": "2025-07-15",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 6
+              },
+              "debateType": "question",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/mul@/dbsect_25.xml"
+                }
+              },
+              "showAs": "Insurance Industry",
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/dbsect_23",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "debateSectionId": "dbsect_23"
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/dbsect_25",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_25"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/main",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house"
+        },
+        "lastUpdated": "2025-10-15T03:09:40+01:00"
+      }
+    },
+    {
+      "contextDate": "2025-07-09",
+      "debateRecord": {
+        "lastUpdated": "2025-07-16T03:08:37+01:00",
+        "debateType": "debate",
+        "date": "2025-07-09",
+        "chamber": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-09/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 11,
+          "debateSectionCount": 2,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-09/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "showAs": "Judicial Review and Appeals Process: Engagement with Courts Service",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-09/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 307
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-07-09/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-07-09/debate/mul@/main.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-07-09/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Vote 32 - Enterprise, Tourism and Employment  (Revised)",
+              "debateSectionId": "dbsect_4",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateType": "debate",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "counts": {
+                "speechCount": 47,
+                "speakerCount": 9
+              },
+              "bill": null,
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_enterprise_tourism_and_employment/2025-07-09/debate/dbsect_4"
+            }
+          }
+        ],
+        "debateType": "debate",
+        "house": {
+          "committeeCode": "select_committee_on_enterprise_tourism_and_employment",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "houseCode": "dail",
+          "showAs": "Select Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_enterprise_tourism_and_employment"
+        },
+        "counts": {
+          "billCount": 0,
+          "contributorCount": 9,
+          "debateSectionCount": 4,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "lastUpdated": "2025-09-20T03:10:55+01:00",
+        "date": "2025-07-09",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Select Committee on Enterprise, Tourism and Employment"
+        }
+      },
+      "contextDate": "2025-07-09"
+    },
+    {
+      "contextDate": "2025-07-02",
+      "debateRecord": {
+        "lastUpdated": "2025-07-08T11:30:36+01:00",
+        "debateType": "debate",
+        "date": "2025-07-02",
+        "chamber": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-02/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 12,
+          "debateSectionCount": 2,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-02/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "showAs": "Role, Responsibilities and Processes of An Coimisiún Pleanála and Office of the Planning Regulator: Discussion",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-07-02/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 246
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-06-25",
+      "debateRecord": {
+        "lastUpdated": "2025-06-30T16:29:32+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 9,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-25/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 157
+              },
+              "bill": null,
+              "showAs": "General Scheme of the Industrial Development (Miscellaneous Provisions) Bill 2025: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-25/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-25/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-25/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-25",
+      "debateRecord": {
+        "lastUpdated": "2025-06-30T18:04:02+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 9,
+          "billCount": 0,
+          "debateSectionCount": 2
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_3",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-06-25/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 128
+              },
+              "bill": null,
+              "showAs": "IBEC Report on Infrastructure Ambition for a Competitive, Productive and Resilient Economy: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-06-25/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": null
+        },
+        "date": "2025-06-25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-06-25/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "debateSectionId": "dbsect_13",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-25/debate/dbsect_13",
+              "debateType": "questions",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 21,
+                "speechCount": 51
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "date": "2025-06-25",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-25/debate/main",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-25/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-25/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "billCount": 8,
+          "divisionCount": 7,
+          "questionCount": 0,
+          "contributorCount": 165,
+          "debateSectionCount": 22
+        },
+        "lastUpdated": "2025-09-20T03:11:31+01:00"
+      },
+      "contextDate": "2025-06-25"
+    },
+    {
+      "contextDate": "2025-06-24",
+      "debateRecord": {
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "billCount": 3,
+          "debateSectionCount": 35,
+          "contributorCount": 170,
+          "divisionCount": 1,
+          "questionCount": 35
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 20
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/mul@/dbsect_14.xml"
+                }
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_14",
+              "debateType": "question",
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_13",
+                "showAs": "Ceisteanna - Questions",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/dbsect_13"
+              },
+              "showAs": "Industrial Relations",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/dbsect_14"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/main",
+        "date": "2025-06-24",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-24/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/mul@/main.xml"
+          }
+        },
+        "lastUpdated": "2025-10-04T03:15:32+01:00"
+      }
+    },
+    {
+      "debateRecord": {
+        "lastUpdated": "2025-12-06T03:15:21+00:00",
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil"
+        },
+        "date": "2025-06-19",
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-19/debate/dbsect_12",
+              "debateSectionId": "dbsect_12",
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-19/debate/mul@/dbsect_12.xml"
+                },
+                "pdf": null
+              },
+              "containsDebate": true,
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-19/debate/dbsect_9",
+                "debateSectionId": "dbsect_9",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                }
+              },
+              "counts": {
+                "speechCount": 5,
+                "speakerCount": 2
+              },
+              "showAs": "Small and Medium Enterprises",
+              "debateType": "question",
+              "bill": null
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-19/debate/main",
+        "counts": {
+          "contributorCount": 126,
+          "divisionCount": 0,
+          "questionCount": 28,
+          "billCount": 3,
+          "debateSectionCount": 44
+        },
+        "debateType": "debate",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-19/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-19/debate/mul@/main.pdf"
+          }
+        }
+      },
+      "contextDate": "2025-06-19"
+    },
+    {
+      "contextDate": "2025-06-18",
+      "debateRecord": {
+        "lastUpdated": "2025-06-23T14:23:41+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 13,
+          "billCount": 0,
+          "debateSectionCount": 2
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_3",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-18/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 206
+              },
+              "bill": null,
+              "showAs": "Scrutiny of EU Legislative Proposals",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-18/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-18/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-18/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-17",
+      "debateRecord": {
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "billCount": 4,
+          "debateSectionCount": 34,
+          "contributorCount": 171,
+          "divisionCount": 1,
+          "questionCount": 36
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 5
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/mul@/dbsect_31.xml"
+                }
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_31",
+              "debateType": "question",
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_24",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/dbsect_24"
+              },
+              "showAs": "Disability Services",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/dbsect_31"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/main",
+        "date": "2025-06-17",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-17/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-17/debate/mul@/main.xml"
+          }
+        },
+        "lastUpdated": "2025-10-04T03:15:48+01:00"
+      }
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "debateSectionCount": 40,
+          "contributorCount": 133,
+          "questionCount": 39,
+          "divisionCount": 0,
+          "billCount": 1
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-06-12",
+        "debateType": "debate",
+        "house": {
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 20,
+                "speechCount": 54
+              },
+              "debateType": "questions",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/dbsect_32",
+              "debateSectionId": "dbsect_32"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-12/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/mul@/main.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-12/debate/main",
+        "lastUpdated": "2025-09-19T03:09:26+01:00"
+      },
+      "contextDate": "2025-06-12"
+    },
+    {
+      "contextDate": "2025-06-11",
+      "debateRecord": {
+        "lastUpdated": "2025-06-25T16:40:13+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment",
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 14,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-11/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 15,
+                "speechCount": 125
+              },
+              "bill": null,
+              "showAs": "Scrutiny of EU Legislative Proposals",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-11/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-11/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-06-11/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-11",
+      "debateRecord": {
+        "lastUpdated": "2025-06-16T16:09:27+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 10,
+          "billCount": 0,
+          "debateSectionCount": 2
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_3",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-06-11/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 245
+              },
+              "bill": null,
+              "showAs": "Planning, Approving and Delivering Transport Infrastructure Projects: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-06-11/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-06-11/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-06-11/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "debateSectionId": "dbsect_12",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-11/debate/dbsect_12",
+              "debateType": "questions",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 20,
+                "speechCount": 91
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "date": "2025-06-11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-11/debate/main",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-11/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-11/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "billCount": 3,
+          "divisionCount": 8,
+          "questionCount": 0,
+          "contributorCount": 169,
+          "debateSectionCount": 19
+        },
+        "lastUpdated": "2025-09-20T03:11:05+01:00"
+      },
+      "contextDate": "2025-06-11"
+    },
+    {
+      "debateRecord": {
+        "date": "2025-05-28",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-28/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-28/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "divisionCount": 2,
+          "questionCount": 0,
+          "contributorCount": 12,
+          "debateSectionCount": 3
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-28/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "debateSectionId": "dbsect_10",
+              "counts": {
+                "speechCount": 335,
+                "speakerCount": 9
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-28/debate/dbsect_10",
+              "showAs": "Uisce Éireann: Future Work Programme",
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-30T15:59:13+01:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery"
+        }
+      },
+      "contextDate": "2025-05-28"
+    },
+    {
+      "debateRecord": {
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-05-22/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-05-22/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-05-22/debate/main",
+        "house": {
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Key Issues affecting the Traveller Community",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_key_issues_affecting_the_traveller_community",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_key_issues_affecting_the_traveller_community"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_key_issues_affecting_the_traveller_community/2025-05-22/debate/dbsect_2",
+              "containsDebate": true,
+              "showAs": "Business of Joint Committee",
+              "bill": null,
+              "parentDebateSection": null,
+              "counts": {
+                "speechCount": 20,
+                "speakerCount": 13
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-24T02:40:45+01:00",
+        "date": "2025-05-22",
+        "counts": {
+          "questionCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 13
+        }
+      },
+      "contextDate": "2025-05-22"
+    },
+    {
+      "contextDate": "2025-05-22",
+      "debateRecord": {
+        "lastUpdated": "2025-07-26T03:08:21+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/main",
+        "date": "2025-05-22",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "showAs": "Rural Schemes",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_25",
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/dbsect_25.xml"
+                },
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_25",
+              "parentDebateSection": {
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_24",
+                "debateSectionId": "dbsect_24",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "debateType": "question",
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 3
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-22/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "debateSectionCount": 44,
+          "billCount": 2,
+          "questionCount": 28,
+          "divisionCount": 0,
+          "contributorCount": 127
+        }
+      }
+    },
+    {
+      "contextDate": "2025-05-22",
+      "debateRecord": {
+        "lastUpdated": "2025-07-26T03:08:21+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/main",
+        "date": "2025-05-22",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "showAs": "Rural Schemes",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_27",
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/dbsect_27.xml"
+                },
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_27",
+              "parentDebateSection": {
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_24",
+                "debateSectionId": "dbsect_24",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "debateType": "question",
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 2
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-22/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "debateSectionCount": 44,
+          "billCount": 2,
+          "questionCount": 28,
+          "divisionCount": 0,
+          "contributorCount": 127
+        }
+      }
+    },
+    {
+      "contextDate": "2025-05-22",
+      "debateRecord": {
+        "lastUpdated": "2025-07-26T03:08:21+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/main",
+        "date": "2025-05-22",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_35",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_35",
+              "parentDebateSection": null,
+              "debateType": "questions",
+              "counts": {
+                "speechCount": 60,
+                "speakerCount": 21
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-22/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "debateSectionCount": 44,
+          "billCount": 2,
+          "questionCount": 28,
+          "divisionCount": 0,
+          "contributorCount": 127
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "date": "2025-05-21",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "divisionCount": 0,
+          "questionCount": 0,
+          "contributorCount": 9,
+          "debateSectionCount": 2
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "counts": {
+                "speechCount": 5,
+                "speakerCount": 3
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/dbsect_2",
+              "showAs": "Business of Joint Committee",
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-23T14:42:54+01:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery"
+        }
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "debateRecord": {
+        "date": "2025-05-21",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "divisionCount": 0,
+          "questionCount": 0,
+          "contributorCount": 9,
+          "debateSectionCount": 2
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "debateSectionId": "dbsect_3",
+              "counts": {
+                "speechCount": 115,
+                "speakerCount": 10
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-21/debate/dbsect_3",
+              "showAs": "Large-scale Capital Projects: Discussion",
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-23T14:42:54+01:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery"
+        }
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "debateRecord": {
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-05-21/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-05-21/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-05-21/debate/main",
+        "house": {
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Enterprise, Tourism and Employment",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_enterprise_tourism_and_employment",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_enterprise_tourism_and_employment"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_enterprise_tourism_and_employment/2025-05-21/debate/dbsect_2",
+              "containsDebate": true,
+              "showAs": "Business of Joint Committee",
+              "bill": null,
+              "parentDebateSection": null,
+              "counts": {
+                "speechCount": 22,
+                "speakerCount": 14
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-26T09:31:45+01:00",
+        "date": "2025-05-21",
+        "counts": {
+          "questionCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 14
+        }
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_12",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_12"
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/dbsect_13.xml"
+                }
+              },
+              "containsDebate": true,
+              "showAs": "Cabinet Committees",
+              "debateSectionId": "dbsect_13",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 22
+              },
+              "debateType": "question",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_13",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 44,
+          "contributorCount": 172,
+          "divisionCount": 1,
+          "billCount": 2,
+          "debateSectionCount": 34
+        },
+        "debateType": "debate",
+        "date": "2025-05-20",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-20/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:22+01:00"
+      },
+      "contextDate": "2025-05-20"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_12",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_12"
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/dbsect_15.xml"
+                }
+              },
+              "containsDebate": true,
+              "showAs": "Cabinet Committees",
+              "debateSectionId": "dbsect_15",
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 20
+              },
+              "debateType": "question",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_15",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 44,
+          "contributorCount": 172,
+          "divisionCount": 1,
+          "billCount": 2,
+          "debateSectionCount": 34
+        },
+        "debateType": "debate",
+        "date": "2025-05-20",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-20/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:22+01:00"
+      },
+      "contextDate": "2025-05-20"
+    },
+    {
+      "contextDate": "2025-05-14",
+      "debateRecord": {
+        "date": "2025-05-14",
+        "lastUpdated": "2025-05-16T09:07:44+01:00",
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-14/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-14/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-14/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_infrastructure_and_national_development_plan_delivery/2025-05-14/debate/dbsect_2",
+              "debateType": "debate",
+              "containsDebate": true,
+              "showAs": "Business of Joint Committee",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null
+                  }
+                }
+              ],
+              "counts": {
+                "speechCount": 20,
+                "speakerCount": 11
+              }
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 11,
+          "questionCount": 0,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "house": {
+          "committeeCode": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery",
+          "showAs": "Joint Committee on Infrastructure and National Development Plan Delivery",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34"
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/main",
+        "counts": {
+          "billCount": 0,
+          "contributorCount": 159,
+          "questionCount": 39,
+          "debateSectionCount": 33,
+          "divisionCount": 0
+        },
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-13/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-09-13T03:09:29+01:00",
+        "date": "2025-05-13",
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/dbsect_7",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_7"
+              },
+              "showAs": "National Economic and Social Council",
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 16
+              },
+              "debateType": "question",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/mul@/dbsect_8.xml"
+                }
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/dbsect_8",
+              "bill": null,
+              "containsDebate": true,
+              "debateSectionId": "dbsect_8"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-13"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 0,
+          "debateSectionCount": 52,
+          "questionCount": 54,
+          "contributorCount": 131,
+          "billCount": 0
+        },
+        "lastUpdated": "2025-10-14T03:10:22+01:00",
+        "house": {
+          "houseNo": "34",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 2
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/dbsect_22",
+              "bill": null,
+              "showAs": "Tourism Promotion",
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_22",
+              "containsDebate": true,
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/mul@/dbsect_22.xml"
+                },
+                "pdf": null
+              },
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_20",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/dbsect_20",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "showAs": "Ceisteanna Eile - Other Questions"
+              }
+            }
+          }
+        ],
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-08/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-05-08"
+      },
+      "contextDate": "2025-05-08"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 0,
+          "debateSectionCount": 52,
+          "questionCount": 54,
+          "contributorCount": 131,
+          "billCount": 0
+        },
+        "lastUpdated": "2025-10-14T03:10:22+01:00",
+        "house": {
+          "houseNo": "34",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 52,
+                "speakerCount": 20
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/dbsect_30",
+              "bill": null,
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "debateType": "questions",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_30",
+              "containsDebate": true,
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-08/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-08/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-05-08"
+      },
+      "contextDate": "2025-05-08"
+    },
+    {
+      "contextDate": "2025-05-01",
+      "debateRecord": {
+        "lastUpdated": "2025-07-26T03:08:02+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/main",
+        "date": "2025-05-01",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "showAs": "Employment Support Services",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/dbsect_33",
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/mul@/dbsect_33.xml"
+                },
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_33",
+              "parentDebateSection": {
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/dbsect_28",
+                "debateSectionId": "dbsect_28",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "debateType": "question",
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 2
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-01/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "debateSectionCount": 45,
+          "billCount": 0,
+          "questionCount": 32,
+          "divisionCount": 0,
+          "contributorCount": 124
+        }
+      }
+    },
+    {
+      "contextDate": "2025-02-25",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-25/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/main",
+        "lastUpdated": "2025-07-10T04:09:41+01:00",
+        "counts": {
+          "contributorCount": 172,
+          "debateSectionCount": 29,
+          "divisionCount": 1,
+          "billCount": 0,
+          "questionCount": 52
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "question",
+              "debateSectionId": "dbsect_10",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/dbsect_10",
+              "bill": null,
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 12
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_9",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/dbsect_9",
+                "showAs": "Ceisteanna - Questions"
+              },
+              "showAs": "Cabinet Committees",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/mul@/dbsect_10.xml"
+                }
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-02-25"
+      }
+    },
+    {
+      "contextDate": "2025-02-20",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-20/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-20/debate/main",
+        "lastUpdated": "2025-07-10T04:07:24+01:00",
+        "counts": {
+          "contributorCount": 118,
+          "debateSectionCount": 36,
+          "divisionCount": 0,
+          "billCount": 1,
+          "questionCount": 27
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "debateSectionId": "dbsect_35",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-20/debate/dbsect_35",
+              "bill": null,
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 6
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_34",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-20/debate/dbsect_34",
+                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate"
+              },
+              "showAs": "Foreign Direct Investment",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Tony McCormack",
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-02-20"
+      }
+    },
+    {
+      "contextDate": "2025-02-11",
+      "debateRecord": {
+        "date": "2025-02-11",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-11/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-11/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 26,
+          "questionCount": 20,
+          "billCount": 0,
+          "divisionCount": 1,
+          "contributorCount": 169
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-11/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_9",
+              "counts": {
+                "speakerCount": 26,
+                "speechCount": 50
+              },
+              "debateType": "statement",
+              "showAs": "Programme for Government: Statements (Resumed)",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-11/debate/dbsect_9",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Tony-McCormack.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tony-McCormack.D.2024-11-29",
+                    "showAs": "Tony McCormack",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:05+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    }
+  ]
+}

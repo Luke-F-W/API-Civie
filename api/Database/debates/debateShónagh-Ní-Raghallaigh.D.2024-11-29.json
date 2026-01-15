@@ -1,0 +1,4536 @@
+{
+  "head": {
+    "counts": {
+      "debateCount": 66,
+      "resultCount": 66
+    }
+  },
+  "results": [
+    {
+      "contextDate": "2025-12-16",
+      "debateRecord": {
+        "lastUpdated": "2025-12-23T03:15:37+00:00",
+        "date": "2025-12-16",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/main",
+        "counts": {
+          "questionCount": 39,
+          "billCount": 2,
+          "contributorCount": 153,
+          "divisionCount": 0,
+          "debateSectionCount": 34
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-16/debate/mul@/main.pdf"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": null,
+              "showAs": "Blister Packs: Motion [Private Members]",
+              "debateSectionId": "dbsect_14",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 60,
+                "speakerCount": 33
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-16/debate/dbsect_14",
+              "debateType": "motion",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-12-10",
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 0,
+          "debateSectionCount": 1,
+          "contributorCount": 8,
+          "questionCount": 0,
+          "billCount": 0
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Education and Youth"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-12-10/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 9,
+                "speechCount": 140
+              },
+              "debateSectionId": "dbsect_2",
+              "showAs": "Recruitment and Retention of Teachers: Discussion (Resumed)",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-12-10/debate/dbsect_2",
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "containsDebate": true,
+              "bill": null,
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "house": {
+          "houseNo": "34",
+          "showAs": "Joint Committee on Education and Youth",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "chamberType": "committee",
+          "houseCode": "dail"
+        },
+        "date": "2025-12-10",
+        "debateType": "debate",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-12-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-12-10/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-20T03:15:49+00:00"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/main",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-09/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-12-19T03:12:43+00:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "committeeCode": ""
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-09/debate/dbsect_11",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_11",
+              "containsDebate": true,
+              "showAs": "Assessment of Needs: Motion [Private Members]",
+              "bill": null,
+              "counts": {
+                "speechCount": 39,
+                "speakerCount": 36
+              },
+              "debateType": "motion"
+            }
+          }
+        ],
+        "date": "2025-12-09",
+        "counts": {
+          "debateSectionCount": 27,
+          "contributorCount": 170,
+          "billCount": 2,
+          "questionCount": 13,
+          "divisionCount": 1
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-12-09"
+    },
+    {
+      "contextDate": "2025-12-09",
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 0,
+          "debateSectionCount": 1,
+          "contributorCount": 8,
+          "questionCount": 0,
+          "billCount": 0
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-12-09/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 9,
+                "speechCount": 93
+              },
+              "debateSectionId": "dbsect_2",
+              "showAs": "Earcaíocht sa tSeirbhís Phoiblí: Plé (Atógáil)",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-12-09/debate/dbsect_2",
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "containsDebate": true,
+              "bill": null,
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "house": {
+          "houseNo": "34",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "chamberType": "committee",
+          "houseCode": "dail"
+        },
+        "date": "2025-12-09",
+        "debateType": "debate",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-12-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-12-09/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-20T03:16:01+00:00"
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_35",
+              "counts": {
+                "speechCount": 53,
+                "speakerCount": 21
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "debateType": "questions",
+              "bill": null,
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_35"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-27/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "contributorCount": 132,
+          "questionCount": 31,
+          "divisionCount": 0,
+          "billCount": 2,
+          "debateSectionCount": 45
+        },
+        "lastUpdated": "2025-12-24T03:56:09+00:00",
+        "date": "2025-11-27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/main",
+        "debateType": "debate",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        }
+      },
+      "contextDate": "2025-11-27"
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_37",
+              "counts": {
+                "speechCount": 20,
+                "speakerCount": 18
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Sudan: Statements",
+              "debateType": "statement",
+              "bill": null,
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/dbsect_37"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-27/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "contributorCount": 132,
+          "questionCount": 31,
+          "divisionCount": 0,
+          "billCount": 2,
+          "debateSectionCount": 45
+        },
+        "lastUpdated": "2025-12-24T03:56:09+00:00",
+        "date": "2025-11-27",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-27/debate/main",
+        "debateType": "debate",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        }
+      },
+      "contextDate": "2025-11-27"
+    },
+    {
+      "contextDate": "2025-11-26",
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 253
+              },
+              "debateType": "debate",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-26/debate/dbsect_2",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "showAs": "School Funding: Department of Education and Youth",
+              "debateSectionId": "dbsect_2",
+              "containsDebate": true
+            }
+          }
+        ],
+        "counts": {
+          "questionCount": 0,
+          "billCount": 0,
+          "contributorCount": 13,
+          "divisionCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateType": "debate",
+        "lastUpdated": "2025-12-09T03:18:52+00:00",
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "date": "2025-11-26",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-26/debate/main",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-26/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-11-26/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "showAs": "Joint Committee on Education and Youth",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "houseCode": "dail"
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "lastUpdated": "2025-12-05T08:48:27+00:00",
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "counts": {
+                "speechCount": 125,
+                "speakerCount": 12
+              },
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-25/debate/dbsect_2",
+              "parentDebateSection": null,
+              "bill": null,
+              "containsDebate": true,
+              "showAs": "Earnáil na Gaeilge agus na Gaeltachta: Conradh na Gaeilge",
+              "debateType": "debate"
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-25/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-25/debate/mul@/main.pdf"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-25/debate/main",
+        "date": "2025-11-25",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "chamberType": "committee",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "counts": {
+          "contributorCount": 11,
+          "billCount": 0,
+          "divisionCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0
+        }
+      },
+      "contextDate": "2025-11-25"
+    },
+    {
+      "debateRecord": {
+        "lastUpdated": "2025-12-05T03:18:05+00:00",
+        "date": "2025-11-25",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Victims of Sexual Violence Civil Protection Orders Bill 2025: Second Stage [Private Members]",
+              "debateSectionId": "dbsect_26",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-25/debate/dbsect_26",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "counts": {
+                "speakerCount": 26,
+                "speechCount": 29
+              },
+              "debateType": "debate",
+              "bill": {
+                "event": {
+                  "showAs": "Victims of Sexual Violence Civil Protection Orders Bill 2025: Second Stage [Private Members] (Dáil)",
+                  "isBillStage": true,
+                  "houseCode": "dail",
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/38/dail/2",
+                  "stage": "2"
+                },
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/38"
+              },
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseNo": "34"
+        },
+        "counts": {
+          "debateSectionCount": 36,
+          "divisionCount": 3,
+          "billCount": 3,
+          "questionCount": 22,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-25/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-25/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-25/debate/mul@/main.xml"
+          }
+        }
+      },
+      "contextDate": "2025-11-25"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-20/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Education and Youth"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Education and Youth"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 8,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-20/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 9,
+                "speechCount": 153
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Impacts of the Hot School Meals Programme: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-29T03:09:03+00:00",
+        "date": "2025-11-20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-11-20/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-20"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 130,
+          "billCount": 2,
+          "questionCount": 31,
+          "divisionCount": 0,
+          "debateSectionCount": 48
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 60
+              },
+              "containsDebate": true,
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_35",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-20/debate/dbsect_35",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateType": "questions",
+              "bill": null,
+              "showAs": "Ceisteanna ó Cheannairí - Leaders' Questions",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "date": "2025-11-20",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-20/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-20/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-20/debate/main",
+        "lastUpdated": "2025-11-28T03:11:25+00:00"
+      },
+      "contextDate": "2025-11-20"
+    },
+    {
+      "contextDate": "2025-11-19",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 31,
+          "debateSectionCount": 32,
+          "contributorCount": 171,
+          "divisionCount": 4,
+          "billCount": 6
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "questions",
+              "counts": {
+                "speechCount": 71,
+                "speakerCount": 17
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_14",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/dbsect_14"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-19/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:45+00:00",
+        "date": "2025-11-19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-19/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-18/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 6,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-18/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 7,
+                "speechCount": 93
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Teagasc agus Stádas na Gaeilge sna hInstitiúidí Tríú Leibhéal: Plé (Atógáil)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-26T03:19:46+00:00",
+        "date": "2025-11-18",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-18/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-18/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-18"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-12/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Education and Youth"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Education and Youth"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 11,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-12/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 178
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Implementation of National Youth Strategy: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-15T03:18:33+00:00",
+        "date": "2025-11-12",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-12/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-11-12/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-12"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-06/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Education and Youth"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Education and Youth"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 13,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-06/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 192
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Mental Health Supports in Schools: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-13T03:10:57+00:00",
+        "date": "2025-11-06",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-11-06/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-11-06/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-06"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-04/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 10,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-04/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 153
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Soláthar an Oideachais Lán-Ghaeilge: Plé",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-12T03:10:24+00:00",
+        "date": "2025-11-04",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-04/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-11-04/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-04"
+    },
+    {
+      "contextDate": "2025-11-04",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-04/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-11-04",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house"
+        },
+        "lastUpdated": "2025-12-03T03:09:43+00:00",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "question",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_12",
+              "showAs": "Irish Language",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/dbsect_12.xml"
+                }
+              },
+              "bill": null,
+              "parentDebateSection": {
+                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_9",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_9"
+              },
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 6
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_12",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/main",
+        "counts": {
+          "contributorCount": 165,
+          "billCount": 3,
+          "questionCount": 14,
+          "divisionCount": 0,
+          "debateSectionCount": 30
+        }
+      }
+    },
+    {
+      "contextDate": "2025-11-04",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-04/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-11-04",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house"
+        },
+        "lastUpdated": "2025-12-03T03:09:43+00:00",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_8",
+              "showAs": "Education (Affordable School Uniforms) Bill 2025: Second Stage [Private Members]",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/54",
+                "event": {
+                  "showAs": "Education (Affordable School Uniforms) Bill 2025: Second Stage [Private Members] (Dáil)",
+                  "houseCode": "dail",
+                  "isBillStage": true,
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/54/dail/2",
+                  "stage": "2"
+                }
+              },
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 21,
+                "speechCount": 23
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/dbsect_8",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-04/debate/main",
+        "counts": {
+          "contributorCount": 165,
+          "billCount": 3,
+          "questionCount": 14,
+          "divisionCount": 0,
+          "debateSectionCount": 30
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-28T09:02:51+00:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-22/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Curriculum Reform at Senior Cycle: Discussion (Resumed)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-22/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 138,
+                "speakerCount": 11
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-10-22/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-22/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-22",
+        "house": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 10,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-22"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-29T03:13:47+00:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-10-21/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Earcaíocht sa tSeirbhís Phoiblí: Plé (Atógáil)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-10-21/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 115,
+                "speakerCount": 9
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-10-21/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-10-21/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-21",
+        "house": {
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 8,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-21"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-25T03:18:55+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-16/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Curriculum Reform at Senior Cycle: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-16/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 163,
+                "speakerCount": 13
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-10-16/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-16/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-16",
+        "house": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 12,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-16"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 167,
+          "questionCount": 0,
+          "divisionCount": 4,
+          "billCount": 2,
+          "debateSectionCount": 21
+        },
+        "lastUpdated": "2025-11-25T03:14:22+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-15/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/main",
+        "date": "2025-10-15",
+        "house": {
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 113
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_10",
+              "showAs": "Ceisteanna ó Cheannairí - Leaders' Questions",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateType": "questions",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/dbsect_10"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-15"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 167,
+          "questionCount": 37,
+          "divisionCount": 1,
+          "billCount": 1,
+          "debateSectionCount": 31
+        },
+        "lastUpdated": "2025-11-25T03:14:24+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-14/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/main",
+        "date": "2025-10-14",
+        "house": {
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "counts": {
+                "speakerCount": 28,
+                "speechCount": 30
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_14",
+              "showAs": "Cost of Disability: Motion [Private Members]",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateType": "motion",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-14/debate/dbsect_14"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-14"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/main",
+        "debateType": "debate",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil"
+        },
+        "counts": {
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 153,
+          "questionCount": 19,
+          "debateSectionCount": 20
+        },
+        "date": "2025-10-08",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-11-19T03:10:51+00:00",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-08/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_21",
+              "debateSectionId": "dbsect_21",
+              "counts": {
+                "speechCount": 268,
+                "speakerCount": 83
+              },
+              "parentDebateSection": null,
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "showAs": "Financial Resolution No. 5: General (Resumed)",
+              "debateType": "financialResolution",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-08"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-21T03:15:06+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-02/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Issues Affecting People with Dyslexia and Dyscalculia: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-02/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 217,
+                "speakerCount": 11
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-10-02/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-10-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-02",
+        "house": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 10,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-02"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-01/debate/main",
+        "debateType": "debate",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil"
+        },
+        "counts": {
+          "divisionCount": 2,
+          "billCount": 2,
+          "contributorCount": 161,
+          "questionCount": 0,
+          "debateSectionCount": 16
+        },
+        "date": "2025-10-01",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-11-19T03:10:50+00:00",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-01/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-01/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-01/debate/dbsect_13",
+              "debateSectionId": "dbsect_13",
+              "counts": {
+                "speechCount": 59,
+                "speakerCount": 49
+              },
+              "parentDebateSection": null,
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "showAs": "Situation in Gaza: Statements",
+              "debateType": "statement",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-01"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-09-30/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "lastUpdated": "2025-10-08T03:08:57+01:00",
+        "date": "2025-09-30",
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-09-30/debate/dbsect_2",
+              "debateSectionId": "dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 99,
+                "speakerCount": 9
+              },
+              "bill": null,
+              "showAs": "Teagasc agus Stádas na Gaeilge sna hInstitiúidí Tríú Leibhéal: Plé (Atógáil)"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-09-30/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-09-30/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "contributorCount": 8,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "questionCount": 0
+        },
+        "house": {
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "houseCode": "dail",
+          "chamberType": "committee"
+        }
+      },
+      "contextDate": "2025-09-30"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-30/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "counts": {
+          "debateSectionCount": 35,
+          "divisionCount": 1,
+          "billCount": 3,
+          "contributorCount": 166,
+          "questionCount": 34
+        },
+        "date": "2025-09-30",
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_16",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ],
+              "debateType": "motion",
+              "showAs": "Global Sumud Flotilla: Motion",
+              "bill": null,
+              "counts": {
+                "speechCount": 19,
+                "speakerCount": 17
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-30/debate/dbsect_16",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-11T03:11:01+00:00",
+        "house": {
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail"
+        }
+      },
+      "contextDate": "2025-09-30"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 13,
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "questionCount": 0
+        },
+        "house": {
+          "showAs": "Joint Committee on Education and Youth",
+          "chamberType": "committee",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-09-30T14:23:17+01:00",
+        "debateType": "debate",
+        "date": "2025-09-24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-09-24/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 254
+              },
+              "showAs": "Recruitment and Retention of Special Needs Assistants: Discussion",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "debateType": "debate",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-09-24/debate/dbsect_2",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_2"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-09-24/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-09-24/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        }
+      },
+      "contextDate": "2025-09-24"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-24/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-24/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-24/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "counts": {
+          "debateSectionCount": 19,
+          "divisionCount": 6,
+          "billCount": 1,
+          "contributorCount": 162,
+          "questionCount": 0
+        },
+        "date": "2025-09-24",
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_12",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ],
+              "debateType": "questions",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht – Questions on Policy or Legislation",
+              "bill": null,
+              "counts": {
+                "speechCount": 75,
+                "speakerCount": 22
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-24/debate/dbsect_12",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-11T03:10:58+00:00",
+        "house": {
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail"
+        }
+      },
+      "contextDate": "2025-09-24"
+    },
+    {
+      "contextDate": "2025-09-23",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 14,
+          "debateSectionCount": 30,
+          "contributorCount": 172,
+          "divisionCount": 1,
+          "billCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "statement",
+              "counts": {
+                "speechCount": 60,
+                "speakerCount": 51
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_11",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "showAs": "School Transport: Statements",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/dbsect_11"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-23/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:31+00:00",
+        "date": "2025-09-23",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-23/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-09-17",
+      "debateRecord": {
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "questionCount": 16,
+          "debateSectionCount": 17,
+          "contributorCount": 173,
+          "divisionCount": 1,
+          "billCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "motion",
+              "counts": {
+                "speechCount": 48,
+                "speakerCount": 38
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_15",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "showAs": "Special Education School Places: Motion [Private Members]",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/dbsect_15"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-09-17/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-11-26T03:19:32+00:00",
+        "date": "2025-09-17",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-09-17/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-07-16",
+      "debateRecord": {
+        "lastUpdated": "2025-07-24T03:07:10+01:00",
+        "debateType": "debate",
+        "date": "2025-07-16",
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-16/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 12,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-16/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-07-16/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Education and Youth",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "School Transport Scheme: Discussion",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-16/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 172
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_17",
+              "showAs": "Pride: Statements",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 36,
+                "speakerCount": 34
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-16/debate/dbsect_17",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateType": "statement",
+              "bill": null,
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "contributorCount": 170,
+          "debateSectionCount": 24,
+          "questionCount": 0,
+          "billCount": 8,
+          "divisionCount": 5
+        },
+        "date": "2025-07-16",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-16/debate/main",
+        "debateType": "debate",
+        "house": {
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-16/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-16/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-11-04T03:25:06+00:00"
+      },
+      "contextDate": "2025-07-16"
+    },
+    {
+      "contextDate": "2025-07-15",
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 1,
+          "questionCount": 48,
+          "debateSectionCount": 35,
+          "billCount": 1,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-15/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/mul@/main.xml"
+          }
+        },
+        "date": "2025-07-15",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 26,
+                "speechCount": 87
+              },
+              "debateType": "motion",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "showAs": "Endometriosis Care in Ireland: Motion [Private Members]",
+              "parentDebateSection": null,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/dbsect_15",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_15"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/main",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house"
+        },
+        "lastUpdated": "2025-10-15T03:09:40+01:00"
+      }
+    },
+    {
+      "contextDate": "2025-07-10",
+      "debateRecord": {
+        "lastUpdated": "2025-07-19T03:08:03+01:00",
+        "debateType": "debate",
+        "date": "2025-07-10",
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-10/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 14,
+          "debateSectionCount": 2,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-07-10/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Education and Youth",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "showAs": "Proposed Redesignation of Schools for Children with Mild General Learning Disabilities: Principals of Special Schools",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-10/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 96
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-02",
+      "debateRecord": {
+        "lastUpdated": "2025-07-10T04:13:31+01:00",
+        "debateType": "debate",
+        "date": "2025-07-02",
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-02/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 10,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-07-02/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Education and Youth",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "Education for Children with Special Educational Needs: Discussion",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-07-02/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 145
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-01",
+      "debateRecord": {
+        "lastUpdated": "2025-07-10T04:13:24+01:00",
+        "debateType": "debate",
+        "date": "2025-07-01",
+        "chamber": {
+          "showAs": "Joint Committee on Foreign Affairs and Trade",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_foreign_affairs_and_trade/2025-07-01/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 18,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_foreign_affairs_and_trade/2025-07-01/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_foreign_affairs_and_trade/2025-07-01/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Foreign Affairs and Trade",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_foreign_affairs_and_trade",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_foreign_affairs_and_trade"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of Israeli Settlements in the Occupied Palestinian Territory (Prohibition of Importation of Goods) Bill 2025",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_foreign_affairs_and_trade/2025-07-01/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 19,
+                "speechCount": 266
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-01",
+      "debateRecord": {
+        "debateType": "debate",
+        "lastUpdated": "2025-09-21T03:10:55+01:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-01/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-07-01",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "statement",
+              "showAs": "Review of Education for Persons with Special Educational Needs Act 2004: Statements",
+              "debateSectionId": "dbsect_14",
+              "parentDebateSection": null,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/dbsect_14",
+              "counts": {
+                "speakerCount": 35,
+                "speechCount": 39
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "counts": {
+          "debateSectionCount": 34,
+          "questionCount": 17,
+          "divisionCount": 1,
+          "billCount": 2,
+          "contributorCount": 165
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/main",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-07-01",
+      "debateRecord": {
+        "debateType": "debate",
+        "lastUpdated": "2025-09-21T03:10:55+01:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-01/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-07-01",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "motion",
+              "showAs": "GPO and Moore Street Regeneration as a 1916 Cultural Quarter: Motion [Private Members]",
+              "debateSectionId": "dbsect_15",
+              "parentDebateSection": null,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/dbsect_15",
+              "counts": {
+                "speakerCount": 35,
+                "speechCount": 87
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "house": {
+          "chamberType": "house",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "counts": {
+          "debateSectionCount": 34,
+          "questionCount": 17,
+          "divisionCount": 1,
+          "billCount": 2,
+          "contributorCount": 165
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-01/debate/main",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "counts": {
+          "contributorCount": 11,
+          "divisionCount": 0,
+          "billCount": 0,
+          "questionCount": 0,
+          "debateSectionCount": 1
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-24/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-24/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-24/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 140,
+                "speakerCount": 12
+              },
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-24/debate/dbsect_2",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Clár Oibre agus Tosaíochtaí Údarás na Gaeltachta: Plé",
+              "debateSectionId": "dbsect_2",
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "date": "2025-06-24",
+        "lastUpdated": "2025-07-01T14:26:31+01:00",
+        "house": {
+          "houseCode": "dail",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "chamberType": "committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "houseNo": "34"
+        }
+      },
+      "contextDate": "2025-06-24"
+    },
+    {
+      "contextDate": "2025-06-24",
+      "debateRecord": {
+        "house": {
+          "houseNo": "34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "billCount": 3,
+          "debateSectionCount": 35,
+          "contributorCount": 170,
+          "divisionCount": 1,
+          "questionCount": 35
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null,
+              "counts": {
+                "speakerCount": 34,
+                "speechCount": 38
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_17",
+              "debateType": "motion",
+              "parentDebateSection": null,
+              "showAs": "Presidential Voting Rights: Motion [Private Members]",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/dbsect_17"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/main",
+        "date": "2025-06-24",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-24/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-24/debate/mul@/main.xml"
+          }
+        },
+        "lastUpdated": "2025-10-04T03:15:32+01:00"
+      }
+    },
+    {
+      "contextDate": "2025-06-18",
+      "debateRecord": {
+        "lastUpdated": "2025-06-23T16:16:05+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_education_and_youth",
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 15,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-06-18/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 15,
+                "speechCount": 136
+              },
+              "bill": null,
+              "showAs": "Engagement with Minister for Education and Youth",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-06-18/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-06-18/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-18",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-06-18/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "debateSectionId": "dbsect_9",
+              "showAs": "Ending the Central Bank’s Facilitation of the Sale of Israel Bonds: Motion [Private Members]",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-11/debate/dbsect_9",
+              "debateType": "motion",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "counts": {
+                "speakerCount": 33,
+                "speechCount": 53
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "date": "2025-06-11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-11/debate/main",
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-11/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-11/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "billCount": 3,
+          "divisionCount": 8,
+          "questionCount": 0,
+          "contributorCount": 169,
+          "debateSectionCount": 19
+        },
+        "lastUpdated": "2025-09-20T03:11:05+01:00"
+      },
+      "contextDate": "2025-06-11"
+    },
+    {
+      "contextDate": "2025-06-10",
+      "debateRecord": {
+        "lastUpdated": "2025-06-16T12:45:31+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 1,
+          "contributorCount": 12,
+          "billCount": 0,
+          "debateSectionCount": 2
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_6",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-10/debate/dbsect_6",
+              "counts": {
+                "speakerCount": 7,
+                "speechCount": 66
+              },
+              "bill": null,
+              "showAs": "An Plean Náisiúnta um Sheirbhísí Poiblí Gaeilge 2024-2030: An Roinn Forbartha Pobail agus Tuaithe agus Gaeltachta",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-10/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-10",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-06-10/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-10",
+      "debateRecord": {
+        "lastUpdated": "2025-06-18T15:06:17+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_justice_home_affairs_and_migration",
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_justice_home_affairs_and_migration"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Justice, Home Affairs and Migration",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 13,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 184
+              },
+              "bill": null,
+              "showAs": "Policing Matters: An Garda Síochána",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-10",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_justice_home_affairs_and_migration/2025-06-10/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "showAs": "Housing: Statements",
+              "debateSectionId": "dbsect_15",
+              "counts": {
+                "speakerCount": 52,
+                "speechCount": 95
+              },
+              "debateType": "statement",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_15",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 45,
+          "contributorCount": 167,
+          "divisionCount": 1,
+          "billCount": 1,
+          "debateSectionCount": 32
+        },
+        "debateType": "debate",
+        "date": "2025-06-10",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-10/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:11+01:00"
+      },
+      "contextDate": "2025-06-10"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "showAs": "An tOrd Gnó - Order of Business",
+              "debateSectionId": "dbsect_3",
+              "counts": {
+                "speakerCount": 27,
+                "speechCount": 96
+              },
+              "debateType": "orderofBusiness",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_3",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 45,
+          "contributorCount": 167,
+          "divisionCount": 1,
+          "billCount": 1,
+          "debateSectionCount": 32
+        },
+        "debateType": "debate",
+        "date": "2025-06-10",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-10/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:11+01:00"
+      },
+      "contextDate": "2025-06-10"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-28/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "showAs": "Gaza: Motion",
+              "debateSectionId": "dbsect_9",
+              "counts": {
+                "speakerCount": 35,
+                "speechCount": 36
+              },
+              "debateType": "motion",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-28/debate/dbsect_9",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 172,
+          "divisionCount": 4,
+          "billCount": 7,
+          "debateSectionCount": 17
+        },
+        "debateType": "debate",
+        "date": "2025-05-28",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-28/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-28/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:31+01:00"
+      },
+      "contextDate": "2025-05-28"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "billCount": 0,
+          "questionCount": 0,
+          "contributorCount": 13,
+          "debateSectionCount": 1,
+          "divisionCount": 0
+        },
+        "lastUpdated": "2025-05-31T03:12:27+01:00",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge"
+        },
+        "debateType": "debate",
+        "house": {
+          "showAs": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+          "committeeCode": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge"
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-05-27/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-05-27/debate/mul@/main.pdf"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-05-27/debate/main",
+        "date": "2025-05-27",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 18
+              },
+              "showAs": "Gnó an Chomhchoiste",
+              "containsDebate": true,
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ],
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge/2025-05-27/debate/dbsect_2",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-27"
+    },
+    {
+      "contextDate": "2025-05-22",
+      "debateRecord": {
+        "lastUpdated": "2025-07-26T03:08:21+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/main",
+        "date": "2025-05-22",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "showAs": "Delivering a World-Class Education System: Statements",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_37",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_37",
+              "parentDebateSection": null,
+              "debateType": "statement",
+              "counts": {
+                "speechCount": 27,
+                "speakerCount": 20
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-22/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "debateSectionCount": 44,
+          "billCount": 2,
+          "questionCount": 28,
+          "divisionCount": 0,
+          "contributorCount": 127
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-05-21/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_education_and_youth/2025-05-21/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-05-21/debate/main",
+        "house": {
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Education and Youth",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_education_and_youth",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_education_and_youth"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_education_and_youth/2025-05-21/debate/dbsect_2",
+              "containsDebate": true,
+              "showAs": "Business of Joint Committee",
+              "bill": null,
+              "parentDebateSection": null,
+              "counts": {
+                "speechCount": 35,
+                "speakerCount": 13
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-26T09:08:10+01:00",
+        "date": "2025-05-21",
+        "counts": {
+          "questionCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 13
+        }
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "contextDate": "2025-05-21",
+      "debateRecord": {
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-21/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-21/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-21/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-21/debate/dbsect_18",
+              "containsDebate": true,
+              "showAs": "Gaza: Statements",
+              "debateSectionId": "dbsect_18",
+              "bill": null,
+              "debateType": "statement",
+              "counts": {
+                "speechCount": 96,
+                "speakerCount": 55
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              }
+            }
+          }
+        ],
+        "house": {
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-09-14T03:13:32+01:00",
+        "date": "2025-05-21",
+        "counts": {
+          "questionCount": 0,
+          "billCount": 5,
+          "divisionCount": 2,
+          "contributorCount": 167,
+          "debateSectionCount": 22
+        },
+        "debateType": "debate"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "showAs": "An tOrd Gnó - Order of Business",
+              "debateSectionId": "dbsect_3",
+              "counts": {
+                "speakerCount": 23,
+                "speechCount": 114
+              },
+              "debateType": "orderofBusiness",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_3",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 44,
+          "contributorCount": 172,
+          "divisionCount": 1,
+          "billCount": 2,
+          "debateSectionCount": 34
+        },
+        "debateType": "debate",
+        "date": "2025-05-20",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-20/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:22+01:00"
+      },
+      "contextDate": "2025-05-20"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "showAs": "Assessment of Need: Statements",
+              "debateSectionId": "dbsect_16",
+              "counts": {
+                "speakerCount": 56,
+                "speechCount": 79
+              },
+              "debateType": "statement",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/dbsect_16",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 44,
+          "contributorCount": 172,
+          "divisionCount": 1,
+          "billCount": 2,
+          "debateSectionCount": 34
+        },
+        "debateType": "debate",
+        "date": "2025-05-20",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-20/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:22+01:00"
+      },
+      "contextDate": "2025-05-20"
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/main",
+        "counts": {
+          "billCount": 0,
+          "contributorCount": 159,
+          "questionCount": 39,
+          "debateSectionCount": 33,
+          "divisionCount": 0
+        },
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-13/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-09-13T03:09:29+01:00",
+        "date": "2025-05-13",
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "showAs": "Housing and Critical Infrastructure: Motion [Private Members]",
+              "counts": {
+                "speakerCount": 37,
+                "speechCount": 38
+              },
+              "debateType": "motion",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/dbsect_11",
+              "bill": null,
+              "containsDebate": true,
+              "debateSectionId": "dbsect_11"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-13"
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/main",
+        "counts": {
+          "billCount": 0,
+          "contributorCount": 169,
+          "questionCount": 1,
+          "debateSectionCount": 18,
+          "divisionCount": 1
+        },
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-07/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-09-13T03:09:23+01:00",
+        "date": "2025-05-07",
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "showAs": "Europe Day: Statements",
+              "counts": {
+                "speakerCount": 31,
+                "speechCount": 63
+              },
+              "debateType": "statement",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/dbsect_14",
+              "bill": null,
+              "containsDebate": true,
+              "debateSectionId": "dbsect_14"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-07"
+    },
+    {
+      "contextDate": "2025-04-30",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-30/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-30/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-30/debate/main",
+        "lastUpdated": "2025-07-10T04:09:24+01:00",
+        "counts": {
+          "contributorCount": 168,
+          "debateSectionCount": 21,
+          "divisionCount": 7,
+          "billCount": 4,
+          "questionCount": 0
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "motion",
+              "debateSectionId": "dbsect_9",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-30/debate/dbsect_9",
+              "bill": null,
+              "counts": {
+                "speakerCount": 43,
+                "speechCount": 51
+              },
+              "parentDebateSection": null,
+              "showAs": "Special Education: Motion [Private Members]",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-04-30"
+      }
+    },
+    {
+      "contextDate": "2025-04-08",
+      "debateRecord": {
+        "date": "2025-04-08",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-08/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 27,
+          "questionCount": 48,
+          "billCount": 2,
+          "divisionCount": 1,
+          "contributorCount": 173
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_15",
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 8
+              },
+              "debateType": "question",
+              "showAs": "Special Educational Needs",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/dbsect_15",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/mul@/dbsect_15.xml"
+                }
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_13",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/dbsect_13",
+                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions"
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:36+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-03-20",
+      "debateRecord": {
+        "date": "2025-03-20",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-03-20/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-20/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 42,
+          "questionCount": 26,
+          "billCount": 2,
+          "divisionCount": 0,
+          "contributorCount": 131
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-20/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_32",
+              "counts": {
+                "speakerCount": 9,
+                "speechCount": 58
+              },
+              "debateType": "questions",
+              "showAs": "Ceisteanna ó Cheannairí - Leaders' Questions",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-20/debate/dbsect_32",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:42+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-03-05",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-03-05/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-05/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-05/debate/main",
+        "lastUpdated": "2025-07-10T04:12:17+01:00",
+        "counts": {
+          "contributorCount": 172,
+          "debateSectionCount": 14,
+          "divisionCount": 5,
+          "billCount": 1,
+          "questionCount": 0
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "debateSectionId": "dbsect_12",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-05/debate/dbsect_12",
+              "bill": null,
+              "counts": {
+                "speakerCount": 36,
+                "speechCount": 52
+              },
+              "parentDebateSection": null,
+              "showAs": "Seachtain na Gaeilge: Ráitis",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-03-05"
+      }
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "debateSectionCount": 29,
+          "contributorCount": 172,
+          "questionCount": 50,
+          "divisionCount": 1,
+          "billCount": 0
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-03-04",
+        "debateType": "debate",
+        "house": {
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 27,
+                "speechCount": 42
+              },
+              "debateType": "debate",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29"
+                  }
+                }
+              ],
+              "showAs": "Oideachas trí Mheán na Gaeilge: Tairiscint [Comhaltaí Príobháideacha]",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/dbsect_13",
+              "debateSectionId": "dbsect_13"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-03-04/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/mul@/main.xml"
+          }
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-04/debate/main",
+        "lastUpdated": "2025-09-19T03:09:03+01:00"
+      },
+      "contextDate": "2025-03-04"
+    },
+    {
+      "contextDate": "2025-02-25",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-25/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/main",
+        "lastUpdated": "2025-07-10T04:09:41+01:00",
+        "counts": {
+          "contributorCount": 172,
+          "debateSectionCount": 29,
+          "divisionCount": 1,
+          "billCount": 0,
+          "questionCount": 52
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "statement",
+              "debateSectionId": "dbsect_13",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/dbsect_13",
+              "bill": null,
+              "counts": {
+                "speakerCount": 43,
+                "speechCount": 46
+              },
+              "parentDebateSection": null,
+              "showAs": "Disability: Statements",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-02-25"
+      }
+    },
+    {
+      "contextDate": "2025-02-18",
+      "debateRecord": {
+        "date": "2025-02-18",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-18/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-18/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 17,
+          "questionCount": 23,
+          "billCount": 1,
+          "divisionCount": 1,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-18/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_16",
+              "counts": {
+                "speakerCount": 33,
+                "speechCount": 34
+              },
+              "debateType": "motion",
+              "showAs": "Provision of Special Education: Motion [Private Members]",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-18/debate/dbsect_16",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:23+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-02-11",
+      "debateRecord": {
+        "date": "2025-02-11",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-11/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-11/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 26,
+          "questionCount": 20,
+          "billCount": 0,
+          "divisionCount": 1,
+          "contributorCount": 169
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-11/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_9",
+              "counts": {
+                "speakerCount": 26,
+                "speechCount": 50
+              },
+              "debateType": "statement",
+              "showAs": "Programme for Government: Statements (Resumed)",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-11/debate/dbsect_9",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:05+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-02-05",
+      "debateRecord": {
+        "date": "2025-02-05",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-05/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-05/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 15,
+          "questionCount": 0,
+          "billCount": 0,
+          "divisionCount": 2,
+          "contributorCount": 173
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-05/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_19",
+              "counts": {
+                "speakerCount": 30,
+                "speechCount": 64
+              },
+              "debateType": "motion",
+              "showAs": "Situation in Palestine: Motion [Private Members]",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-05/debate/dbsect_19",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Shónagh-Ní-Raghallaigh.D.2024-11-29",
+                    "showAs": "Shónagh Ní Raghallaigh",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:21+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    }
+  ]
+}

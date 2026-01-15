@@ -1,0 +1,631 @@
+{
+  "head": {
+    "counts": {
+      "debateCount": 9,
+      "resultCount": 9
+    }
+  },
+  "results": [
+    {
+      "debateRecord": {
+        "date": "2025-05-22",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_children_and_equality/2025-05-22/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_children_and_equality/2025-05-22/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "divisionCount": 0,
+          "questionCount": 0,
+          "contributorCount": 8,
+          "debateSectionCount": 1
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Children and Equality"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_children_and_equality/2025-05-22/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                    "showAs": "Nikki Bradley",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "counts": {
+                "speechCount": 13,
+                "speakerCount": 8
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_children_and_equality/2025-05-22/debate/dbsect_2",
+              "showAs": "Business of Joint Committee",
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-23T09:31:18+01:00",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_children_and_equality",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Children and Equality",
+          "committeeCode": "joint_committee_on_children_and_equality"
+        }
+      },
+      "contextDate": "2025-05-22"
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "showAs": "27th Seanad",
+          "houseNo": "27",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "chamberType": "house"
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2025-05-21/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-05-23T02:50:06+01:00",
+        "date": "2025-05-21",
+        "debateType": "debate",
+        "counts": {
+          "debateSectionCount": 10,
+          "divisionCount": 1,
+          "contributorCount": 57,
+          "questionCount": 0,
+          "billCount": 1
+        },
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": {
+                "event": {
+                  "stage": "2",
+                  "houseCode": "seanad",
+                  "showAs": "Equality (Miscellaneous Provisions) Bill 2025: Second Stage (Seanad)",
+                  "isBillStage": true,
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/20/seanad/2"
+                },
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/20"
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/dbsect_11",
+              "containsDebate": true,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Nikki Bradley",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_11",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 12,
+                "speechCount": 23
+              },
+              "showAs": "Equality (Miscellaneous Provisions) Bill 2025: Second Stage",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "showAs": "27th Seanad",
+          "houseNo": "27",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "chamberType": "house"
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2025-05-21/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-05-23T02:50:06+01:00",
+        "date": "2025-05-21",
+        "debateType": "debate",
+        "counts": {
+          "debateSectionCount": 10,
+          "divisionCount": 1,
+          "contributorCount": 57,
+          "questionCount": 0,
+          "billCount": 1
+        },
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-05-21/debate/dbsect_8",
+              "containsDebate": true,
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Nikki Bradley",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_8",
+              "debateType": "orderofBusiness",
+              "counts": {
+                "speakerCount": 21,
+                "speechCount": 28
+              },
+              "showAs": "An tOrd Gnó - Order of Business",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "contextDate": "2025-03-05",
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 0,
+          "contributorCount": 54,
+          "debateSectionCount": 12,
+          "billCount": 0,
+          "questionCount": 0
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2025-03-05/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-05/debate/mul@/main.xml"
+          }
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-05/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 25,
+                "speakerCount": 22
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "showAs": "Nikki Bradley",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "orderofBusiness",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-05/debate/dbsect_10",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "bill": null,
+              "showAs": "An tOrd Gnó - Order of Business",
+              "debateSectionId": "dbsect_10"
+            }
+          }
+        ],
+        "date": "2025-03-05",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "27",
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "showAs": "27th Seanad"
+        },
+        "lastUpdated": "2025-03-22T02:50:22+00:00"
+      }
+    },
+    {
+      "contextDate": "2025-03-05",
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 0,
+          "contributorCount": 54,
+          "debateSectionCount": 12,
+          "billCount": 0,
+          "questionCount": 0
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2025-03-05/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-05/debate/mul@/main.xml"
+          }
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-05/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 59,
+                "speakerCount": 29
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "showAs": "Nikki Bradley",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "statement",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-05/debate/dbsect_12",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "bill": null,
+              "showAs": "International Women's Day - Women's Health: Statements",
+              "debateSectionId": "dbsect_12"
+            }
+          }
+        ],
+        "date": "2025-03-05",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "27",
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "showAs": "27th Seanad"
+        },
+        "lastUpdated": "2025-03-22T02:50:22+00:00"
+      }
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-04/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2025-03-04/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "debateType": "orderofBusiness",
+              "showAs": "An tOrd Gnó - Order of Business",
+              "containsDebate": true,
+              "counts": {
+                "speakerCount": 20,
+                "speechCount": 25
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-04/debate/dbsect_10",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Nikki Bradley",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_10"
+            }
+          }
+        ],
+        "counts": {
+          "billCount": 1,
+          "questionCount": 0,
+          "debateSectionCount": 12,
+          "divisionCount": 1,
+          "contributorCount": 45
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-03-04/debate/main",
+        "lastUpdated": "2025-07-10T04:13:19+01:00",
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "house": {
+          "houseNo": "27",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "houseCode": "seanad",
+          "chamberType": "house",
+          "showAs": "27th Seanad"
+        },
+        "date": "2025-03-04"
+      },
+      "contextDate": "2025-03-04"
+    },
+    {
+      "contextDate": "2025-02-12",
+      "debateRecord": {
+        "counts": {
+          "questionCount": 0,
+          "debateSectionCount": 9,
+          "contributorCount": 43,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "date": "2025-02-12",
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speechCount": 69,
+                "speakerCount": 44
+              },
+              "debateSectionId": "dbsect_7",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Nikki Bradley",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "parentDebateSection": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-12/debate/dbsect_7",
+              "showAs": "Cathaoirleach a Thoghadh - Election of Cathaoirleach",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true
+            }
+          }
+        ],
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-12/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2025-02-12/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2025-02-12/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "committeeCode": "",
+          "showAs": "27th Seanad",
+          "houseCode": "seanad",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/27",
+          "houseNo": "27"
+        },
+        "chamber": {
+          "showAs": "Seanad Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+        },
+        "lastUpdated": "2025-02-14T01:00:59+00:00"
+      }
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "counts": {
+          "billCount": 2,
+          "debateSectionCount": 10,
+          "divisionCount": 0,
+          "questionCount": 0,
+          "contributorCount": 26
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "orderofBusiness",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 25
+              },
+              "parentDebateSection": null,
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "role": null,
+                    "showAs": "Nikki Bradley"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-26/debate/dbsect_9",
+              "bill": null,
+              "debateSectionId": "dbsect_9",
+              "showAs": "An tOrd Gnó - Order of Business"
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-26/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2024-09-26/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-08-16T03:13:25+01:00",
+        "date": "2024-09-26",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-09-26/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-09-26"
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "counts": {
+          "billCount": 2,
+          "debateSectionCount": 15,
+          "divisionCount": 0,
+          "questionCount": 0,
+          "contributorCount": 29
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "orderofBusiness",
+              "counts": {
+                "speakerCount": 16,
+                "speechCount": 26
+              },
+              "parentDebateSection": null,
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Nikki-Bradley.S.2024-07-10",
+                    "memberCode": "Nikki-Bradley.S.2024-07-10",
+                    "role": null,
+                    "showAs": "Nikki Bradley"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-11/debate/dbsect_10",
+              "bill": null,
+              "debateSectionId": "dbsect_10",
+              "showAs": "An tOrd Gnó - Order of Business"
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-11/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/seanad/2024-07-11/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-08-16T03:13:21+01:00",
+        "date": "2024-07-11",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "seanad",
+          "houseNo": "26",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/26",
+          "showAs": "26th Seanad",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2024-07-11/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad",
+          "showAs": "Seanad Éireann"
+        }
+      },
+      "contextDate": "2024-07-11"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 1,
+      "resultCount": 1
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "148",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2021",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2021-11-17",
+            "debateSectionId": "dbsect_12",
+            "showAs": "Local Government (Maternity and Family Leave for Elected Members) Bill 2021: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-11-17/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-09"
+                },
+                {
+                  "date": "2021-11-09"
+                },
+                {
+                  "date": "2021-11-17"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/approved-for-initiation",
+              "showAs": "Approved for Initiation",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/approved-for-initiation"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2024-11-08"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2024-11-14T09:34:28.580000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Local Government Act 2001 by making further and better provision in respect of certain absences by a member of a local authority from meetings of the authority and, for that purpose, to provide that such a member may apply for and be granted maternity leave, adoptive leave or parental leave or force majeure leave as is appropriate in respect of any such absences and an application for such leave shall, in so far as is practicable, be in a manner similar to an application by a member of the staff of that local authority for leave of absence under the relevant provisions of the Maternity Protection Acts 1994 and 2004, the Adoptive Leave Acts 1995 and 2005 or the Parental Leave Acts 1998 to 2019, as appropriate; to amend section 18 of the Local Government Act 2001 in so far as it relates to deemed resignation from a local authority by a member of such an authority for non-attendance; and to provide for connected matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta Rialtais Áitiúil, 2001 trí shocrú breise agus feabhsaithe a dhéanamh i leith asláithreachtaí áirithe ag comhalta d’údarás áitiúil ó chruinnithe den údarás agus, chun na críche sin, do dhéanamh socrú go bhféadfaidh an comhalta sin iarratas a dhéanamh ar shaoire mháithreachais, saoire uchtaíoch nó saoire do thuismitheoirí nó saoire force majeure, agus go bhféadfar an tsaoire sin a dheonú dó nó di, de réir mar is cuí, i leith aon asláithreachtaí den sórt sin agus go mbeidh iarratas ar shaoire den sórt sin, a mhéid is indéanta, ar mhodh atá cosúil le hiarratas ar chead asláithreachta a dhéanfaidh comhalta d’fhoireann an údaráis áitiúil sin faoi fhorálacha iomchuí na nAchtanna um Chosaint Mháithreachais, 1994 agus 2004, na nAchtanna um Shaoire Uchtaíoch, 1995 agus 2005 nó na nAchtanna um Shaoire do Thuismitheoirí, 1998 go 2019, de réir mar is cuí; do leasú alt 18 den Acht Rialtais Áitiúil, 2001, a mhéid a bhaineann sé le héirí as údarás áitiúil ag comhalta den údarás sin a meastar gur éirí as mar gheall ar neamhfhreastal é; agus do dhéanamh socrú i dtaobh nithe comhghaolmhara.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2021-11-09"
+              },
+              {
+                "date": "2021-11-09"
+              },
+              {
+                "date": "2021-11-17"
+              },
+              {
+                "date": "2021-11-17"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "33",
+              "showAs": "33rd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2021-11-17",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/eng/memo/b14821d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Local Government (Maternity and Family Leave for Elected Members) Bill 2021",
+        "shortTitleGa": "An Bille Rialtais Áitiúil (Saoire Mháithreachais agus Saoire Theaghlaigh do Chomhaltaí Tofa), 2021",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Holly Cairns",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Holly-Cairns.D.2020-02-08"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2021-11-09"
+                },
+                {
+                  "date": "2021-11-09"
+                },
+                {
+                  "date": "2021-11-17"
+                },
+                {
+                  "date": "2021-11-17"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "33",
+                "showAs": "33rd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148",
+        "versions": [
+          {
+            "version": {
+              "date": "2021-11-17",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/eng/initiated/b14821d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2021/148/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 148,
+        "billShortTitleEnSort": "local-government-maternity-and-family-leave-for-elected-members-bill-2021",
+        "billShortTitleGaSort": "an-bille-rialtais-aitiuil-saoire-mhaithreachais-agus-saoire-theaghlaigh-do-chomhaltai-tofa-2021",
+        "billYearSort": 2021
+      },
+      "contextDate": "2021-11-17"
+    }
+  ]
+}

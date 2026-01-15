@@ -1,0 +1,1474 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 4,
+      "resultCount": 4
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "101",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2019",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2019-12-10",
+            "debateSectionId": "dbsect_4",
+            "showAs": "Insurance (Life Assurance and Life Insurance) (Amendment) Bill 2019: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-11-26"
+                },
+                {
+                  "date": "2019-12-10"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/admissibility-for-introduction",
+              "showAs": "Admissibility for Introduction",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/admissibility-for-introduction"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/bill-lapsed"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to prohibit insurers, insurance providers, brokers or other such undertakings from failing or refusing to make payments under life insurance or assurance policies, including death benefit, where the person insured dies by suicide.",
+        "longTitleGa": "Bille dá ngairtear Acht do thoirmeasc ar árachóirí, soláthraithe árachais, bróicéirí nó gnóthais eile den sórt sin mainneachtain íocaíochtaí faoi pholasaithe árachais saoil, lena n-áirítear sochar báis, a dhéanamh nó diúltú iad a dhéanamh, i gcás go bhfaighidh an duine árachaithe bás trí fhéinmharú.",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2019-11-26"
+              },
+              {
+                "date": "2019-12-10"
+              },
+              {
+                "date": "2019-12-10"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 1,
+            "showAs": "First Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/stage/dail/1"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2019-12-11",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/eng/memo/b10119dmemo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Insurance (Life Assurance and Life Insurance) (Amendment) Bill 2019",
+        "shortTitleGa": "An Bille Árachais (Árachas Saoil) (Leasú), 2019",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "James Browne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Browne.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2019-11-26"
+                },
+                {
+                  "date": "2019-12-10"
+                },
+                {
+                  "date": "2019-12-10"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/stage/dail/1"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101",
+        "versions": [
+          {
+            "version": {
+              "date": "2019-12-11",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/eng/initiated/b10119d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2019/101/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 101,
+        "billShortTitleEnSort": "insurance-life-assurance-and-life-insurance-amendment-bill-2019",
+        "billShortTitleGaSort": "an-bille-arachais-arachas-saoil-leasu-2019",
+        "billYearSort": 2019
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "131",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2017",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2019-02-07",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Equality (Miscellaneous Provisions)(No. 2) Bill 2017: Second Stage (Resumed) [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-02-07/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2019-01-31",
+            "debateSectionId": "dbsect_47",
+            "showAs": "Equality (Miscellaneous Provisions) (No. 2) Bill 2017: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-01-31/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-11-14",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Equality (Miscellaneous Provisions) (No. 2) Bill 2017: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-11-14/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2017-11-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Employment Equality Act 1998 and the Equal Status Act 2000 by prohibiting discrimination on the basis of a person's mental health status and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Chomhionannas Fostaíochta, 1998 agus an Achta um Stádas Comhionann, 2000 trí thoirmeasc a chur ar idirdhealú ar bhonn stádas meabhairshláinte duine agus chun socrú a dhéanamh i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2017-11-14"
+              },
+              {
+                "date": "2017-11-14"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2017-11-15",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/eng/memo/b13117d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Equality (Miscellaneous Provisions) (No.2) Bill 2017",
+        "shortTitleGa": "An Bille um Chomhionannas (Forálacha Ilghnéitheacha) (Uimh. 2), 2017",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "James Browne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Browne.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Jim O'Callaghan",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jim-O'Callaghan.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Fiona O'Loughlin",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Fiona-O'Loughlin.D.2016-10-03"
+              },
+              "isPrimary": false
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-11-14"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-11-14"
+                },
+                {
+                  "date": "2017-11-14"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131",
+        "versions": [
+          {
+            "version": {
+              "date": "2017-11-15",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/eng/initiated/b13117d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/131/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 131,
+        "billShortTitleEnSort": "equality-miscellaneous-provisions-no-2-bill-2017",
+        "billShortTitleGaSort": "an-bille-um-chomhionannas-foralacha-ilghneitheacha-uimh-2-2017",
+        "billYearSort": 2017
+      },
+      "contextDate": "2017-11-14"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "112",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2017",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-02",
+            "debateSectionId": "dbsect_32",
+            "showAs": "Mental Health Parity Bill 2017: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-02/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-02",
+            "debateSectionId": "dbsect_33",
+            "showAs": "Mental Health Parity Bill 2017: Referral to Select Committee [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-02/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-09-26",
+            "debateSectionId": "dbsect_4",
+            "showAs": "Mental Health Parity Bill 2017: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-09-26/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2020-01-14"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-lapsed",
+              "showAs": "Bill Lapsed",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/bill-lapsed"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2017-09-26"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/published"
+            }
+          }
+        ],
+        "lastUpdated": "2020-02-13T09:48:43.910000+00:00",
+        "longTitleEn": "Bill entitled an Act to place mental health on parity with physical health; to improve the provision of mental health services; to increase the quality of care for those in mental health services; and to provide for related matters",
+        "longTitleGa": "Bille dá ngairtear Acht do chur na meabhairshláinte ar cothroime leis an tsláinte coirp; d'fheabhsú soláthar seirbhísí meabhairshláinte; d'ardú cháilíocht an  chúraim do dhaoine atá i seirbhísí meabhairshláinte; agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2017-09-26"
+              },
+              {
+                "date": "2017-09-26"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "32",
+              "showAs": "32nd Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": null,
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2017-09-26",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/eng/memo/b11217d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Mental Health Parity Bill 2017",
+        "shortTitleGa": "An Bille um Chothroime Meabhair-Shláinte, 2017",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "James Browne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Browne.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-09-26"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-09-26"
+                },
+                {
+                  "date": "2017-09-26"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Lapsed",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/lapsed",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112",
+        "versions": [
+          {
+            "version": {
+              "date": "2017-09-26",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/eng/initiated/b11217d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/112/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 112,
+        "billShortTitleEnSort": "mental-health-parity-bill-2017",
+        "billShortTitleGaSort": "an-bille-um-chothroime-meabhair-shlainte-2017",
+        "billYearSort": 2017
+      },
+      "contextDate": "2017-09-26"
+    },
+    {
+      "bill": {
+        "act": {
+          "actNo": "10",
+          "actYear": "2018",
+          "dateSigned": "2018-07-02",
+          "longTitleEn": "Act to amend and extend the Mental Health Act 2001; to make further and better provision relating to the treatment of persons under the Mental Health Act 2001; to improve the provision of mental health services; to promote the rights of persons subject to the Mental Health Act 2001; and to provide for related matters.",
+          "longTitleGa": "Acht do leasú agus do leathnú an Achta Meabhair-Shláinte, 2001; do chorprú forálacha áirithe den Acht um Chinnteoireacht Chuidithe (Cumas), 2015 a bhaineann le cóireáil a chur ar othair faoin Acht Meabhair-Shláinte, 2001; d'fheabhsú soláthar seirbhísí meabhairshláinte; do dhéanamh cearta daoine atá faoi réir an Achta Meabhair-Shláinte, 2001 a chur chun cinn; agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+          "shortTitleEn": "Mental Health (Amendment) Act 2018",
+          "shortTitleGa": "An tAcht Meabhair-Shláinte (Leasú), 2018\n",
+          "statutebookURI": "http://www.irishstatutebook.ie/eli/2018/act/10",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/act/2018/10"
+        },
+        "amendmentLists": [
+          {
+            "amendmentList": {
+              "amendmentTypeUri": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/amendment-type/creamList"
+              },
+              "chamber": {
+                "showAs": "Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/seanad"
+              },
+              "date": "2018-05-21",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/seanad/6/amendment/creamList/eng/cl-b23b17d.pdf"
+                },
+                "xml": null
+              },
+              "showAs": "Cream List [Seanad amendments to Dáil Bill]",
+              "stage": {
+                "showAs": "Cream List",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/seanad/6"
+              },
+              "stageNo": "6"
+            }
+          },
+          {
+            "amendmentList": {
+              "amendmentTypeUri": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/amendment-type/numberedList"
+              },
+              "chamber": {
+                "showAs": "Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/seanad"
+              },
+              "date": "2018-05-16",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/seanad/4/amendment/numberedList/eng/b23b17d-srn.pdf"
+                },
+                "xml": null
+              },
+              "showAs": "Numbered List [Seanad]",
+              "stage": {
+                "showAs": "Report Stage",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/seanad/4"
+              },
+              "stageNo": "4"
+            }
+          },
+          {
+            "amendmentList": {
+              "amendmentTypeUri": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/amendment-type/numberedList"
+              },
+              "chamber": {
+                "showAs": "Dail",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/dail"
+              },
+              "date": "2017-07-12",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/dail/4/amendment/numberedList/eng/b2317-drn.pdf"
+                },
+                "xml": null
+              },
+              "showAs": "Numbered List [Dáil]",
+              "stage": {
+                "showAs": "Report Stage",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/dail/4"
+              },
+              "stageNo": "4"
+            }
+          },
+          {
+            "amendmentList": {
+              "amendmentTypeUri": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/amendment-type/numberedList"
+              },
+              "chamber": {
+                "showAs": "Dail",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/dail"
+              },
+              "date": "2017-06-20",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/dail/3/amendment/numberedList/eng/b2317d-dscn.pdf"
+                },
+                "xml": null
+              },
+              "showAs": "Numbered List [Dáil]",
+              "stage": {
+                "showAs": "Committee Stage",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/dail/3"
+              },
+              "stageNo": "3"
+            }
+          }
+        ],
+        "billNo": "23",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2017",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2018-05-31",
+            "debateSectionId": "dbsect_21",
+            "showAs": "Mental Health (Amendment) Bill 2017: From the Seanad",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2018-05-31/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2018-05-16",
+            "debateSectionId": "dbsect_11",
+            "showAs": "Mental Health (Amendment) Bill 2017: Report and Final Stages",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2018-05-16/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2018-02-14",
+            "debateSectionId": "dbsect_13",
+            "showAs": "Mental Health (Amendment) Bill 2017: Committee Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2018-02-14/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Seanad Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+            },
+            "date": "2017-10-11",
+            "debateSectionId": "dbsect_17",
+            "showAs": "Mental Health (Amendment) Bill 2017: Second Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/seanad/2017-10-11/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-07-14",
+            "debateSectionId": "dbsect_2",
+            "showAs": "Mental Health (Amendment) Bill 2017: Order for Report Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-07-14/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-07-14",
+            "debateSectionId": "dbsect_3",
+            "showAs": "Mental Health (Amendment) Bill 2017: Report and Final Stages",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-07-14/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Select Committee on Health",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+            },
+            "date": "2017-06-22",
+            "debateSectionId": "dbsect_2",
+            "showAs": "Mental Health (Amendment) (No.2) Bill 2017: Committee Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_health/2017-06-22/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-05-02",
+            "debateSectionId": "dbsect_32",
+            "showAs": "Mental Health (Amendment) (No. 2) Bill 2017: Second Stage [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-05-02/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-05-02",
+            "debateSectionId": "dbsect_33",
+            "showAs": "Mental Health (Amendment) (No. 2) Bill 2017: Referral to Select Committee [Private Members]",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-05-02/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2017-02-22",
+            "debateSectionId": "dbsect_5",
+            "showAs": "Mental Health (Amendment) (No. 2) Bill 2017: First Stage",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2017-02-22/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2018-07-02"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/enacted",
+              "showAs": "Enacted",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/enacted"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2017-02-22"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/published"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2018-07-02"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/enacted",
+              "showAs": "Enacted",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/enacted"
+            }
+          }
+        ],
+        "lastUpdated": "2019-08-06T12:33:15.750000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend and extend the Mental Health Act 2001; to make further and better provision relating to the treatment of persons under the Mental Health Act 2001; to improve the provision of mental health services; to promote the rights of persons subject to the Mental Health Act 2001; and to provide for related matters.",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú agus do leathnú an Achta Meabhair-Shláinte, 2001; do chorprú forálacha áirithe den Acht um Chinnteoireacht Chuidithe (Cumas), 2015 a bhaineann le cóireáil a chur ar othair faoin Acht Meabhair-Shláinte, 2001; d'fheabhsú soláthar seirbhísí meabhairshláinte; do dhéanamh cearta daoine atá faoi réir an Achta Meabhair-Shláinte, 2001 a chur chun cinn; agus do dhéanamh socrú i dtaobh nithe gaolmhara",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": null,
+            "dates": [
+              {
+                "date": "2018-07-02"
+              }
+            ],
+            "house": null,
+            "progressStage": 11,
+            "showAs": "Enacted",
+            "stageCompleted": true,
+            "stageOutcome": "Enacted",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/enacted",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/oireachtas/enacted"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2017-02-24",
+              "docType": "errata",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/errata/b2317d-erratumslip.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Erratum slip",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/errata"
+            }
+          }
+        ],
+        "shortTitleEn": "Mental Health (Amendment) Bill 2017",
+        "shortTitleGa": "An Bille Meabhair-Shláinte (Leasú), 2017",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "James Browne",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Browne.D.2016-10-03"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-02-22"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-02-22"
+                },
+                {
+                  "date": "2017-02-22"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/dail/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-05-02"
+                },
+                {
+                  "date": "2017-05-02"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 3,
+              "showAs": "Committee Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/dail/3"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-07-14"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 4,
+              "showAs": "Report Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/4",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/dail/4"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2017-07-14"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 5,
+              "showAs": "Fifth Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/5",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/dail/5"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2017-10-11"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 6,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/seanad/2"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2017-10-11"
+                },
+                {
+                  "date": "2017-10-11"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 7,
+              "showAs": "Committee Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/3",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/seanad/3"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2018-02-14"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 8,
+              "showAs": "Report Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/4",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/seanad/4"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "seanad",
+                "showAs": "Seanad Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/seanad"
+              },
+              "dates": [
+                {
+                  "date": "2018-05-16"
+                },
+                {
+                  "date": "2018-05-16"
+                }
+              ],
+              "house": {
+                "chamberCode": "seanad",
+                "chamberType": "house",
+                "houseCode": "seanad",
+                "houseNo": "25",
+                "showAs": "25th Seanad",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/seanad/25"
+              },
+              "progressStage": 9,
+              "showAs": "Fifth Stage",
+              "stageCompleted": true,
+              "stageOutcome": "Enacted",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/5",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/seanad/5"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2018-07-31"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "32",
+                "showAs": "32nd Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+              },
+              "progressStage": 10,
+              "showAs": "Cream List",
+              "stageCompleted": true,
+              "stageOutcome": "Enacted",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/6",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/dail/6"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2018-07-02"
+                }
+              ],
+              "house": null,
+              "progressStage": 11,
+              "showAs": "Enacted",
+              "stageCompleted": true,
+              "stageOutcome": "Enacted",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/enacted",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/stage/oireachtas/enacted"
+            }
+          }
+        ],
+        "status": "Enacted",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/enacted",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23",
+        "versions": [
+          {
+            "version": {
+              "date": "2018-07-02",
+              "docType": "act",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/act/2018/10/eng/enacted/a1018.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Mental Health (Amendment) Act 2018",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/act/2018/10/eng/enacted"
+            }
+          },
+          {
+            "version": {
+              "date": "2018-07-02",
+              "docType": "act",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/act/2018/10/gle/enacted/a1018i.pdf"
+                },
+                "xml": null
+              },
+              "lang": "gle",
+              "showAs": "An tAcht Meabhair-Shláinte (Leasú), 2018\n",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/act/2018/10/gle/enacted"
+            }
+          },
+          {
+            "version": {
+              "date": "2018-06-26",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/ver_c/b23c17d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As passed by both Houses of the Oireachtas",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/ver_c"
+            }
+          },
+          {
+            "version": {
+              "date": "2017-07-14",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/ver_b/b23b17d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As passed by Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/ver_b"
+            }
+          },
+          {
+            "version": {
+              "date": "2017-06-22",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/ver_a/b23a17d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As amended in Committee/Select Committee [Dáil Éireann]",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/ver_a"
+            }
+          },
+          {
+            "version": {
+              "date": "2017-02-23",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/initiated/b2317d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2017/23/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": 10,
+        "actShortTitleEnSort": "mental-health-amendment-act-2018",
+        "actShortTitleGaSort": "an-tacht-meabhair-shlainte-leasu-2018",
+        "actYearSort": 2018,
+        "billNoSort": 23,
+        "billShortTitleEnSort": "mental-health-amendment-bill-2017",
+        "billShortTitleGaSort": "an-bille-meabhair-shlainte-leasu-2017",
+        "billYearSort": 2017
+      },
+      "contextDate": "2018-07-02"
+    }
+  ]
+}

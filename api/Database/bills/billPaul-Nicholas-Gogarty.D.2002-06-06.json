@@ -1,0 +1,525 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 2,
+      "resultCount": 2
+    }
+  },
+  "results": [
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "42",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2004",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2004-11-30",
+            "debateSectionId": "dbsect_33",
+            "showAs": "Planning and Development (Amendment) (No. 2) Bill 2004: Second Stage.",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2004-11-30/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2004-10-13",
+            "debateSectionId": "dbsect_6",
+            "showAs": "Planning and Development (Amendment) (No. 2) Bill 2004: First Stage.",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2004-10-13/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2004-12-01"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-defeated",
+              "showAs": "Bill Defeated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/bill-defeated"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2004-10-13"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/published"
+            }
+          }
+        ],
+        "lastUpdated": "2018-09-06T08:25:56.260000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Planning and Development Act 2000 to make provision for a mandatory requirement to preserve and list public rights of way, including, in particular, rights of way which give access to the seashore, mountain, lakeshore, riverbank or other place of natural beauty or recreational utility",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Pleanáil agus Forbairt 2000 chun socrú a dhéanamh maidir le ceanglas sainordaitheach chun cearta slí poiblí a shlánchoimeád agus a liostú, lena n-áirítear, go háirithe, cearta slí a thugann bealach go dtí trá mhara, sliabh, bruach locha, bruach abhann nó go dtí áit eile a ngabhann áilleacht nádúrtha léi nó a úsáidtear le haghaidh áineasa",
+        "method": "Introduced",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/introduced",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2004-10-13"
+              },
+              {
+                "date": "2004-10-13"
+              },
+              {
+                "date": "2004-10-13"
+              },
+              {
+                "date": "2004-10-13"
+              },
+              {
+                "date": "2004-10-13"
+              },
+              {
+                "date": "2004-10-13"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "29",
+              "showAs": "29th Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": "Defeated",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [
+          {
+            "relatedDoc": {
+              "date": "2004-11-15",
+              "docType": "memo",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/eng/memo/b4204d-memo.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "Explanatory Memorandum",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/eng/memo"
+            }
+          }
+        ],
+        "shortTitleEn": "Planning and Development (Amendment) (No. 2) Bill 2004",
+        "shortTitleGa": "An Bille um Pleanáil agus Forbairt (Leasú) (Uimh. 2) 2004",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Nicholas Gogarty",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Nicholas-Gogarty.D.2002-06-06"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2004-10-13"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "29",
+                "showAs": "29th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2004-10-13"
+                },
+                {
+                  "date": "2004-10-13"
+                },
+                {
+                  "date": "2004-10-13"
+                },
+                {
+                  "date": "2004-10-13"
+                },
+                {
+                  "date": "2004-10-13"
+                },
+                {
+                  "date": "2004-10-13"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "29",
+                "showAs": "29th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": "Defeated",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Defeated",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/defeated",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42",
+        "versions": [
+          {
+            "version": {
+              "date": "2004-11-15",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/eng/initiated/b4204d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2004/42/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 42,
+        "billShortTitleEnSort": "planning-and-development-amendment-no-2-bill-2004",
+        "billShortTitleGaSort": "an-bille-um-pleanail-agus-forbairt-leasu-uimh-2-2004",
+        "billYearSort": 2004
+      },
+      "contextDate": "2004-10-13"
+    },
+    {
+      "bill": {
+        "act": null,
+        "amendmentLists": [],
+        "billNo": "26",
+        "billType": "Public",
+        "billTypeURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-type/public",
+        "billYear": "2003",
+        "debates": [
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2003-06-25",
+            "debateSectionId": "dbsect_70",
+            "showAs": "Private Members' Business. - Planning and Development (Amendment) Bill 2003: Second Stage (Resumed).",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2003-06-25/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2003-06-24",
+            "debateSectionId": "dbsect_15",
+            "showAs": "Private Members' Business. - Planning and Development (Amendment) Bill 2003: Order for Second Stage.",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2003-06-24/debate/main"
+          },
+          {
+            "chamber": {
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "date": "2003-06-24",
+            "debateSectionId": "dbsect_16",
+            "showAs": "Planning and Development (Amendment) Bill 2003: Second Stage.",
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2003-06-24/debate/main"
+          }
+        ],
+        "events": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2003-06-25"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/bill-defeated",
+              "showAs": "Bill Defeated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26/bill-defeated"
+            }
+          },
+          {
+            "event": {
+              "chamber": null,
+              "dates": [
+                {
+                  "date": "2003-06-20"
+                }
+              ],
+              "eventURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-event/published",
+              "showAs": "Published",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26/published"
+            }
+          }
+        ],
+        "lastUpdated": "2018-04-12T15:51:07.030000+00:00",
+        "longTitleEn": "Bill entitled an Act to amend the Planning and Development Act 2000 to introduce measures to discourage land speculation",
+        "longTitleGa": "Bille dá ngairtear Acht do leasú an Achta um Pleanáil agus Forbairt 2000 chun bearta a thabhairt isteach chun amhantraíocht i dtalamh a dhíspreagadh",
+        "method": "Presented",
+        "methodURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-method/presented",
+        "mostRecentStage": {
+          "event": {
+            "chamber": {
+              "chamberCode": "dail",
+              "showAs": "Dáil Éireann",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+            },
+            "dates": [
+              {
+                "date": "2003-06-24"
+              },
+              {
+                "date": "2003-06-24"
+              },
+              {
+                "date": "2003-06-24"
+              },
+              {
+                "date": "2003-06-24"
+              },
+              {
+                "date": "2003-06-24"
+              }
+            ],
+            "house": {
+              "chamberCode": "dail",
+              "chamberType": "house",
+              "houseCode": "dail",
+              "houseNo": "29",
+              "showAs": "29th Dáil",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29"
+            },
+            "progressStage": 2,
+            "showAs": "Second Stage",
+            "stageCompleted": true,
+            "stageOutcome": "Defeated",
+            "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26/stage/dail/2"
+          }
+        },
+        "originHouse": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "originHouseURI": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+        "relatedDocs": [],
+        "shortTitleEn": "Planning and Development (Amendment) Bill 2003",
+        "shortTitleGa": "An Bille um Pleanáil agus Forbairt (Leasú) 2003",
+        "source": "Private Member",
+        "sourceURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-source/private-member",
+        "sponsors": [
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "John Gormley",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/John-Gormley.D.1997-06-26"
+              },
+              "isPrimary": false
+            }
+          },
+          {
+            "sponsor": {
+              "as": {
+                "showAs": null,
+                "uri": null
+              },
+              "by": {
+                "showAs": "Paul Nicholas Gogarty",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Nicholas-Gogarty.D.2002-06-06"
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "stages": [
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2003-06-20"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "29",
+                "showAs": "29th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29"
+              },
+              "progressStage": 1,
+              "showAs": "First Stage",
+              "stageCompleted": true,
+              "stageOutcome": null,
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/1",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26/stage/dail/1"
+            }
+          },
+          {
+            "event": {
+              "chamber": {
+                "chamberCode": "dail",
+                "showAs": "Dáil Éireann",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+              },
+              "dates": [
+                {
+                  "date": "2003-06-24"
+                },
+                {
+                  "date": "2003-06-24"
+                },
+                {
+                  "date": "2003-06-24"
+                },
+                {
+                  "date": "2003-06-24"
+                },
+                {
+                  "date": "2003-06-24"
+                }
+              ],
+              "house": {
+                "chamberCode": "dail",
+                "chamberType": "house",
+                "houseCode": "dail",
+                "houseNo": "29",
+                "showAs": "29th Dáil",
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29"
+              },
+              "progressStage": 2,
+              "showAs": "Second Stage",
+              "stageCompleted": true,
+              "stageOutcome": "Defeated",
+              "stageURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-stage/2",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26/stage/dail/2"
+            }
+          }
+        ],
+        "status": "Defeated",
+        "statusURI": "https://data.oireachtas.ie/ie/oireachtas/def/bill-status/defeated",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26",
+        "versions": [
+          {
+            "version": {
+              "date": "2003-06-26",
+              "docType": "bill",
+              "formats": {
+                "pdf": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26/eng/initiated/b2603d.pdf"
+                },
+                "xml": null
+              },
+              "lang": "eng",
+              "showAs": "As Initiated",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2003/26/eng/initiated"
+            }
+          }
+        ]
+      },
+      "billSort": {
+        "actNoSort": null,
+        "actShortTitleEnSort": null,
+        "actShortTitleGaSort": null,
+        "actYearSort": null,
+        "billNoSort": 26,
+        "billShortTitleEnSort": "planning-and-development-amendment-bill-2003",
+        "billShortTitleGaSort": "an-bille-um-pleanail-agus-forbairt-leasu-2003",
+        "billYearSort": 2003
+      },
+      "contextDate": "2003-06-24"
+    }
+  ]
+}

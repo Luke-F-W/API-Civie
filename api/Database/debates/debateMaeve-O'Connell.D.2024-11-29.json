@@ -1,0 +1,3139 @@
+{
+  "head": {
+    "counts": {
+      "debateCount": 44,
+      "resultCount": 44
+    }
+  },
+  "results": [
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-10/debate/mul@/main.pdf"
+          }
+        },
+        "lastUpdated": "2025-12-17T03:10:54+00:00",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "debateType": "debate",
+        "date": "2025-12-10",
+        "house": {
+          "chamberType": "house",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "debateSectionCount": 24,
+          "billCount": 14,
+          "contributorCount": 165,
+          "divisionCount": 10,
+          "questionCount": 28
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/69",
+                "event": {
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/69/dail/2",
+                  "houseCode": "dail",
+                  "showAs": "Dog Welfare (Amendment) Bill 2025: Second Stage [Private Members] (Dáil)",
+                  "stage": "2",
+                  "isBillStage": true
+                }
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-10/debate/dbsect_8",
+              "containsDebate": true,
+              "debateType": "debate",
+              "showAs": "Dog Welfare (Amendment) Bill 2025: Second Stage [Private Members]",
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_8",
+              "counts": {
+                "speakerCount": 27,
+                "speechCount": 36
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-12-10"
+    },
+    {
+      "contextDate": "2025-12-03",
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateType": "debate",
+        "date": "2025-12-03",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-12-03/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-12-03/debate/dbsect_26",
+              "showAs": "National Training Fund (Amendment) Bill 2025: Report and Final Stages",
+              "debateType": "billReport",
+              "counts": {
+                "speechCount": 23,
+                "speakerCount": 7
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/58",
+                "event": {
+                  "houseCode": "dail",
+                  "stage": "4_sub",
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/58/dail/4_sub",
+                  "showAs": "National Training Fund (Amendment) Bill 2025: Report and Final Stages (Dáil)",
+                  "isBillStage": false
+                }
+              },
+              "parentDebateSection": null,
+              "containsDebate": true,
+              "debateSectionId": "dbsect_26",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "counts": {
+          "debateSectionCount": 35,
+          "contributorCount": 161,
+          "questionCount": 23,
+          "divisionCount": 8,
+          "billCount": 8
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "34"
+        },
+        "lastUpdated": "2025-12-12T03:11:58+00:00"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_defence_and_national_security",
+          "committeeCode": "select_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Select Committee on Defence and National Security"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Select Committee on Defence and National Security"
+        },
+        "counts": {
+          "debateSectionCount": 3,
+          "contributorCount": 5,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/dbsect_3",
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 5,
+                "speechCount": 36
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null,
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Vote 36 - Defence (Supplementary)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-22T03:15:02+00:00",
+        "date": "2025-11-20",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_defence_and_national_security/2025-11-20/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-20"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-11-19/debate/main",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science"
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science"
+        },
+        "counts": {
+          "debateSectionCount": 1,
+          "contributorCount": 9,
+          "billCount": 0,
+          "questionCount": 0,
+          "divisionCount": 0
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-11-19/debate/dbsect_2",
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 83
+              },
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null,
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "containsDebate": true,
+              "showAs": "Apprenticeships: Discussion (Resumed)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-11-26T09:30:32+00:00",
+        "date": "2025-11-19",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-11-19/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-11-19/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate"
+      },
+      "contextDate": "2025-11-19"
+    },
+    {
+      "contextDate": "2025-11-18",
+      "debateRecord": {
+        "lastUpdated": "2025-12-23T03:15:33+00:00",
+        "date": "2025-11-18",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/main",
+        "counts": {
+          "questionCount": 15,
+          "billCount": 0,
+          "contributorCount": 169,
+          "divisionCount": 2,
+          "debateSectionCount": 31
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-18/debate/mul@/main.pdf"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_22",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_22",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                }
+              },
+              "showAs": "Transport Policy",
+              "debateSectionId": "dbsect_29",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 2
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_29",
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_29.xml"
+                },
+                "pdf": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-11-18",
+      "debateRecord": {
+        "lastUpdated": "2025-12-23T03:15:33+00:00",
+        "date": "2025-11-18",
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "committeeCode": ""
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/main",
+        "counts": {
+          "questionCount": 15,
+          "billCount": 0,
+          "contributorCount": 169,
+          "divisionCount": 2,
+          "debateSectionCount": 31
+        },
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-18/debate/mul@/main.pdf"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_22",
+                "showAs": "Ceisteanna Eile - Other Questions",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_22",
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                }
+              },
+              "showAs": "Transport Policy",
+              "debateSectionId": "dbsect_32",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 9,
+                "speakerCount": 3
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/dbsect_32",
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-18/debate/mul@/dbsect_32.xml"
+                },
+                "pdf": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-11-13",
+      "debateRecord": {
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "date": "2025-11-13",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_34",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "bill": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "showAs": "Science Week: Statements",
+              "counts": {
+                "speechCount": 18,
+                "speakerCount": 18
+              },
+              "debateType": "statement",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/dbsect_34"
+            }
+          }
+        ],
+        "lastUpdated": "2025-12-13T03:09:44+00:00",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-13/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "counts": {
+          "questionCount": 25,
+          "debateSectionCount": 41,
+          "contributorCount": 135,
+          "divisionCount": 0,
+          "billCount": 2
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-13/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "debateSectionId": "dbsect_3",
+              "counts": {
+                "speechCount": 10,
+                "speakerCount": 5
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Ceisteanna ó na Comhaltaí Eile - Other Members’ Questions",
+              "debateType": "questions",
+              "bill": null,
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/dbsect_3"
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-11-12/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "counts": {
+          "contributorCount": 168,
+          "questionCount": 49,
+          "divisionCount": 1,
+          "billCount": 2,
+          "debateSectionCount": 34
+        },
+        "lastUpdated": "2025-12-24T03:56:05+00:00",
+        "date": "2025-11-12",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-11-12/debate/main",
+        "debateType": "debate",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        }
+      },
+      "contextDate": "2025-11-12"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/main",
+        "debateType": "debate",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil"
+        },
+        "counts": {
+          "divisionCount": 0,
+          "billCount": 5,
+          "contributorCount": 120,
+          "questionCount": 28,
+          "debateSectionCount": 46
+        },
+        "date": "2025-10-16",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-11-19T03:11:04+00:00",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-16/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-16/debate/dbsect_37",
+              "debateSectionId": "dbsect_37",
+              "counts": {
+                "speechCount": 22,
+                "speakerCount": 9
+              },
+              "parentDebateSection": null,
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "showAs": "National Training Fund (Amendment) Bill 2025: Second Stage",
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": {
+                "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/58",
+                "event": {
+                  "stage": "2",
+                  "showAs": "National Training Fund (Amendment) Bill 2025: Second Stage (Resumed) (Dáil)",
+                  "isBillStage": true,
+                  "uri": "https://data.oireachtas.ie/ie/oireachtas/bill/2025/58/dail/2",
+                  "houseCode": "dail"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-16"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-21T03:15:04+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-15/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Apprenticeships: Discussion (Resumed)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-15/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 89,
+                "speakerCount": 11
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-15/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-15",
+        "house": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 10,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-15"
+    },
+    {
+      "debateRecord": {
+        "counts": {
+          "contributorCount": 167,
+          "questionCount": 0,
+          "divisionCount": 4,
+          "billCount": 2,
+          "debateSectionCount": 21
+        },
+        "lastUpdated": "2025-11-25T03:14:22+00:00",
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-15/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/main",
+        "date": "2025-10-15",
+        "house": {
+          "houseNo": "34",
+          "showAs": "34th Dáil",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "counts": {
+                "speakerCount": 54,
+                "speechCount": 176
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_18",
+              "showAs": "Confidence in the Tánaiste and Minister for Foreign Affairs and Trade: Motion",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "role": null,
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "debateType": "motion",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-15/debate/dbsect_18"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-15"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-14T03:11:12+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-09/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Apprenticeships: Discussion (Resumed)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-09/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 104,
+                "speakerCount": 12
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-09/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-09",
+        "house": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 11,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-09"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Climate, Environment and Energy",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-11T03:07:44+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_climate_environment_and_energy/2025-10-08/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Climate Change Targets 2026-2030: Discussion (Resumed)",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_climate_environment_and_energy/2025-10-08/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 175,
+                "speakerCount": 9
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_climate_environment_and_energy/2025-10-08/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_climate_environment_and_energy/2025-10-08/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-08",
+        "house": {
+          "showAs": "Joint Committee on Climate, Environment and Energy",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_climate_environment_and_energy",
+          "committeeCode": "joint_committee_on_climate_environment_and_energy",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 8,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-08"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/main",
+        "debateType": "debate",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "chamberType": "house",
+          "showAs": "34th Dáil"
+        },
+        "counts": {
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 153,
+          "questionCount": 19,
+          "debateSectionCount": 20
+        },
+        "date": "2025-10-08",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-11-19T03:10:51+00:00",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-10-08/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/main.xml"
+          }
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_17",
+              "debateSectionId": "dbsect_17",
+              "counts": {
+                "speechCount": 5,
+                "speakerCount": 3
+              },
+              "parentDebateSection": {
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/dbsect_9",
+                "debateSectionId": "dbsect_9",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-10-08/debate/mul@/dbsect_17.xml"
+                }
+              },
+              "showAs": "Vacant Properties",
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "bill": null
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-10-08"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-22T11:30:43+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-10-02/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "National Maritime Security Strategy: Department of Defence",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-10-02/debate/dbsect_3",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_3",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 107,
+                "speakerCount": 7
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-10-02/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-10-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-02",
+        "house": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 2,
+          "questionCount": 0,
+          "contributorCount": 6,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-02"
+    },
+    {
+      "debateRecord": {
+        "chamber": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "lastUpdated": "2025-10-08T03:08:56+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-01/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "showAs": "Apprenticeships: Discussion",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-01/debate/dbsect_2",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "debateSectionId": "dbsect_2",
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 89,
+                "speakerCount": 11
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-01/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-10-01/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "date": "2025-10-01",
+        "house": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "counts": {
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0,
+          "contributorCount": 10,
+          "divisionCount": 0
+        }
+      },
+      "contextDate": "2025-10-01"
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-09-17/debate/main",
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-09-17/debate/dbsect_2",
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "containsDebate": true,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "parentDebateSection": null,
+              "showAs": "Student Accommodation: Discussion (Resumed)",
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 53
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-10-01T03:13:47+01:00",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-09-17/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-09-17/debate/mul@/main.xml"
+          }
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "chamberType": "committee",
+          "houseCode": "dail",
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science"
+        },
+        "date": "2025-09-17",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 10,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        }
+      },
+      "contextDate": "2025-09-17"
+    },
+    {
+      "contextDate": "2025-07-15",
+      "debateRecord": {
+        "counts": {
+          "divisionCount": 1,
+          "questionCount": 48,
+          "debateSectionCount": 35,
+          "billCount": 1,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "formats": {
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-15/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/mul@/main.xml"
+          }
+        },
+        "date": "2025-07-15",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "counts": {
+                "speakerCount": 27,
+                "speechCount": 163
+              },
+              "debateType": "orderofBusiness",
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "showAs": "An tOrd Gnó - Order of Business",
+              "parentDebateSection": null,
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/dbsect_3",
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3"
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-15/debate/main",
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "chamberType": "house"
+        },
+        "lastUpdated": "2025-10-15T03:09:40+01:00"
+      }
+    },
+    {
+      "contextDate": "2025-07-09",
+      "debateRecord": {
+        "lastUpdated": "2025-07-16T03:08:31+01:00",
+        "debateType": "debate",
+        "date": "2025-07-09",
+        "chamber": {
+          "showAs": "Select Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_further_and_higher_education_research_innovation_and_science/2025-07-09/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 10,
+          "debateSectionCount": 3,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_further_and_higher_education_research_innovation_and_science/2025-07-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_further_and_higher_education_research_innovation_and_science/2025-07-09/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Select Committee on Further and Higher Education, Research, Innovation and Science",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "select_committee_on_further_and_higher_education_research_innovation_and_science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_further_and_higher_education_research_innovation_and_science"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_3",
+              "showAs": "Vote 45 - Further and Higher Education, Research, Innovation and Science (Revised)",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_further_and_higher_education_research_innovation_and_science/2025-07-09/debate/dbsect_3",
+              "counts": {
+                "speakerCount": 10,
+                "speechCount": 94
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-09",
+      "debateRecord": {
+        "lastUpdated": "2025-07-15T03:09:06+01:00",
+        "debateType": "debate",
+        "date": "2025-07-09",
+        "chamber": {
+          "showAs": "Joint Committee on Transport",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_transport/2025-07-09/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 10,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_transport/2025-07-09/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_transport/2025-07-09/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Transport",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_transport",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_transport"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "Unmanned Aircraft Systems: Discussion",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_transport/2025-07-09/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 355
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil"
+        },
+        "lastUpdated": "2025-12-30T03:11:27+00:00",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-08/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/main.xml"
+          }
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_16",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_16",
+                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions"
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_21.xml"
+                }
+              },
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "showAs": "Third Level Education",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_21",
+              "debateSectionId": "dbsect_21",
+              "counts": {
+                "speechCount": 6,
+                "speakerCount": 2
+              },
+              "containsDebate": true
+            }
+          }
+        ],
+        "date": "2025-07-08",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/main",
+        "counts": {
+          "billCount": 1,
+          "debateSectionCount": 32,
+          "questionCount": 44,
+          "contributorCount": 173,
+          "divisionCount": 1
+        }
+      },
+      "contextDate": "2025-07-08"
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil"
+        },
+        "lastUpdated": "2025-12-30T03:11:27+00:00",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-08/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/main.xml"
+          }
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_22",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_22",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_25.xml"
+                }
+              },
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "showAs": "Third Level Fees",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_25",
+              "debateSectionId": "dbsect_25",
+              "counts": {
+                "speechCount": 12,
+                "speakerCount": 6
+              },
+              "containsDebate": true
+            }
+          }
+        ],
+        "date": "2025-07-08",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/main",
+        "counts": {
+          "billCount": 1,
+          "debateSectionCount": 32,
+          "questionCount": 44,
+          "contributorCount": 173,
+          "divisionCount": 1
+        }
+      },
+      "contextDate": "2025-07-08"
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "committeeCode": "",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil"
+        },
+        "lastUpdated": "2025-12-30T03:11:27+00:00",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-07-08/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/main.xml"
+          }
+        },
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_22",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_22",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/mul@/dbsect_27.xml"
+                }
+              },
+              "debateType": "question",
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "showAs": "Apprenticeship Programmes",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/dbsect_27",
+              "debateSectionId": "dbsect_27",
+              "counts": {
+                "speechCount": 7,
+                "speakerCount": 3
+              },
+              "containsDebate": true
+            }
+          }
+        ],
+        "date": "2025-07-08",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-07-08/debate/main",
+        "counts": {
+          "billCount": 1,
+          "debateSectionCount": 32,
+          "questionCount": 44,
+          "contributorCount": 173,
+          "divisionCount": 1
+        }
+      },
+      "contextDate": "2025-07-08"
+    },
+    {
+      "contextDate": "2025-07-03",
+      "debateRecord": {
+        "lastUpdated": "2025-07-12T03:07:53+01:00",
+        "debateType": "debate",
+        "date": "2025-07-03",
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 14,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025: Discussion (Resumed)",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-07-03/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 15,
+                "speechCount": 434
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "contextDate": "2025-07-02",
+      "debateRecord": {
+        "lastUpdated": "2025-07-10T04:13:34+01:00",
+        "debateType": "debate",
+        "date": "2025-07-02",
+        "chamber": {
+          "showAs": "Select Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/main",
+        "counts": {
+          "questionCount": 0,
+          "contributorCount": 8,
+          "debateSectionCount": 4,
+          "divisionCount": 0,
+          "billCount": 0
+        },
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/mul@/main.pdf"
+          }
+        },
+        "house": {
+          "showAs": "Select Committee on Defence and National Security",
+          "houseCode": "dail",
+          "chamberType": "committee",
+          "houseNo": "34",
+          "committeeCode": "select_committee_on_defence_and_national_security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_defence_and_national_security"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "debateSectionId": "dbsect_4",
+              "showAs": "Vote 36 - Defence (Revised)",
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/select_committee_on_defence_and_national_security/2025-07-02/debate/dbsect_4",
+              "counts": {
+                "speakerCount": 8,
+                "speechCount": 65
+              },
+              "parentDebateSection": null,
+              "debateType": "debate",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "chamberType": "committee",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "counts": {
+          "divisionCount": 0,
+          "contributorCount": 16,
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "questionCount": 0
+        },
+        "lastUpdated": "2025-07-03T12:05:48+01:00",
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "containsDebate": true,
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "debateType": "debate",
+              "parentDebateSection": null,
+              "debateSectionId": "dbsect_2",
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025 : Discussion (Resumed)",
+              "counts": {
+                "speakerCount": 17,
+                "speechCount": 322
+              },
+              "formats": {
+                "xml": null,
+                "pdf": null
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-26/debate/main",
+        "date": "2025-06-26"
+      },
+      "contextDate": "2025-06-26"
+    },
+    {
+      "debateRecord": {
+        "debateType": "debate",
+        "counts": {
+          "contributorCount": 11,
+          "divisionCount": 0,
+          "billCount": 0,
+          "questionCount": 0,
+          "debateSectionCount": 1
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-25/debate/main",
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-25/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-25/debate/mul@/main.pdf"
+          }
+        },
+        "chamber": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "counts": {
+                "speechCount": 107,
+                "speakerCount": 12
+              },
+              "bill": null,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-25/debate/dbsect_2",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "containsDebate": true,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "showAs": "Review of Action Plan for Apprenticeship 2021-2025: Discussion",
+              "debateSectionId": "dbsect_2",
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "date": "2025-06-25",
+        "lastUpdated": "2025-07-01T12:33:51+01:00",
+        "house": {
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "houseNo": "34"
+        }
+      },
+      "contextDate": "2025-06-25"
+    },
+    {
+      "contextDate": "2025-06-24",
+      "debateRecord": {
+        "lastUpdated": "2025-06-30T08:42:38+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 12,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 13,
+                "speechCount": 201
+              },
+              "bill": null,
+              "showAs": "Recent Air Corps Developments: Discussion",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-24",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-24/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-19",
+      "debateRecord": {
+        "lastUpdated": "2025-06-24T18:23:51+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Defence and National Security",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 13,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 14,
+                "speechCount": 307
+              },
+              "bill": null,
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025 : Discussion (Resumed)",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-19",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-06-19/debate/main"
+      }
+    },
+    {
+      "contextDate": "2025-06-11",
+      "debateRecord": {
+        "lastUpdated": "2025-06-16T13:44:05+01:00",
+        "house": {
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "committee",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "counts": {
+          "questionCount": 0,
+          "divisionCount": 0,
+          "contributorCount": 16,
+          "billCount": 0,
+          "debateSectionCount": 1
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_2",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-11/debate/dbsect_2",
+              "counts": {
+                "speakerCount": 16,
+                "speechCount": 115
+              },
+              "bill": null,
+              "showAs": "Engagement with Minister for Further and Higher Education, Research, Innovation and Science",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "containsDebate": true
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-11/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null,
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-11/debate/mul@/main.pdf"
+          }
+        },
+        "date": "2025-06-11",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-06-11/debate/main"
+      }
+    },
+    {
+      "debateRecord": {
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "parentDebateSection": null,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "containsDebate": true,
+              "showAs": "Housing: Statements",
+              "debateSectionId": "dbsect_15",
+              "counts": {
+                "speakerCount": 52,
+                "speechCount": 95
+              },
+              "debateType": "statement",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/dbsect_15",
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "questionCount": 45,
+          "contributorCount": 167,
+          "divisionCount": 1,
+          "billCount": 1,
+          "debateSectionCount": 32
+        },
+        "debateType": "debate",
+        "date": "2025-06-10",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "showAs": "34th Dáil",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-06-10/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-06-10/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-09-16T03:12:11+01:00"
+      },
+      "contextDate": "2025-06-10"
+    },
+    {
+      "contextDate": "2025-05-29",
+      "debateRecord": {
+        "debateType": "debate",
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "debate",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null,
+              "bill": null,
+              "showAs": "General Scheme of the Defence (Amendment) Bill 2025: Discussion",
+              "debateSectionId": "dbsect_2",
+              "counts": {
+                "speakerCount": 16,
+                "speechCount": 285
+              },
+              "formats": {
+                "pdf": null,
+                "xml": null
+              }
+            }
+          }
+        ],
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/main",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-29/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "lastUpdated": "2025-06-04T02:58:42+01:00",
+        "counts": {
+          "billCount": 0,
+          "divisionCount": 0,
+          "debateSectionCount": 1,
+          "contributorCount": 15,
+          "questionCount": 0
+        },
+        "house": {
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "chamberType": "committee",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Defence and National Security",
+          "houseCode": "dail"
+        },
+        "date": "2025-05-29"
+      }
+    },
+    {
+      "contextDate": "2025-05-22",
+      "debateRecord": {
+        "lastUpdated": "2025-07-26T03:08:21+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/main",
+        "date": "2025-05-22",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "showAs": "Further and Higher Education",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_14",
+              "formats": {
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/dbsect_14.xml"
+                },
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_14",
+              "parentDebateSection": {
+                "formats": {
+                  "xml": null,
+                  "pdf": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/dbsect_8",
+                "debateSectionId": "dbsect_8",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "debateType": "question",
+              "counts": {
+                "speechCount": 7,
+                "speakerCount": 3
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-22/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-22/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "debateSectionCount": 44,
+          "billCount": 2,
+          "questionCount": 28,
+          "divisionCount": 0,
+          "contributorCount": 127
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "formats": {
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-05-21/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-05-21/debate/mul@/main.pdf"
+          }
+        },
+        "debateType": "debate",
+        "chamber": {
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-05-21/debate/main",
+        "house": {
+          "chamberType": "committee",
+          "showAs": "Joint Committee on Further and Higher Education, Research, Innovation and Science",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_further_and_higher_education_research_innovation_and_science",
+          "houseNo": "34",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_further_and_higher_education_research_innovation_and_science"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "debateType": "debate",
+              "debateSectionId": "dbsect_2",
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_further_and_higher_education_research_innovation_and_science/2025-05-21/debate/dbsect_2",
+              "containsDebate": true,
+              "showAs": "Business of Joint Committee",
+              "bill": null,
+              "parentDebateSection": null,
+              "counts": {
+                "speechCount": 17,
+                "speakerCount": 12
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-05-24T02:40:45+01:00",
+        "date": "2025-05-21",
+        "counts": {
+          "questionCount": 0,
+          "debateSectionCount": 1,
+          "divisionCount": 0,
+          "billCount": 0,
+          "contributorCount": 12
+        }
+      },
+      "contextDate": "2025-05-21"
+    },
+    {
+      "contextDate": "2025-05-15",
+      "debateRecord": {
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "lastUpdated": "2025-05-17T02:52:23+01:00",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/committee",
+          "showAs": "Joint Committee on Defence and National Security"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/main",
+        "counts": {
+          "divisionCount": 0,
+          "questionCount": 0,
+          "billCount": 0,
+          "debateSectionCount": 1,
+          "contributorCount": 11
+        },
+        "date": "2025-05-15",
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/joint_committee_on_defence_and_national_security/2025-05-15/debate/dbsect_2",
+              "debateSectionId": "dbsect_2",
+              "parentDebateSection": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null,
+                    "showAs": "Maeve O'Connell"
+                  }
+                }
+              ],
+              "counts": {
+                "speakerCount": 11,
+                "speechCount": 19
+              },
+              "bill": null,
+              "containsDebate": true,
+              "debateType": "debate",
+              "showAs": "Business of Joint Committee"
+            }
+          }
+        ],
+        "debateType": "debate",
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_defence_and_national_security",
+          "houseCode": "dail",
+          "committeeCode": "joint_committee_on_defence_and_national_security",
+          "houseNo": "34",
+          "showAs": "Joint Committee on Defence and National Security",
+          "chamberType": "committee"
+        }
+      }
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/main",
+        "counts": {
+          "billCount": 0,
+          "contributorCount": 159,
+          "questionCount": 39,
+          "debateSectionCount": 33,
+          "divisionCount": 0
+        },
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-13/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-09-13T03:09:29+01:00",
+        "date": "2025-05-13",
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/dbsect_7",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_7"
+              },
+              "showAs": "Cabinet Committees",
+              "counts": {
+                "speakerCount": 45,
+                "speechCount": 65
+              },
+              "debateType": "question",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/mul@/dbsect_9.xml"
+                }
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-13/debate/dbsect_9",
+              "bill": null,
+              "containsDebate": true,
+              "debateSectionId": "dbsect_9"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-13"
+    },
+    {
+      "debateRecord": {
+        "house": {
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "committeeCode": "",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "houseNo": "34",
+          "chamberType": "house"
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/main",
+        "counts": {
+          "billCount": 0,
+          "contributorCount": 169,
+          "questionCount": 1,
+          "debateSectionCount": 18,
+          "divisionCount": 1
+        },
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-07/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/mul@/main.xml"
+          }
+        },
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "lastUpdated": "2025-09-13T03:09:23+01:00",
+        "date": "2025-05-07",
+        "debateSections": [
+          {
+            "debateSection": {
+              "speakers": [
+                {
+                  "speaker": {
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/dbsect_12",
+                "showAs": "Ceisteanna - Questions",
+                "debateSectionId": "dbsect_12"
+              },
+              "showAs": "Central Statistics Office",
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 6
+              },
+              "debateType": "question",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/mul@/dbsect_13.xml"
+                }
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-07/debate/dbsect_13",
+              "bill": null,
+              "containsDebate": true,
+              "debateSectionId": "dbsect_13"
+            }
+          }
+        ]
+      },
+      "contextDate": "2025-05-07"
+    },
+    {
+      "contextDate": "2025-05-01",
+      "debateRecord": {
+        "lastUpdated": "2025-07-26T03:08:02+01:00",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/main",
+        "date": "2025-05-01",
+        "debateSections": [
+          {
+            "debateSection": {
+              "bill": null,
+              "showAs": "Report of the Farrelly Commission: Statements",
+              "containsDebate": true,
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/dbsect_17",
+              "formats": {
+                "xml": null,
+                "pdf": null
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "role": null,
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29"
+                  }
+                }
+              ],
+              "debateSectionId": "dbsect_17",
+              "parentDebateSection": null,
+              "debateType": "questions",
+              "counts": {
+                "speechCount": 37,
+                "speakerCount": 13
+              }
+            }
+          }
+        ],
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-05-01/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-05-01/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "house": {
+          "chamberType": "house",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "committeeCode": "",
+          "houseCode": "dail"
+        },
+        "debateType": "debate",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "counts": {
+          "debateSectionCount": 45,
+          "billCount": 0,
+          "questionCount": 32,
+          "divisionCount": 0,
+          "contributorCount": 124
+        }
+      }
+    },
+    {
+      "contextDate": "2025-04-08",
+      "debateRecord": {
+        "date": "2025-04-08",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-04-08/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 27,
+          "questionCount": 48,
+          "billCount": 2,
+          "divisionCount": 1,
+          "contributorCount": 173
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_22",
+              "counts": {
+                "speakerCount": 5,
+                "speechCount": 23
+              },
+              "debateType": "question",
+              "showAs": "Schools Building Projects",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/dbsect_22",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/mul@/dbsect_22.xml"
+                }
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": {
+                "debateSectionId": "dbsect_18",
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-04-08/debate/dbsect_18",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              }
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:36+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-03-06",
+      "debateRecord": {
+        "formats": {
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-06/debate/mul@/main.xml"
+          },
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-03-06/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null
+        },
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "lastUpdated": "2025-08-25T03:02:11+01:00",
+        "date": "2025-03-06",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-06/debate/main",
+        "debateSections": [
+          {
+            "debateSection": {
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-03-06/debate/dbsect_34",
+              "bill": null,
+              "debateSectionId": "dbsect_34",
+              "parentDebateSection": null,
+              "showAs": "International Women's Day: Statements",
+              "containsDebate": true,
+              "counts": {
+                "speechCount": 24,
+                "speakerCount": 22
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "debateType": "statement"
+            }
+          }
+        ],
+        "counts": {
+          "debateSectionCount": 40,
+          "questionCount": 28,
+          "billCount": 0,
+          "contributorCount": 135,
+          "divisionCount": 0
+        },
+        "house": {
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseCode": "dail",
+          "houseNo": "34",
+          "chamberType": "house",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34"
+        },
+        "debateType": "debate"
+      }
+    },
+    {
+      "contextDate": "2025-02-25",
+      "debateRecord": {
+        "debateType": "debate",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-25/debate/mul@/main.pdf"
+          },
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/mul@/main.xml"
+          },
+          "writtens_pdf": null
+        },
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/main",
+        "lastUpdated": "2025-07-10T04:09:41+01:00",
+        "counts": {
+          "contributorCount": 172,
+          "debateSectionCount": 29,
+          "divisionCount": 1,
+          "billCount": 0,
+          "questionCount": 52
+        },
+        "house": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "chamberType": "house",
+          "committeeCode": "",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "houseCode": "dail"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateType": "question",
+              "debateSectionId": "dbsect_22",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/dbsect_22",
+              "bill": null,
+              "counts": {
+                "speakerCount": 2,
+                "speechCount": 6
+              },
+              "parentDebateSection": {
+                "formats": {
+                  "pdf": null,
+                  "xml": null
+                },
+                "debateSectionId": "dbsect_21",
+                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/dbsect_21",
+                "showAs": "Ceisteanna Eile - Other Questions"
+              },
+              "showAs": "Early Childhood Care and Education",
+              "formats": {
+                "pdf": null,
+                "xml": {
+                  "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-25/debate/mul@/dbsect_22.xml"
+                }
+              },
+              "speakers": [
+                {
+                  "speaker": {
+                    "showAs": "Maeve O'Connell",
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "role": null
+                  }
+                }
+              ],
+              "containsDebate": true
+            }
+          }
+        ],
+        "chamber": {
+          "showAs": "Dáil Éireann",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail"
+        },
+        "date": "2025-02-25"
+      }
+    },
+    {
+      "contextDate": "2025-02-19",
+      "debateRecord": {
+        "date": "2025-02-19",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-19/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-19/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 16,
+          "questionCount": 0,
+          "billCount": 2,
+          "divisionCount": 5,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-19/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_10",
+              "counts": {
+                "speakerCount": 21,
+                "speechCount": 55
+              },
+              "debateType": "questions",
+              "showAs": "Ceisteanna ar Pholasaí nó ar Reachtaíocht - Questions on Policy or Legislation",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-19/debate/dbsect_10",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:17+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-02-19",
+      "debateRecord": {
+        "date": "2025-02-19",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-19/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-19/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 16,
+          "questionCount": 0,
+          "billCount": 2,
+          "divisionCount": 5,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-19/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_13",
+              "counts": {
+                "speakerCount": 30,
+                "speechCount": 43
+              },
+              "debateType": "statement",
+              "showAs": "Maximising Artificial Intelligence: Statements",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-19/debate/dbsect_13",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:17+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    },
+    {
+      "contextDate": "2025-02-18",
+      "debateRecord": {
+        "date": "2025-02-18",
+        "formats": {
+          "pdf": {
+            "uri": "https://data.oireachtas.ie/ie/oireachtas/debateRecord/dail/2025-02-18/debate/mul@/main.pdf"
+          },
+          "writtens_pdf": null,
+          "xml": {
+            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-18/debate/mul@/main.xml"
+          }
+        },
+        "counts": {
+          "debateSectionCount": 17,
+          "questionCount": 23,
+          "billCount": 1,
+          "divisionCount": 1,
+          "contributorCount": 171
+        },
+        "debateType": "debate",
+        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-18/debate/main",
+        "chamber": {
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/def/house/dail",
+          "showAs": "Dáil Éireann"
+        },
+        "debateSections": [
+          {
+            "debateSection": {
+              "debateSectionId": "dbsect_15",
+              "counts": {
+                "speakerCount": 34,
+                "speechCount": 44
+              },
+              "debateType": "statement",
+              "showAs": "Mental Health: Statements",
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2025-02-18/debate/dbsect_15",
+              "containsDebate": true,
+              "formats": {
+                "pdf": null,
+                "xml": null
+              },
+              "bill": null,
+              "speakers": [
+                {
+                  "speaker": {
+                    "memberCode": "Maeve-O'Connell.D.2024-11-29",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maeve-O'Connell.D.2024-11-29",
+                    "showAs": "Maeve O'Connell",
+                    "role": null
+                  }
+                }
+              ],
+              "parentDebateSection": null
+            }
+          }
+        ],
+        "lastUpdated": "2025-09-12T03:17:23+01:00",
+        "house": {
+          "committeeCode": "",
+          "houseCode": "dail",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/34",
+          "showAs": "34th Dáil",
+          "houseNo": "34",
+          "chamberType": "house"
+        }
+      }
+    }
+  ]
+}
