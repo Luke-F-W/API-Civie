@@ -2,12 +2,12 @@ from flask import Flask, jsonify, abort, request, Response
 import os
 import json
 from datetime import datetime
-from MainArgs import parse_date, filter_objects
-from billgetter import api_bill
-from votegetter import api_vote
-from lobbygetter import api_lobby
-from debategetter import api_debate
-from questiongetter import api_question
+from api.MainArgs import parse_date, filter_objects
+from api.billgetter import api_bill
+from api.votegetter import api_vote
+from api.lobbygetter import api_lobby
+from api.debategetter import api_debate
+from api.questiongetter import api_question
 from pathlib import Path
 
 DATA_FOLDER = Path(
